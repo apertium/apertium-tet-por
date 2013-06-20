@@ -10,4 +10,10 @@
   <char value="&#183;">
     <equiv-char value="."/>
   </char>
+  <char value="é">
+    <equiv-char value="e"/>
+  </char>
+  <char value="ó">
+    <equiv-char value="o"/>
+  </char>
 </analysis-chars>
