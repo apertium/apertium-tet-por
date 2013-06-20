@@ -1,0 +1,4 @@
+* text=auto !eol
+/Makefile -text
+/apertium-tet-por.tet.acx -text
+/apertium-tet-por.tet.dix -text
