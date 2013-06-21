@@ -35,6 +35,7 @@
     <sdef n="cog"      c="Cognomen"/>
     <sdef n="itg"      c="Interrogative"/>
     <sdef n="pers"     c="Personal"/>
+    <sdef n="ref"      c="Reflexive"/>
     <sdef n="pos"      c="Possessive"/>
     <sdef n="dem"      c="Demonstrative"/>
     <sdef n="ind"      c="Indefinite"/>
@@ -303,6 +304,7 @@
 
     <pardef n="hán__vblex">
       <e><p><l></l><r><s n="vblex"/><s n="tv"/></r></p></e>
+      <e><p><l>-an</l><r><s n="vblex"/><s n="tv"/><j/>an<s n="prn"/><s n="ref"/></r></p></e>
     </pardef>
 
     <pardef n="hasoru__vblex">
@@ -1592,6 +1594,7 @@
     <e lm="hahú"><i>hahú</i><par n="hán__vblex"/></e>
     <e lm="hetan"><i>hetan</i><par n="hán__vblex"/></e>
     <e lm="evita"><i>evita</i><par n="hán__vblex"/></e>
+    <e lm="hadia"><i>hadia</i><par n="hán__vblex"/></e>
 
 
 
