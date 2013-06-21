@@ -1,53 +1,61 @@
 <dictionary>
   <alphabet>AÁBDEÉFGHIÍJKLMNÑOÓPRSTUÚVXZWQYCÃaábdeéfghiíjklmnñoóprstuúvxzwqycã</alphabet>
   <sdefs>
-    <sdef n="adj"        c=""/>
-    <sdef n="adv"        c=""/>
-    <sdef n="ant"        c=""/>
-    <sdef n="vbmod"        c=""/>
-    <sdef n="postadv"        c=""/>
-    <sdef n="cog"        c=""/>
-    <sdef n="itg"        c=""/>
-    <sdef n="caus"        c=""/>
-    <sdef n="cla"        c=""/>
-    <sdef n="cnjadv"        c=""/>
-    <sdef n="cnjsub"        c=""/>
-    <sdef n="cnjcoo"        c=""/>
-    <sdef n="det"        c=""/>
-    <sdef n="foc"        c=""/>
-    <sdef n="hon"        c=""/>
-    <sdef n="iv"        c=""/>
-    <sdef n="m"        c=""/>
-    <sdef n="f"        c=""/>
-    <sdef n="n"        c=""/>
-    <sdef n="np"        c=""/>
-    <sdef n="num"        c=""/>
-    <sdef n="p1"        c=""/>
-    <sdef n="p1n"        c=""/>
-    <sdef n="p1x"        c=""/>
-    <sdef n="p2"        c=""/>
-    <sdef n="p3"        c=""/>
-    <sdef n="pers"        c=""/>
-    <sdef n="pl"        c=""/>
-    <sdef n="pr"        c=""/>
-    <sdef n="prn"        c=""/>
-    <sdef n="rel"        c=""/>
-    <sdef n="sg"        c=""/>
-    <sdef n="pos"        c=""/>
-    <sdef n="TD"        c=""/>
-    <sdef n="tmp"        c=""/>
-    <sdef n="top"        c=""/>
-    <sdef n="tv"        c=""/>
-    <sdef n="vblex"        c=""/>
+    <sdef n="adj"      c="Adjective"/>
+    <sdef n="vblex"    c="Verb"/>
+    <sdef n="adv"      c="Adverb"/>
+    <sdef n="vbmod"    c="Modal verb"/>
+    <sdef n="postadv"  c="Postadverb"/>
+    <sdef n="cla"      c="Classifier"/>
+    <sdef n="cnjadv"   c="Adverbial conjunction"/>
+    <sdef n="cnjsub"   c="Subordinating conjunction"/>
+    <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+    <sdef n="det"      c="Determiner"/>
+    <sdef n="n"        c="Noun"/>
+    <sdef n="np"       c="Proper noun"/>
+    <sdef n="num"      c="Numeral"/>
+    <sdef n="foc"      c="Focus word"/>
+    <sdef n="pr"       c="Preposition"/>
+    <sdef n="prn"      c="Pronoun"/>
+    <sdef n="rel"      c="Relative"/>
+    <sdef n="tmp"      c="Temporal word"/>
 
-    <sdef n="cm"      c="Comma"/>
-    <sdef n="sent"    c="Sentence marker"/>
-    <sdef n="lpar"    c="Left parenthesis"/>
-    <sdef n="rpar"    c="Right parenthesis"/>
-    <sdef n="lquot"   c="Left quote"/>
-    <sdef n="rquot"   c="Right quote"/>
-    <sdef n="guio"    c="Hyphen"/>
-    <sdef n="apos"    c="Apostrophe"/>
+    <sdef n="iv"       c="Intransitive"/>
+    <sdef n="tv"       c="Transitive"/>
+    <sdef n="caus"     c="Causative"/>
+
+    <sdef n="pl"       c="Plural"/>
+    <sdef n="sg"       c="Singular"/>
+
+    <sdef n="m"        c="Masculine"/>
+    <sdef n="f"        c="Feminine"/>
+
+    <sdef n="ant"      c="Anthroponym"/>
+    <sdef n="cog"      c="Cognomen"/>
+    <sdef n="itg"      c="Interrogative"/>
+    <sdef n="pers"     c="Personal"/>
+    <sdef n="pos"      c="Possessive"/>
+    <sdef n="top"      c="Toponym"/>
+
+    @sdef n="caus"     c="Causative"/>
+    <sdef n="hon"      c="Honorific"/>
+
+    <sdef n="p1"       c="First person"/>
+    <sdef n="p1n"      c="First person (inclusive)"/>
+    <sdef n="p1x"      c="First person (exclusive)"/>
+    <sdef n="p2"       c="Second person"/>
+    <sdef n="p3"       c="Third person"/>
+
+    <sdef n="TD"       c=""/>
+
+    <sdef n="cm"       c="Comma"/>
+    <sdef n="sent"     c="Sentence marker"/>
+    <sdef n="lpar"     c="Left parenthesis"/>
+    <sdef n="rpar"     c="Right parenthesis"/>
+    <sdef n="lquot"    c="Left quote"/>
+    <sdef n="rquot"    c="Right quote"/>
+    <sdef n="guio"     c="Hyphen"/>
+    <sdef n="apos"     c="Apostrophe"/>
 
   </sdefs>
 
@@ -196,6 +204,16 @@
       <e><p><l></l><r><s n="n"/></r></p></e>
     </pardef>
 
+    <pardef n="film/i__n">
+      <e><p><l>i</l><r>i<s n="n"/></r></p></e>
+      <e r="LR"><p><l>e</l><r>i<s n="n"/></r></p></e>
+    </pardef>
+
+    <pardef n="restorant/e__n">
+      <e><p><l>e</l><r>e<s n="n"/></r></p></e>
+      <e r="LR"><p><l>i</l><r>e<s n="n"/></r></p></e>
+    </pardef>
+
     <!-- SECTION: Proper nouns -->
 
     <pardef n="Timór__np">
@@ -219,6 +237,16 @@
 
     <pardef n="bót__adj">
       <e><p><l></l><r><s n="adj"/></r></p></e>
+    </pardef>
+
+    <pardef n="important/e__adj">
+      <e><p><l>e</l><r>e<s n="adj"/></r></p></e>
+      <e r="LR"><p><l>i</l><r>e<s n="adj"/></r></p></e>
+    </pardef>
+
+    <pardef n="permanent/i__adj">
+      <e><p><l>i</l><r>i<s n="adj"/></r></p></e>
+      <e r="LR"><p><l>e</l><r>i<s n="adj"/></r></p></e>
     </pardef>
 
     <pardef n="espesializad/u__adj">
@@ -276,6 +304,15 @@
     <e lm="ona"><i>ona</i><par n="sei__tmp"/></e>
     <e lm="lai"><i>lai</i><par n="sei__tmp"/></e>
     <e lm="hela"><i>hela</i><par n="sei__tmp"/></e>
+    <e lm="tiha ona"><i>tiha<b/>ona</i><par n="sei__tmp"/></e>
+    <e lm="hotu"><i>hotu</i><par n="sei__tmp"/></e>
+    <e lm="foin"><i>foin</i><par n="sei__tmp"/></e>
+    <e lm="kedan"><i>kedan</i><par n="sei__tmp"/></e>
+    <e lm="kedas"><i>kedas</i><par n="sei__tmp"/></e>
+    <e lm="dadauk"><i>dadauk</i><par n="sei__tmp"/></e>
+    <e lm="dadaun"><i>dadaun</i><par n="sei__tmp"/></e>
+    <e lm="nafatin"><i>nafatin</i><par n="sei__tmp"/></e>
+    <e lm="seidauk"><i>seidauk</i><par n="sei__tmp"/></e>
 
     <!-- SECTION: Conjunctions -->
 
@@ -283,6 +320,8 @@
     <e lm="maibé"><i>maibé</i><par n="i__cnjcoo"/></e>
     <e lm="mais"><i>mais</i><par n="i__cnjcoo"/></e>
     <e lm="ou"><i>ou</i><par n="i__cnjcoo"/></e>
+    <e lm="no"><i>no</i><par n="i__cnjcoo"/></e>
+    <e lm="ho"><i>ho</i><par n="i__cnjcoo"/></e>
     <e lm="ka"><i>ka</i><par n="i__cnjcoo"/></e>
     <e lm="katak"><i>katak</i><par n="katak__cnjsub"/></e>
     <e lm="tanba"><i>tanba</i><par n="la'ós__cnjadv"/></e>
@@ -292,6 +331,17 @@
     <e lm="se"><i>se</i><par n="la'ós__cnjadv"/></e>
     <e lm="maski"><i>maski</i><par n="la'ós__cnjadv"/></e>
     <e lm="para"><i>para</i><par n="la'ós__cnjadv"/></e>
+    <e lm="kuanu"><i>kuanu</i><par n="la'ós__cnjadv"/></e>
+    <e lm="momentu"><i>momentu</i><par n="la'ós__cnjadv"/></e>
+    <e lm="porké"><i>porké</i><par n="la'ós__cnjadv"/></e>
+    <e lm="basaa"><i>basaa</i><par n="la'ós__cnjadv"/></e>
+    <e lm="komu"><i>komu</i><par n="la'ós__cnjadv"/></e>
+    <e lm="hodi"><i>hodi</i><par n="la'ós__cnjadv"/></e>
+    <e lm="biar"><i>biar</i><par n="la'ós__cnjadv"/></e>
+    <e lm="mezmu"><i>mezmu</i><par n="la'ós__cnjadv"/></e>
+    <e lm="mezmu ké"><i>mezmu<b/>ké</i><par n="la'ós__cnjadv"/></e>
+    <e lm="embora"><i>embora</i><par n="la'ós__cnjadv"/></e>
+
 
     <!-- SECTION: Classifiers -->
 
@@ -313,6 +363,8 @@
     <e lm="besik"><i>besik</i><par n="ba__pr"/></e>
     <e lm="ho"><i>ho</i><par n="ba__pr"/></e>
     <e lm="antes"><i>antes</i><par n="ba__pr"/></e>
+    <e lm="antes de"><i>antes<b/>de</i><par n="ba__pr"/></e>
+    <e lm="depois de"><i>depois<b/>de</i><par n="ba__pr"/></e>
     <e lm="molok"><i>molok</i><par n="ba__pr"/></e>
     <e lm="duranti"><i>duranti</i><par n="ba__pr"/></e>
     <e lm="dezde"><i>dezde</i><par n="ba__pr"/></e>
@@ -772,10 +824,32 @@
     <e lm="liña"><i>liña</i><par n="uma__n"/></e>
     <e lm="pobreza"><i>pobreza</i><par n="uma__n"/></e>
     <e lm="rendimentu"><i>rendimentu</i><par n="uma__n"/></e>
+    <e lm="filmi"><i>film</i><par n="film/i__n"/></e>
+    <e lm="parenti"><i>parent</i><par n="film/i__n"/></e>
+    <e lm="klienti"><i>klient</i><par n="film/i__n"/></e>
+    <e lm="krimi"><i>krim</i><par n="film/i__n"/></e>
+    <e lm="limiti"><i>limit</i><par n="film/i__n"/></e>
+    <e lm="pasaporti"><i>pasaport</i><par n="film/i__n"/></e>
+    <e lm="prezidenti"><i>prezident</i><par n="film/i__n"/></e>
+    <e lm="rezidenti"><i>rezident</i><par n="film/i__n"/></e>
+    <e lm="tanki"><i>tank</i><par n="film/i__n"/></e>
+    <e lm="partisipante"><i>partisipant</i><par n="restorant/e__n"/></e>
+    <e lm="restorante"><i>restorant</i><par n="restorant/e__n"/></e>
+    <e lm="milagre"><i>milagre</i><par n="uma__n"/></e>
 
 
+    <e lm="janeiru"><i>janeiru</i><par n="uma__n"/></e>
+    <e lm="fevreiru"><i>fevreiru</i><par n="uma__n"/></e>
+    <e lm="marsu"><i>marsu</i><par n="uma__n"/></e>
+    <e lm="abríl"><i>abríl</i><par n="uma__n"/></e>
+    <e lm="maiu"><i>maiu</i><par n="uma__n"/></e>
+    <e lm="juñu"><i>juñu</i><par n="uma__n"/></e>
     <e lm="jullu"><i>jullu</i><par n="uma__n"/></e>
     <e lm="agostu"><i>agostu</i><par n="uma__n"/></e>
+    <e lm="setembru"><i>setembru</i><par n="uma__n"/></e>
+    <e lm="outubru"><i>outubru</i><par n="uma__n"/></e>
+    <e lm="novembru"><i>novembru</i><par n="uma__n"/></e>
+    <e lm="dezembru"><i>dezembru</i><par n="uma__n"/></e>
 
 
 
@@ -909,8 +983,11 @@
     <e lm="difisil"><i>difisil</i><par n="bót__adj"/></e>
     <e lm="livre"><i>livre</i><par n="bót__adj"/></e>
     <e lm="nasionál"><i>nasionál</i><par n="bót__adj"/></e>
-    <e lm="importante"><i>importante</i><par n="bót__adj"/></e>
-    <e lm="independente"><i>independente</i><par n="bót__adj"/></e>
+    <e lm="importante"><i>important</i><par n="important/e__adj"/></e>
+    <e lm="independente"><i>independent</i><par n="important/e__adj"/></e>
+    <e lm="protestante"><i>protestant</i><par n="important/e__adj"/></e>
+    <e lm="permanenti"><i>permanent</i><par n="permanent/i__adj"/></e>
+    <e lm="inosenti"><i>inosent</i><par n="permanent/i__adj"/></e>
     <e lm="internasionál"><i>internasionál</i><par n="bót__adj"/></e>
     <e lm="koloniál"><i>koloniál</i><par n="bót__adj"/></e>
     <e lm="pós-koloniál"><i>pós-koloniál</i><par n="bót__adj"/></e>
@@ -1138,6 +1215,7 @@
     <e lm="tein"><i>tein</i><par n="hán__vblex"/></e>
     <e lm="tiru"><i>tiru</i><par n="hán__vblex"/></e>
     <e lm="aluga"><i>aluga</i><par n="hán__vblex"/></e>
+    <e lm="konvida"><i>konvida</i><par n="hán__vblex"/></e>
 
 
     <e lm="servisu"><i>servisu</i><par n="hasoru__vblex"/></e>
@@ -1157,6 +1235,7 @@
     <e lm="pinta"><i>pinta</i><par n="hasoru__vblex"/></e>
     <e lm="simu"><i>simu</i><par n="hasoru__vblex"/></e>
     <e lm="kompriende"><i>kompriende</i><par n="hasoru__vblex"/></e>
+    <e lm="finji"><i>finji</i><par n="hasoru__vblex"/></e>
 
   </section>
 
