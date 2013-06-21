@@ -16,4 +16,7 @@
   <char value="ó">
     <equiv-char value="o"/>
   </char>
+  <char value="í">
+    <equiv-char value="i"/>
+  </char>
 </analysis-chars>
