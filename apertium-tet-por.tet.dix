@@ -21,7 +21,8 @@
     <sdef n="prn"      c="Pronoun"/>
     <sdef n="rel"      c="Relative"/>
     <sdef n="ij"       c="Interjection"/>
-    <sdef n="tmp"      c="Temporal word"/>
+    <sdef n="preverb"  c="Pre-verbal"/>
+    <sdef n="postverb" c="Post-verbal"/>
 
     <sdef n="iv"       c="Intransitive"/>
     <sdef n="tv"       c="Transitive"/>
@@ -110,8 +111,12 @@
       <e><p><l></l><r><s n="cla"/></r></p></e>
     </pardef>
 
-    <pardef n="sei__tmp">
-      <e><p><l></l><r><s n="tmp"/></r></p></e>
+    <pardef n="lai__postverb">
+      <e><p><l></l><r><s n="postverb"/></r></p></e>
+    </pardef>
+
+    <pardef n="foin__preverb">
+      <e><p><l></l><r><s n="preverb"/></r></p></e>
     </pardef>
 
     <pardef n="liu__postadv">
@@ -339,20 +344,26 @@
     <e lm="mak"><i>mak</i><par n="mak__foc"/></e>
     <e lm="maka"><i>maka</i><par n="mak__foc"/></e>
 
-    <e lm="sei"><i>sei</i><par n="sei__tmp"/></e>
-    <e lm="tiha"><i>tiha</i><par n="sei__tmp"/></e>
-    <e lm="atu"><i>atu</i><par n="sei__tmp"/></e>
-    <e lm="ona"><i>ona</i><par n="sei__tmp"/></e>
-    <e lm="lai"><i>lai</i><par n="sei__tmp"/></e>
-    <e lm="hela"><i>hela</i><par n="sei__tmp"/></e>
-    <e lm="tiha ona"><i>tiha<b/>ona</i><par n="sei__tmp"/></e>
-    <e lm="hotu"><i>hotu</i><par n="sei__tmp"/></e>
-    <e lm="foin"><i>foin</i><par n="sei__tmp"/></e>
-    <e lm="kedan"><i>kedan</i><par n="sei__tmp"/></e>
-    <e lm="kedas"><i>kedas</i><par n="sei__tmp"/></e>
-    <e lm="dadauk"><i>dadauk</i><par n="sei__tmp"/></e>
-    <e lm="dadaun"><i>dadaun</i><par n="sei__tmp"/></e>
-    <e lm="seidauk"><i>seidauk</i><par n="sei__tmp"/></e>
+    <e lm="lai"><i>lai</i><par n="lai__postverb"/></e>
+    <e lm="hela"><i>hela</i><par n="lai__postverb"/></e>
+    <e lm="dadauk"><i>dadauk</i><par n="lai__postverb"/></e>
+    <e lm="dadauk" r="LR"><p><l>dadaun</l><r>dadauk</r></p><par n="lai__postverb"/></e>
+    <e lm="dadauk" r="LR"><p><l>daudaun</l><r>dadauk</r></p><par n="lai__postverb"/></e>
+    <e lm="hotu"><i>hotu</i><par n="lai__postverb"/></e>
+    <e lm="tiha ona"><i>tiha<b/>ona</i><par n="lai__postverb"/></e>
+    <e lm="tiha"><i>tiha</i><par n="lai__postverb"/></e>
+    <e lm="ona"><i>ona</i><par n="lai__postverb"/></e>
+    <e lm="keta"><i>keta</i><par n="lai__postverb"/></e>
+    <e lm="kedan" r="LR"><p><l>kedan</l><r>keta</r></p><par n="lai__postverb"/></e>
+    <e lm="kedas" r="LR"><p><l>kedas</l><r>keta</r></p><par n="lai__postverb"/></e>
+    <e lm="lalika"><i>lalika</i><par n="lai__postverb"/></e>
+    <e lm="lalika" r="LR"><p><l>lalikan</l><r>lalika</r></p><par n="lai__postverb"/></e>
+
+    <e lm="foin"><i>foin</i><par n="foin__preverb"/></e>
+    <e lm="atu"><i>atu</i><par n="foin__preverb"/></e>
+    <e lm="sei"><i>sei</i><par n="foin__preverb"/></e>
+    <e lm="seidauk"><i>seidauk</i><par n="foin__preverb"/></e>
+
 
     <!-- SECTION: Conjunctions -->
 
@@ -428,6 +439,7 @@
     <e lm="nia"><i>nia</i><par n="nia__det"/></e>
     <e lm="hau nia"><i>ita<b/>nia</i><par n="nia__det"/></e>
     <e lm="ita nia"><i>ita<b/>nia</i><par n="nia__det"/></e>
+    <e lm="ami nia"><i>ami<b/>nia</i><par n="nia__det"/></e>
 
     <e lm="sira"><i>sira</i><par n="sira__det"/></e>
     <e lm="né'e"><i>né'e</i><par n="né'e__det"/></e>
@@ -1855,6 +1867,8 @@
     <e lm="komemora"><i>komemora</i><par n="hán__vblex"/></e>
     <e lm="viola"><i>viola</i><par n="hán__vblex"/></e>
     <e lm="halimar"><i>halimar</i><par n="hán__vblex"/></e>
+    <e lm="hato'o"><i>hato'o</i><par n="hán__vblex"/></e>
+    <e lm="ezerse"><i>ezerse</i><par n="hán__vblex"/></e>
 
 
 

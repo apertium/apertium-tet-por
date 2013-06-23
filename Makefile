@@ -5,6 +5,7 @@ all:
 	lt-comp rl apertium-tet-por.tet-por.dix por-tet.autobil.bin
 	cg-comp apertium-tet-por.tet-por.rlx tet-por.rlx.bin
 	lrx-comp apertium-tet-por.tet-por.lrx tet-por.autolex.bin
+	lt-comp lr apertium-tet-por.post-por.dix tet-por.autopgen.bin
 	apertium-preprocess-transfer apertium-tet-por.tet-por.t1x tet-por.t1x.bin
 	apertium-preprocess-transfer apertium-tet-por.tet-por.t2x tet-por.t2x.bin
 	apertium-preprocess-transfer apertium-tet-por.tet-por.t3x tet-por.t3x.bin

@@ -4,12 +4,15 @@ SOFT-DELIMITERS = "<,>" ;
 SETS
 
 LIST N = n ; 
+LIST V = vblex ; 
 LIST A = adj ; 
 LIST Det = det ; 
 LIST Adv = adv ; 
 LIST Pron = prn ; 
 LIST Exist = vbhaver ; 
 LIST Vbmod = vbmod ;
+LIST Postverb = postverb ;
+LIST Preverb = preverb ;
 
 SECTION
 
@@ -21,3 +24,4 @@ SECTION
 
 SELECT A IF (-1C N);
 
+SELECT V IF (-1C Preverb) (0C V OR N);

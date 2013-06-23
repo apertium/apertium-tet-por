@@ -78,7 +78,7 @@
 
     <e><p><l>hodi<s n="cnjadv"/></l><r>para<b/>que<s n="cnjadv"/></r></p></e>
     <e><p><l>katak<s n="cnjsub"/></l><r>que<s n="cnjsub"/></r></p></e>
-    <e><p><l>la'ós<s n="cnjadv"/></l><r>@la'ós<s n="cnjadv"/></r></p></e>
+    <e><p><l>la'ós<s n="cnjadv"/></l><r>não<s n="adv"/></r></p></e>
     <e><p><l>tanba<s n="cnjadv"/></l><r>porque<s n="cnjadv"/></r></p></e>
     <e><p><l>portantu<s n="cnjadv"/></l><r>portanto<s n="cnjadv"/></r></p></e>
     <e><p><l>bain-hira<s n="cnjadv"/></l><r>quando<s n="rel"/><s n="adv"/></r></p></e>
@@ -92,7 +92,7 @@
     <e><p><l>hosi<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
     <e><p><l>ho<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
     <e><p><l>kona-ba<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-    <e><p><l>tuir<s n="pr"/></l><r>conforme<s n="pr"/></r></p></e>
+    <e><p><l>tuir<s n="pr"/></l><r>conforme<s n="adv"/></r></p></e>
 
     <!-- SECTION: Determiners -->
 
@@ -101,6 +101,7 @@
     <e><p><l>hotu<s n="det"/><s n="qnt"/></l><r>todo<s n="predet"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <e><p><l>ita<b/>nia<s n="det"/><s n="pos"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>ami<b/>nia<s n="det"/><s n="pos"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <!-- SECTION: Pronouns -->
 
@@ -120,14 +121,14 @@
     <!-- SECTION: Nouns -->
 
     <e><p><l>uma<s n="n"/></l><r>casa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-    <e><p><l>asaun<s n="n"/></l><r>acção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>asaun<s n="n"/></l><r>ação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>atensaun<s n="n"/></l><r>atenção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>atribuisaun<s n="n"/></l><r>atribuição<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>dalan<s n="n"/></l><r>rua<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-    <e><p><l>direitu<s n="n"/></l><r>direitu<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>direitu<s n="n"/></l><r>direito<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>diskursu<s n="n"/></l><r>discurso<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>edukasaun<s n="n"/></l><r>educação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-    <e><p><l>empregu<s n="n"/></l><r>empregu<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>empregu<s n="n"/></l><r>emprego<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>eskola<s n="n"/></l><r>escola<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>estadu<s n="n"/></l><r>estado<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>forma<s n="n"/></l><r>forma<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -142,7 +143,7 @@
     <e><p><l>jardín<s n="n"/></l><r>jardim<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>juñu<s n="n"/></l><r>junho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>manu-tolun<s n="n"/></l><r>ovo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-    <e><p><l>kámara<s n="n"/></l><r>câmara<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>kámara<s n="n"/></l><r>câmera<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>kestaun<s n="n"/></l><r>questão<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>kna'ar<s n="n"/></l><r>trabalho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>komemorasaun<s n="n"/></l><r>comemoração<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -161,7 +162,7 @@
     <e><p><l>matéria<s n="n"/></l><r>matéria<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>oportunidade<s n="n"/></l><r>oportunidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>orsamentu<s n="n"/></l><r>orçamento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-    <e><p><l>pamfletu<s n="n"/></l><r>@pamfletu<s n="n"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>pamfletu<s n="n"/></l><r>panfleto<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>parlamentu<s n="n"/></l><r>parlamento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>prezidenti<s n="n"/></l><r>presidente<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>públiku<s n="n"/></l><r>@públiku<s n="n"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -174,7 +175,7 @@
     <e><p><l>relatóriu<s n="n"/></l><r>relatório<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>sekretáriu<s n="n"/></l><r>secretário<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>servisu<s n="n"/></l><r>trabalho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-    <e><p><l>setór<s n="n"/></l><r>sector<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>setór<s n="n"/></l><r>setor<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>sindikatu<s n="n"/></l><r>sindicato<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>tema<s n="n"/></l><r>tema<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>tempu<s n="n"/></l><r>tempo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -187,18 +188,18 @@
 
     <e><p><l>Timór-Leste<s n="np"/><s n="top"/></l><r>Timor-Leste<s n="np"/><s n="top"/></r></p></e>
 
-    <e><p><l>Adalgiza<s n="np"/><s n="ant"/><s n="f"/></l><r>Adalgisa<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Adalgiza<s n="np"/><s n="ant"/><s n="f"/></l><r>Adalgiza<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Augostinho<s n="np"/><s n="ant"/><s n="m"/></l><r>Agostinho<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>CCI-TL<s n="np"/><s n="org"/></l><r>CCI-TL<s n="np"/><s n="org"/></r></p></e>
-    <e><p><l>da<b/>Costa<s n="np"/><s n="cog"/></l><r>da<b/>Costa<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>da<b/>Costa<s n="np"/><s n="cog"/></l><r>da<b/>Costa<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Dili<s n="np"/><s n="top"/></l><r>Díli<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Ilidio<s n="np"/><s n="ant"/><s n="m"/></l><r>Ilídio<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>ILO<s n="np"/><s n="org"/></l><r>ILO<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>KSTL<s n="np"/><s n="org"/></l><r>CSTL<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>RDTL<s n="np"/><s n="org"/></l><r>RDTL<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>SEPFOPE<s n="np"/><s n="org"/></l><r>SEPFOPE<s n="np"/><s n="org"/></r></p></e>
-    <e><p><l>Soares<s n="np"/><s n="cog"/></l><r>Soares<s n="np"/><s n="cog"/></r></p></e>
-    <e><p><l>Ximenes<s n="np"/><s n="cog"/></l><r>Ximenes<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Soares<s n="np"/><s n="cog"/></l><r>Soares<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Ximenes<s n="np"/><s n="cog"/></l><r>Ximenes<s n="np"/><s n="ant"/></r></p></e>
 
 
     <!-- SECTION: Adjectives -->
@@ -226,6 +227,7 @@
 
     <e><p><l>oinsá<s n="adv"/></l><r>@oinsá<s n="adv"/></r></p></e>
 
+    <e><p><l>liu<s n="postadv"/></l><r>mais<s n="adv"/></r></p></e>
     <e><p><l>agora<s n="adv"/></l><r>agora<s n="adv"/></r></p></e>
     <e><p><l>de'it<s n="adv"/></l><r>só<s n="adv"/></r></p></e>
     <e><p><l>ekonomikamente<s n="adv"/></l><r>economicamente<s n="adv"/></r></p></e>
@@ -241,7 +243,7 @@
 
     <e><p><l>iha<s n="vbhaver"/></l><r>ter<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e><p><l>bele<s n="vbmod"/></l><r>poder<s n="vbmod"/></r></p></e>
-    <e><p><l>tenke<s n="vbmod"/></l><r>ter<g><b/>que</g><s n="vbmod"/></r></p></e>
+    <e><p><l>tenke<s n="vbmod"/></l><r>ter<g><b/>de</g><s n="vblex"/></r></p></e>
 
     <e><p><l>sai<s n="vblex"/><s n="iv"/></l><r>sair<s n="vblex"/></r></p></e>
     <e><p><l>ajuda<s n="vblex"/><s n="tv"/></l><r>ajudar<s n="vblex"/></r></p></e>
@@ -277,6 +279,8 @@
     <e><p><l>halimar<s n="vblex"/><s n="tv"/></l><r>brincar<s n="vblex"/></r></p></e>
     <e><p><l>halimar<s n="vblex"/><s n="tv"/></l><r>jogar<s n="vblex"/></r></p></e>
     <e><p><l>haré<s n="vblex"/><s n="tv"/></l><r>ver<s n="vblex"/></r></p></e>
+    <e><p><l>hato'o<s n="vblex"/><s n="tv"/></l><r>contar<s n="vblex"/></r></p></e>
+    <e><p><l>ezerse<s n="vblex"/><s n="tv"/></l><r>exercer<s n="vblex"/></r></p></e>
 
 
 

@@ -1,5 +1,7 @@
 * text=auto !eol
 /Makefile -text
+/apertium-tet-por.por.dix -text
+/apertium-tet-por.post-por.dix -text
 /apertium-tet-por.tet-por.dix -text
 /apertium-tet-por.tet-por.lrx -text
 /apertium-tet-por.tet-por.rlx -text
