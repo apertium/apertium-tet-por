@@ -7,6 +7,7 @@ LIST N = n ;
 LIST V = vblex ; 
 LIST A = adj ; 
 LIST Det = det ; 
+LIST Conj = cnjadv cnjsub ; 
 LIST Adv = adv ; 
 LIST Pron = prn ; 
 LIST Exist = vbhaver ; 
@@ -28,7 +29,11 @@ SECTION
 
 "<sira>" SELECT Pron IF (-1 Pr) (1 Preverb);
 
+SELECT Pron IF (-1 Conj) (0 ("ida né'e"));
+
 SELECT Pron IF (-1 Cm) (0 ("né'e")) (1 V);
+
+SELECT Pron IF (-1 Pr OR V) (0 ("né'e")) (1 Pr);
 
 SELECT A IF (-1C N);
 
@@ -36,3 +41,9 @@ SELECT V IF (-1C Preverb) (0C V OR N);
 
 SELECT V IF (-1C Pron) (0C V OR N);
 
+
+SECTION
+
+#ADD (JJ) TARGET ("\\*.*"r) (-1C N);
+#ADD (NN) TARGET ("\\*.*"r)  (0 ("<.*saun>"));
+ADD (VV) TARGET ("\\*.*"r) (-1C Preverb);

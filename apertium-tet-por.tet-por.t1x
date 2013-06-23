@@ -2,8 +2,9 @@
 <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
-    <def-cat n="prn-dem">
+    <def-cat n="prn-p3">
       <cat-item tags="prn.dem"/>
+      <cat-item tags="prn.itg"/>
     </def-cat>
     <def-cat n="prn-pers">
       <cat-item tags="prn.pers.*"/>
@@ -22,6 +23,9 @@
     </def-cat>
     <def-cat n="adv">
       <cat-item tags="adv"/>
+    </def-cat>
+    <def-cat n="foc">
+      <cat-item tags="foc"/>
     </def-cat>
     <def-cat n="preverb">
       <cat-item tags="preverb"/>
@@ -416,11 +420,14 @@
   </section-def-macros>
   <section-rules>
 
-    <rule comment="REGLA: prn-dem">
+    <rule comment="REGLA: prn-p3">
       <pattern>
-        <pattern-item n="prn-dem"/>
+        <pattern-item n="prn-p3"/>
       </pattern>
       <action>
+        <call-macro n="f_concord1">
+          <with-param pos="1"/>
+        </call-macro> 
         <out>
           <chunk name="prn" case="caseFirstWord">
             <tags>
@@ -1282,6 +1289,16 @@
 
 
 
+
+
+    <rule comment="REGLA: foc">
+      <pattern>
+        <pattern-item n="foc"/>
+      </pattern>
+      <action>
+        <out/>
+      </action>
+    </rule>
 
 
     <rule comment="REGLA: SENT">

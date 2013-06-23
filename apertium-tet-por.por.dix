@@ -65,6 +65,7 @@
     <sdef n="ij"/>
     <sdef n="sent"/>
     <sdef n="cm"/>
+    <sdef n="guio"/>
     <sdef n="lpar"/>
     <sdef n="rpar"/>
     <sdef n="lquest"/>
@@ -122,6 +123,18 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="guionet">
+    
+      <e>
+        <re>-</re>
+        <p>
+          <l/>
+         <r><s n="guio"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
     <pardef n="coma">
     
@@ -133663,7 +133676,12 @@
         <i>cons</i>
         <par n="cons/umir__vblex"/>
       </e>
-      
+       
+      <e>
+        <i>dissemin</i>
+        <par n="abal/ar__vblex"/>
+      </e>
+
       <e>
         <i>contamin</i>
         <par n="abal/ar__vblex"/>
@@ -153182,6 +153200,9 @@
       </e>
       <e>
 	<par n="urls"/>
+      </e>
+      <e>
+	<par n="guionet"/>
       </e>
   </section>
 
