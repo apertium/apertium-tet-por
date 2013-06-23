@@ -573,6 +573,24 @@
     </rule>
 
 
+    <rule comment="REGLA: adv">
+      <pattern>
+        <pattern-item n="adv"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="adv" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="ADVL"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: adj">
       <pattern>
         <pattern-item n="adj"/>

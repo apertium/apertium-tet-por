@@ -76,7 +76,7 @@
     <e><p><l>i<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
     <e><p><l>maibé<s n="cnjcoo"/></l><r>mas<s n="cnjcoo"/></r></p></e>
 
-    <e><p><l>hodi<s n="cnjadv"/></l><r>para<b/>que<s n="cnjadv"/></r></p></e>
+    <e><p><l>hodi<s n="cnjadv"/></l><r>para<s n="cnjadv"/></r></p></e>
     <e><p><l>katak<s n="cnjsub"/></l><r>que<s n="cnjsub"/></r></p></e>
     <e><p><l>la'ós<s n="cnjadv"/></l><r>não<s n="adv"/></r></p></e>
     <e><p><l>tanba<s n="cnjadv"/></l><r>porque<s n="cnjadv"/></r></p></e>
@@ -108,6 +108,7 @@
 
     <e><p><l>ita<b/>nia<s n="det"/><s n="pos"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>ami<b/>nia<s n="det"/><s n="pos"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>imi<b/>nia<s n="det"/><s n="pos"/></l><r>vosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>sira<b/>nia<s n="det"/><s n="pos"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>nia<s n="det"/><s n="pos"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 
@@ -313,7 +314,7 @@
     <e><p><l>Fernando<s n="np"/><s n="ant"/></l><r>Fernando<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Filomeno<s n="np"/><s n="ant"/></l><r>Filomeno<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Francisco<s n="np"/><s n="ant"/></l><r>Francisco<s n="np"/><s n="ant"/></r></p></e>
-    <e><p><l>Fransisco<s n="np"/><s n="ant"/></l><r>Fransisco<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Fransisco<s n="np"/><s n="ant"/></l><r>Francisco<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Gastão<s n="np"/><s n="ant"/></l><r>Gastão<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Gil<s n="np"/><s n="ant"/></l><r>Gil<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Isaac<s n="np"/><s n="ant"/></l><r>Isaac<s n="np"/><s n="ant"/></r></p></e>
@@ -419,7 +420,7 @@
     <e><p><l>nune'e<s n="adv"/></l><r>assim<s n="adv"/></r></p></e>
     <e><p><l>laran<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
     <e><p><l>didi'ak<s n="adv"/></l><r>cuidadosamente<s n="adv"/></r></p></e>
-    <e><p><l>tebe-tebes<s n="postadv"/></l><r>com<b/>certeza<s n="adv"/></r></p></e>
+    <e><p><l>tebe-tebes<s n="postadv"/></l><r>certamente<s n="adv"/></r></p></e>
 
 
 
