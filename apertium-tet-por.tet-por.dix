@@ -21,7 +21,6 @@
     <sdef n="prn"      c="Pronoun"/>
     <sdef n="rel"      c="Relative"/>
     <sdef n="ij"       c="Interjection"/>
-    <sdef n="tmp"      c="Temporal word"/>
     <sdef n="iv"       c="Intransitive"/>
     <sdef n="tv"       c="Transitive"/>
     <sdef n="caus"     c="Causative"/>
@@ -35,6 +34,7 @@
     <sdef n="f"        c="Feminine"/>
     <sdef n="ant"      c="Anthroponym"/>
     <sdef n="cog"      c="Cognomen"/>
+    <sdef n="acr"      c="Acrónimo"/>
     <sdef n="itg"      c="Interrogative"/>
     <sdef n="tn"       c="Tónico"/>
     <sdef n="pers"     c="Personal"/>
@@ -81,6 +81,7 @@
     <e><p><l>la'ós<s n="cnjadv"/></l><r>não<s n="adv"/></r></p></e>
     <e><p><l>tanba<s n="cnjadv"/></l><r>porque<s n="cnjadv"/></r></p></e>
     <e><p><l>portantu<s n="cnjadv"/></l><r>portanto<s n="cnjadv"/></r></p></e>
+    <e><p><l>se<s n="cnjadv"/></l><r>se<s n="cnjadv"/></r></p></e>
     <e><p><l>bain-hira<s n="cnjadv"/></l><r>quando<s n="rel"/><s n="adv"/></r></p></e>
 
 
@@ -98,10 +99,15 @@
 
     <e><p><l>né'e<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>balu<s n="det"/><s n="ind"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>barak<s n="det"/><s n="qnt"/></l><r>muito<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>lubuk<s n="det"/><s n="ind"/></l><r>vário<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>lubuk<s n="det"/><s n="ind"/></l><r>diverso<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>hotu<s n="det"/><s n="qnt"/></l><r>todo<s n="predet"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <e><p><l>ita<b/>nia<s n="det"/><s n="pos"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>ami<b/>nia<s n="det"/><s n="pos"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>sira<b/>nia<s n="det"/><s n="pos"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>nia<s n="det"/><s n="pos"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <!-- SECTION: Pronouns -->
 
@@ -109,10 +115,12 @@
     <e><p><l>ita<s n="prn"/><s n="pers"/><s n="p1n"/></l><r>nós<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/></r></p></e>
     <e><p><l>nia<s n="prn"/><s n="pers"/><s n="p3"/></l><r>ele<s n="prn"/><s n="tn"/><s n="p3"/><s n="GD"/></r></p></e>
     <e><p><l>o<s n="prn"/><s n="pers"/><s n="p2"/></l><r>você<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/></r></p></e>
+    <e><p><l>sira<s n="prn"/><s n="pers"/><s n="p3"/></l><r>ele<s n="prn"/><s n="tn"/><s n="p3"/><s n="GD"/></r></p></e>
 
     <e><p><l>buat<b/>ruma<s n="prn"/><s n="ind"/></l><r>algo<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
 
     <e><p><l>ne'ebé<s n="rel"/><s n="adv"/></l><r>que<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>né'e<s n="prn"/><s n="dem"/></l><r>isso<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 
     <!-- SECTION: Numerals -->
 
@@ -139,7 +147,7 @@
     <e><p><l>inan-aman<s n="n"/></l><r>pai<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>indústria<s n="n"/></l><r>indústria<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>informasaun<s n="n"/></l><r>informação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-    <e><p><l>inspesaun<s n="n"/></l><r>inspecção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>inspesaun<s n="n"/></l><r>inspeção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>jardín<s n="n"/></l><r>jardim<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>juñu<s n="n"/></l><r>junho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>manu-tolun<s n="n"/></l><r>ovo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -165,7 +173,7 @@
     <e><p><l>pamfletu<s n="n"/></l><r>panfleto<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>parlamentu<s n="n"/></l><r>parlamento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>prezidenti<s n="n"/></l><r>presidente<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-    <e><p><l>públiku<s n="n"/></l><r>@públiku<s n="n"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>públiku<s n="n"/></l><r>público<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>rai<s n="n"/></l><r>@rai<s n="n"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>ratifikasaun<s n="n"/></l><r>ratificação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>realidade<s n="n"/></l><r>realidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -174,6 +182,7 @@
     <e><p><l>feto<s n="n"/></l><r>mulher<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>relatóriu<s n="n"/></l><r>relatório<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>sekretáriu<s n="n"/></l><r>secretário<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>sekretária<s n="n"/></l><r>secretário<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>servisu<s n="n"/></l><r>trabalho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>setór<s n="n"/></l><r>setor<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>sindikatu<s n="n"/></l><r>sindicato<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -183,6 +192,10 @@
     <e><p><l>kombate<s n="n"/></l><r>combate<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>rai-henek<s n="n"/></l><r>areia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>konseitu<s n="n"/></l><r>conceito<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>problema<s n="n"/></l><r>problema<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>lian<s n="n"/></l><r>língua<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>lubuk<s n="n"/></l><r>gama<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>lubuk<s n="n"/></l><r>série<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
 
@@ -190,14 +203,14 @@
 
     <e><p><l>Adalgiza<s n="np"/><s n="ant"/><s n="f"/></l><r>Adalgiza<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Augostinho<s n="np"/><s n="ant"/><s n="m"/></l><r>Agostinho<s n="np"/><s n="ant"/></r></p></e>
-    <e><p><l>CCI-TL<s n="np"/><s n="org"/></l><r>CCI-TL<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>CCI-TL<s n="np"/><s n="org"/></l><r>CCI-TL<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>da<b/>Costa<s n="np"/><s n="cog"/></l><r>da<b/>Costa<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Dili<s n="np"/><s n="top"/></l><r>Díli<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Ilidio<s n="np"/><s n="ant"/><s n="m"/></l><r>Ilídio<s n="np"/><s n="ant"/></r></p></e>
-    <e><p><l>ILO<s n="np"/><s n="org"/></l><r>ILO<s n="np"/><s n="org"/></r></p></e>
-    <e><p><l>KSTL<s n="np"/><s n="org"/></l><r>CSTL<s n="np"/><s n="org"/></r></p></e>
-    <e><p><l>RDTL<s n="np"/><s n="org"/></l><r>RDTL<s n="np"/><s n="org"/></r></p></e>
-    <e><p><l>SEPFOPE<s n="np"/><s n="org"/></l><r>SEPFOPE<s n="np"/><s n="org"/></r></p></e>
+    <e><p><l>ILO<s n="np"/><s n="org"/></l><r>OIT<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>KSTL<s n="np"/><s n="org"/></l><r>CSTL<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>RDTL<s n="np"/><s n="org"/></l><r>RDTL<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>SEPFOPE<s n="np"/><s n="org"/></l><r>SEPFOPE<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Soares<s n="np"/><s n="cog"/></l><r>Soares<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Ximenes<s n="np"/><s n="cog"/></l><r>Ximenes<s n="np"/><s n="ant"/></r></p></e>
 
@@ -225,7 +238,7 @@
 
     <!-- SECTION: Adverbs -->
 
-    <e><p><l>oinsá<s n="adv"/></l><r>@oinsá<s n="adv"/></r></p></e>
+    <e><p><l>oinsá<s n="adv"/><s n="itg"/></l><r>como<s n="adv"/><s n="itg"/></r></p></e>
 
     <e><p><l>liu<s n="postadv"/></l><r>mais<s n="adv"/></r></p></e>
     <e><p><l>agora<s n="adv"/></l><r>agora<s n="adv"/></r></p></e>
@@ -281,6 +294,8 @@
     <e><p><l>haré<s n="vblex"/><s n="tv"/></l><r>ver<s n="vblex"/></r></p></e>
     <e><p><l>hato'o<s n="vblex"/><s n="tv"/></l><r>contar<s n="vblex"/></r></p></e>
     <e><p><l>ezerse<s n="vblex"/><s n="tv"/></l><r>exercer<s n="vblex"/></r></p></e>
+    <e><p><l>uza<s n="vblex"/><s n="tv"/></l><r>usar<s n="vblex"/></r></p></e>
+    <e><p><l>mosu<s n="vblex"/><s n="iv"/></l><r>aparecer<s n="vblex"/></r></p></e>
 
 
 

@@ -5,6 +5,9 @@
     <def-cat n="PRN">
       <cat-item lemma="prn" tags="SN.*"/>
     </def-cat>
+    <def-cat n="PROP">
+      <cat-item lemma="prop" tags="SN.*"/>
+    </def-cat>
     <def-cat n="SN">
       <cat-item tags="SN.*"/>
     </def-cat>
@@ -92,6 +95,34 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: PROP SV">
+      <pattern>
+        <pattern-item n="PROP"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+        <let> <clip pos="2" part="a_prs"/><lit-tag v="p3"/> </let>
+        <let> <clip pos="2" part="a_nbr"/><lit-tag v="sg"/> </let>
+        <call-macro n="f_verb_tam1"> 
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
   </section-rules>
 </interchunk>

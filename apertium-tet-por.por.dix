@@ -114924,7 +114924,34 @@
       </e>
 		
 
-      
+          
+      <e>
+        <i>CCI-TL</i>
+        <par n="AFP__n"/>
+      </e>
+
+      <e>
+        <i>SEPFOPE</i>
+        <par n="AFP__n"/>
+      </e>
+
+         
+      <e>
+        <i>CSTL</i>
+        <par n="AFP__n"/>
+      </e>
+
+      <e>
+        <i>OIT</i>
+        <par n="AFP__n"/>
+      </e>
+
+
+      <e>
+        <i>RDTL</i>
+        <par n="AFP__n"/>
+      </e>
+
       <e>
         <i>AFP</i>
         <par n="AFP__n"/>
@@ -115090,7 +115117,12 @@
         <i>abadia</i>
         <par n="abadia__n"/>
       </e>
-      
+       
+      <e>
+        <i>público</i>
+        <par n="livro__n"/>
+      </e>
+
       <e>
         <i>abastecimento</i>
         <par n="livro__n"/>
@@ -128304,7 +128336,12 @@
         <i>Bangladesh</i>
         <par n="AC__np"/>
       </e>
-      
+       
+      <e>
+        <i>Díli</i>
+        <par n="AC__np"/>
+      </e>
+
       <e>
         <i>Barcelona</i>
         <par n="AC__np"/>

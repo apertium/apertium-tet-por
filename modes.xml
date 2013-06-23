@@ -32,6 +32,9 @@
       <program name="lt-proc $1">
         <file name="tet-por.autogen.bin"/>
       </program>
+      <program name="lt-proc -p">
+        <file name="tet-por.autopgen.bin"/>
+      </program>
     </pipeline>
   </mode>
 

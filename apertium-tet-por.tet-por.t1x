@@ -2,11 +2,26 @@
 <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="prn-dem">
+      <cat-item tags="prn.dem"/>
+    </def-cat>
     <def-cat n="prn-pers">
       <cat-item tags="prn.pers.*"/>
     </def-cat>
     <def-cat n="hotu">
       <cat-item lemma="hotu" tags="det.qnt"/>
+    </def-cat>
+    <def-cat n="np-org">
+      <cat-item tags="np.org"/>
+    </def-cat>
+    <def-cat n="np-cog">
+      <cat-item tags="np.cog"/>
+    </def-cat>
+    <def-cat n="np-ant">
+      <cat-item tags="np.ant.*"/>
+    </def-cat>
+    <def-cat n="adv">
+      <cat-item tags="adv"/>
     </def-cat>
     <def-cat n="preverb">
       <cat-item tags="preverb"/>
@@ -40,6 +55,7 @@
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det.ind"/>
+      <cat-item tags="det.qnt"/>
     </def-cat>
     <def-cat n="det-dem">
       <cat-item tags="det.dem"/>
@@ -101,11 +117,23 @@
     <def-macro n="f_tam2" npar="2">
       <choose>
         <when>
+          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="sei"/></equal></test>
+          <let><var n="tam"/><lit-tag v="fti"/></let>
+        </when>
+        <when>
           <test><equal><clip pos="2" side="sl" part="lem"/><lit v="atu"/></equal></test>
           <let><var n="tam"/><lit-tag v="prs"/></let>
         </when>
         <when>
           <test><equal><clip pos="2" side="sl" part="lem"/><lit v="ona"/></equal></test>
+          <let><var n="tam"/><lit-tag v="ifi"/></let>
+        </when>
+        <when>
+          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="tiha ona"/></equal></test>
+          <let><var n="tam"/><lit-tag v="ifi"/></let>
+        </when>
+        <when>
+          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="tiha"/></equal></test>
           <let><var n="tam"/><lit-tag v="ifi"/></let>
         </when>
         <otherwise>
@@ -388,6 +416,28 @@
   </section-def-macros>
   <section-rules>
 
+    <rule comment="REGLA: prn-dem">
+      <pattern>
+        <pattern-item n="prn-dem"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="prn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="p3"/></tag>
+              <tag><clip pos="1" side="tl" part="a_gen"/></tag>
+              <tag><lit-tag v="ND"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: prn-pers">
       <pattern>
         <pattern-item n="prn-pers"/>
@@ -437,6 +487,109 @@
         <let><var n="numero"/><lit-tag v="sg"/></let>
       </action>
     </rule>
+
+    <rule comment="REGLA: np-org">
+      <pattern>
+        <pattern-item n="np-org"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="prop" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: np-ant np-cog">
+      <pattern>
+        <pattern-item n="np-ant"/>
+        <pattern-item n="np-cog"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="prop" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: np-ant np-cog np-cog">
+      <pattern>
+        <pattern-item n="np-ant"/>
+        <pattern-item n="np-cog"/>
+        <pattern-item n="np-cog"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="prop" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: adj">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+              <tag><clip pos="1" side="tl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+        <let><var n="numero"/><lit-tag v="sg"/></let>
+      </action>
+    </rule>
+
     <rule comment="REGLA: nom">
       <pattern>
         <pattern-item n="nom"/>
@@ -633,6 +786,37 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: nom det">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="det"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord2">
+          <with-param pos="1"/>
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="d-n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: nom adj det">
       <pattern>
         <pattern-item n="nom"/>
@@ -947,6 +1131,46 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: preverb vbmod vblex">
+      <pattern>
+        <pattern-item n="preverb"/>
+        <pattern-item n="vbmod"/>
+        <pattern-item n="vblex"/>
+      </pattern>
+      <action>
+        <call-macro n="f_tam2">
+          <with-param pos="2"/>
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="vmod-inf" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="3" side="sl" part="a_tra"/></tag>
+              <tag><var n="tam"/></tag>
+              <tag><lit-tag v="PD"/></tag>
+              <tag><lit-tag v="ND"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_vrb"/>
+              <lit-tag v="3.4.5"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_vrb"/>
+              <lit-tag v="inf"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+        <let><var n="tam"/><lit-tag v="MD"/></let>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: vbmod vblex">
       <pattern>
         <pattern-item n="vbmod"/>
@@ -980,6 +1204,46 @@
         <let><var n="tam"/><lit-tag v="MD"/></let>
       </action>
     </rule>
+
+    <rule comment="REGLA: vbmod adv vbhaver">
+      <pattern>
+        <pattern-item n="vbmod"/>
+        <pattern-item n="adv"/>
+        <pattern-item n="vbhaver"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="vmod-inf" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="iv"/></tag>
+              <tag><lit-tag v="MD"/></tag>
+              <tag><lit-tag v="PD"/></tag>
+              <tag><lit-tag v="ND"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_vrb"/>
+              <lit-tag v="3.4.5"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_vrb"/>
+              <lit-tag v="inf"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+        <let><var n="tam"/><lit-tag v="MD"/></let>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: vbmod vbhaver">
       <pattern>

@@ -13,6 +13,8 @@ LIST Exist = vbhaver ;
 LIST Vbmod = vbmod ;
 LIST Postverb = postverb ;
 LIST Preverb = preverb ;
+LIST Pr = pr ;
+LIST Cm = cm ;
 
 SECTION
 
@@ -22,6 +24,15 @@ SECTION
 
 "<iha>" SELECT Exist IF (-1 Adv) (-2C Vbmod);
 
+"<ho>" SELECT Pr IF (-1 ("<hamutuk>"));
+
+"<sira>" SELECT Pron IF (-1 Pr) (1 Preverb);
+
+SELECT Pron IF (-1 Cm) (0 ("né'e")) (1 V);
+
 SELECT A IF (-1C N);
 
 SELECT V IF (-1C Preverb) (0C V OR N);
+
+SELECT V IF (-1C Pron) (0C V OR N);
+

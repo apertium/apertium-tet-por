@@ -154,10 +154,6 @@
       <e><p><l></l><r><s n="det"/></r></p></e>
     </pardef>
 
-    <pardef n="barak__det">
-      <e><p><l></l><r><s n="det"/></r></p></e>
-    </pardef>
-
     <pardef n="nian__postdet">
       <e><p><l></l><r><s n="postdet"/></r></p></e>
     </pardef>
@@ -215,6 +211,10 @@
 
     <pardef n="ida-idak__prn">
       <e><p><l></l><r><s n="prn"/><s n="ind"/></r></p></e>
+    </pardef>
+
+    <pardef n="né'e__prn">
+      <e><p><l></l><r><s n="prn"/><s n="dem"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Numerals -->
@@ -433,19 +433,22 @@
 
     <!-- SECTION: Determiners -->
 
-    <e lm="barak"><i>barak</i><par n="barak__det"/></e>
 
     <e lm="nian"><i>nian</i><par n="nian__postdet"/></e>
     <e lm="nia"><i>nia</i><par n="nia__det"/></e>
+    <e lm="ninia"><i>ninia</i><par n="nia__det"/></e>
     <e lm="hau nia"><i>ita<b/>nia</i><par n="nia__det"/></e>
     <e lm="ita nia"><i>ita<b/>nia</i><par n="nia__det"/></e>
     <e lm="ami nia"><i>ami<b/>nia</i><par n="nia__det"/></e>
+    <e lm="sira nia"><i>sira<b/>nia</i><par n="nia__det"/></e>
 
     <e lm="sira"><i>sira</i><par n="sira__det"/></e>
     <e lm="né'e"><i>né'e</i><par n="né'e__det"/></e>
     <e lm="nee" r="LR"><p><l>nee</l><r>né'e</r></p><par n="né'e__det"/></e>
     <e lm="ida-idak"><i>ida-idak</i><par n="ida-idak__det"/></e>
     <e lm="balu"><i>balu</i><par n="ida-idak__det"/></e>
+    <e lm="barak"><i>barak</i><par n="hotu__det"/></e>
+    <e lm="lubuk"><i>lubuk</i><par n="ida-idak__det"/></e>
     <e lm="hotu"><i>hotu</i><par n="hotu__det"/></e>
 
     <!-- SECTION: Pronouns -->
@@ -457,6 +460,9 @@
     <e lm="ami"><i>ami</i><par n="ami__prn"/></e>
     <e lm="imi"><i>imi</i><par n="imi__prn"/></e>
     <e lm="sira"><i>sira</i><par n="sira__prn"/></e>
+
+    <e lm="né'e"><i>né'e</i><par n="né'e__prn"/></e>
+    <e lm="nee" r="LR"><p><l>nee</l><r>né'e</r></p><par n="né'e__prn"/></e>
 
     <e lm="ne'ebé"><i>ne'ebé</i><par n="ne'ebé__rel"/></e>
     <e lm="ida-idak"><i>ida-idak</i><par n="ida-idak__prn"/></e>
@@ -504,6 +510,7 @@
     <e lm="ema"><i>ema</i><par n="uma__n"/></e>
     <e lm="mestri"><i>mestri</i><par n="uma__n"/></e>
     <e lm="buat"><i>buat</i><par n="uma__n"/></e>
+    <e lm="lubuk"><i>lubuk</i><par n="uma__n"/></e>
     <e lm="bahat"><i>bahat</i><par n="uma__n"/></e>
     <e lm="bomba"><i>bomba</i><par n="uma__n"/></e>
     <e lm="esforsu"><i>esforsu</i><par n="uma__n"/></e>
@@ -524,6 +531,7 @@
     <e lm="artigu"><i>artigu</i><par n="uma__n"/></e>
     <e lm="idioma"><i>idioma</i><par n="uma__n"/></e>
     <e lm="lia"><i>lia</i><par n="uma__n"/></e>
+    <e lm="lian"><i>lian</i><par n="uma__n"/></e>
     <e lm="administradór"><i>administradór</i><par n="uma__n"/></e>
     <e lm="administrasaun"><i>administrasaun</i><par n="uma__n"/></e>
     <e lm="agrikultura"><i>agrikultura</i><par n="uma__n"/></e>
@@ -1114,6 +1122,7 @@
     <e lm="setór"><i>setór</i><par n="uma__n"/></e>
     <e lm="kompromisu"><i>kompromisu</i><par n="uma__n"/></e>
     <e lm="sekretáriu"><i>sekretáriu</i><par n="uma__n"/></e>
+    <e lm="sekretária"><i>sekretária</i><par n="uma__n"/></e>
     <e lm="forma"><i>forma</i><par n="uma__n"/></e>
     <e lm="inspesaun"><i>inspesaun</i><par n="uma__n"/></e>
     <e lm="konvensaun"><i>konvensaun</i><par n="uma__n"/></e>
@@ -1631,6 +1640,7 @@
     <e lm="harís"><i>harís</i><par n="sai__vblex"/></e>
     <e lm="hú"><i>hú</i><par n="sai__vblex"/></e>
     <e lm="lao"><i>lao</i><par n="sai__vblex"/></e>
+    <e lm="mosu"><i>mosu</i><par n="sai__vblex"/></e>
     <e lm="mate"><i>mate</i><par n="sai__vblex"/></e>
     <e lm="mear"><i>mear</i><par n="sai__vblex"/></e>
     <e lm="muta"><i>muta</i><par n="sai__vblex"/></e>
