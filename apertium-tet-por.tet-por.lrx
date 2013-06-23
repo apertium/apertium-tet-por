@@ -1,0 +1,5 @@
+<rules>
+  <rule>
+    <match lemma="halo" tags="vblex.tv"><select lemma="fazer" tags="vblex"/></match>
+  </rule>
+</rules>

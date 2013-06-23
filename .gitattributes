@@ -1,4 +1,12 @@
 * text=auto !eol
 /Makefile -text
+/apertium-tet-por.tet-por.dix -text
+/apertium-tet-por.tet-por.lrx -text
+/apertium-tet-por.tet-por.rlx -text
+/apertium-tet-por.tet-por.t1x -text
+/apertium-tet-por.tet-por.t2x -text
+/apertium-tet-por.tet-por.t3x -text
 /apertium-tet-por.tet.acx -text
 /apertium-tet-por.tet.dix -text
+/modes.xml -text
+/tet-por.prob -text svneol=unset#unset
