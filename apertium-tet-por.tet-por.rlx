@@ -4,8 +4,12 @@ SOFT-DELIMITERS = "<,>" ;
 SETS
 
 LIST N = n ; 
+LIST A = adj ; 
+LIST Det = det ; 
+LIST Pron = prn ; 
 
 SECTION
 
-SELECT N ;
-  ## 
+"<hotu>" SELECT Det IF (-1C Pron);
+
+SELECT A IF (-1C N);

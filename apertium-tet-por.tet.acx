@@ -19,4 +19,10 @@
   <char value="í">
     <equiv-char value="i"/>
   </char>
+  <char value="á">
+    <equiv-char value="a"/>
+  </char>
+  <char value="ú">
+    <equiv-char value="u"/>
+  </char>
 </analysis-chars>

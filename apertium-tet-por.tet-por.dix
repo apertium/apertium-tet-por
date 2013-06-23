@@ -5,7 +5,9 @@
     <sdef n="vblex"    c="Verb"/>
     <sdef n="adv"      c="Adverb"/>
     <sdef n="vbmod"    c="Modal verb"/>
+    <sdef n="vbhaver"  c="Existential 'hay'"/>
     <sdef n="postadv"  c="Postadverb"/>
+    <sdef n="predet"   c="Predeterminer"/>
     <sdef n="cla"      c="Classifier"/>
     <sdef n="cnjadv"   c="Adverbial conjunction"/>
     <sdef n="cnjsub"   c="Subordinating conjunction"/>
@@ -39,10 +41,12 @@
     <sdef n="ref"      c="Reflexive"/>
     <sdef n="pos"      c="Possessive"/>
     <sdef n="dem"      c="Demonstrative"/>
+    <sdef n="qnt"      c="Quantifier"/>
     <sdef n="ind"      c="Indefinite"/>
     <sdef n="top"      c="Toponym"/>
     <sdef n="org"      c="Organisation"/>
     <sdef n="caus"     c="Causative"/>
+    <sdef n="pri"      c="Present indicative"/>
     <sdef n="hon"      c="Honorific"/>
     <sdef n="p1"       c="First person"/>
     <sdef n="p1n"      c="First person (inclusive)"/>
@@ -93,6 +97,10 @@
     <!-- SECTION: Determiners -->
 
     <e><p><l>né'e<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>balu<s n="det"/><s n="ind"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>hotu<s n="det"/><s n="qnt"/></l><r>todo<s n="predet"/><s n="GD"/><s n="ND"/></r></p></e>
+
+    <e><p><l>ita<b/>nia<s n="det"/><s n="pos"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <!-- SECTION: Pronouns -->
 
@@ -112,7 +120,7 @@
     <!-- SECTION: Nouns -->
 
     <e><p><l>uma<s n="n"/></l><r>casa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-    <e><p><l>asaun<s n="n"/></l><r>ação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>asaun<s n="n"/></l><r>acção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>atensaun<s n="n"/></l><r>atenção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>atribuisaun<s n="n"/></l><r>atribuição<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>dalan<s n="n"/></l><r>rua<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -134,12 +142,12 @@
     <e><p><l>jardín<s n="n"/></l><r>jardim<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>juñu<s n="n"/></l><r>junho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>manu-tolun<s n="n"/></l><r>ovo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-    <e><p><l>kámara<s n="n"/></l><r>@kámara<s n="n"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>kámara<s n="n"/></l><r>câmara<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>kestaun<s n="n"/></l><r>questão<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>kna'ar<s n="n"/></l><r>trabalho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>komemorasaun<s n="n"/></l><r>comemoração<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>komérsiu<s n="n"/></l><r>comércio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-    <e><p><l>komisária<s n="n"/></l><r>@komisária<s n="n"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>komisária<s n="n"/></l><r>comissário<s n="n"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>kompromisu<s n="n"/></l><r>compromisso<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>komunidade<s n="n"/></l><r>comunidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>konfederasaun<s n="n"/></l><r>confederação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -147,7 +155,7 @@
     <e><p><l>konvensaun<s n="n"/></l><r>convenção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>kooperasaun<s n="n"/></l><r>cooperação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>labarik<s n="n"/></l><r>criança<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-    <e><p><l>lei<s n="n"/></l><r>lei<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>lei<s n="n"/></l><r>lei<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>loron<s n="n"/></l><r>dia<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>manu<s n="n"/></l><r>pássaro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>matéria<s n="n"/></l><r>matéria<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -162,6 +170,7 @@
     <e><p><l>realidade<s n="n"/></l><r>realidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>sabraka<s n="n"/></l><r>laranja<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>polítika<s n="n"/></l><r>política<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>feto<s n="n"/></l><r>mulher<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>relatóriu<s n="n"/></l><r>relatório<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>sekretáriu<s n="n"/></l><r>secretário<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>servisu<s n="n"/></l><r>trabalho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -178,12 +187,12 @@
 
     <e><p><l>Timór-Leste<s n="np"/><s n="top"/></l><r>Timor-Leste<s n="np"/><s n="top"/></r></p></e>
 
-    <e><p><l>Adalgiza<s n="np"/><s n="ant"/></l><r>Adalgisa<s n="np"/><s n="ant"/></r></p></e>
-    <e><p><l>Augostinho<s n="np"/><s n="ant"/></l><r>Agostinho<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Adalgiza<s n="np"/><s n="ant"/><s n="f"/></l><r>Adalgisa<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Augostinho<s n="np"/><s n="ant"/><s n="m"/></l><r>Agostinho<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>CCI-TL<s n="np"/><s n="org"/></l><r>CCI-TL<s n="np"/><s n="org"/></r></p></e>
-    <e><p><l>da Costa<s n="np"/><s n="cog"/></l><r>da<b/>Costa<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>da<b/>Costa<s n="np"/><s n="cog"/></l><r>da<b/>Costa<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Dili<s n="np"/><s n="top"/></l><r>Díli<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Ilidio<s n="np"/><s n="ant"/></l><r>Ilídio<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Ilidio<s n="np"/><s n="ant"/><s n="m"/></l><r>Ilídio<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>ILO<s n="np"/><s n="org"/></l><r>ILO<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>KSTL<s n="np"/><s n="org"/></l><r>CSTL<s n="np"/><s n="org"/></r></p></e>
     <e><p><l>RDTL<s n="np"/><s n="org"/></l><r>RDTL<s n="np"/><s n="org"/></r></p></e>
@@ -202,13 +211,14 @@
     <e><p><l>jerál<s n="adj"/></l><r>geral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>ki'ik<s n="adj"/></l><r>pequeno<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>mundiál<s n="adj"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-    <e><p><l>nasionál<s n="adj"/></l><r>nasional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>nasionál<s n="adj"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>permanenti<s n="adj"/></l><r>permanente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>polítiku<s n="adj"/></l><r>político<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>justu<s n="adj"/></l><r>justo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>privadu<s n="adj"/></l><r>privado<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>públiku<s n="adj"/></l><r>público<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>hamutuk<s n="adj"/></l><r>junto<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e><p><l>profisionál<s n="adj"/></l><r>professional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>profisionál<s n="adj"/></l><r>profissional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
 
 
 
@@ -226,6 +236,9 @@
 
 
     <!-- SECTION: Verbs -->
+
+    <e><p><l>iha<s n="vbhaver"/></l><r>ter<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e><p><l>bele<s n="vbmod"/></l><r>poder<s n="vbmod"/></r></p></e>
 
     <e><p><l>sai<s n="vblex"/><s n="iv"/></l><r>sair<s n="vblex"/></r></p></e>
     <e><p><l>ajuda<s n="vblex"/><s n="tv"/></l><r>ajudar<s n="vblex"/></r></p></e>
@@ -260,6 +273,7 @@
     <e><p><l>viola<s n="vblex"/><s n="tv"/></l><r>violar<s n="vblex"/></r></p></e>
     <e><p><l>halimar<s n="vblex"/><s n="tv"/></l><r>brincar<s n="vblex"/></r></p></e>
     <e><p><l>halimar<s n="vblex"/><s n="tv"/></l><r>jogar<s n="vblex"/></r></p></e>
+    <e><p><l>haré<s n="vblex"/><s n="tv"/></l><r>ver<s n="vblex"/></r></p></e>
 
 
 
