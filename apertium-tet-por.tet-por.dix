@@ -224,13 +224,15 @@
 
     <!-- SECTION: Adverbs -->
 
+    <e><p><l>oinsá<s n="adv"/></l><r>@oinsá<s n="adv"/></r></p></e>
+
     <e><p><l>agora<s n="adv"/></l><r>agora<s n="adv"/></r></p></e>
     <e><p><l>de'it<s n="adv"/></l><r>só<s n="adv"/></r></p></e>
     <e><p><l>ekonomikamente<s n="adv"/></l><r>economicamente<s n="adv"/></r></p></e>
-    <e><p><l>la<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+    <e><p><l>la<s n="adv"/></l><r>não<s n="adv"/></r></p></e>
     <e><p><l>mós<s n="adv"/></l><r>também<s n="adv"/></r></p></e>
-    <e><p><l>oinsá<s n="adv"/></l><r>@oinsá<s n="adv"/></r></p></e>
     <e><p><l>ohin<s n="adv"/></l><r>hoje<s n="adv"/></r></p></e>
+    <e><p><l>nafatin<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
     <e><p><l>tebe-tebes<s n="postadv"/></l><r>com<b/>certeza<s n="adv"/></r></p></e>
 
 
@@ -239,6 +241,7 @@
 
     <e><p><l>iha<s n="vbhaver"/></l><r>ter<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e><p><l>bele<s n="vbmod"/></l><r>poder<s n="vbmod"/></r></p></e>
+    <e><p><l>tenke<s n="vbmod"/></l><r>ter<g><b/>que</g><s n="vbmod"/></r></p></e>
 
     <e><p><l>sai<s n="vblex"/><s n="iv"/></l><r>sair<s n="vblex"/></r></p></e>
     <e><p><l>ajuda<s n="vblex"/><s n="tv"/></l><r>ajudar<s n="vblex"/></r></p></e>

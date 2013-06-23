@@ -6,10 +6,18 @@ SETS
 LIST N = n ; 
 LIST A = adj ; 
 LIST Det = det ; 
+LIST Adv = adv ; 
 LIST Pron = prn ; 
+LIST Exist = vbhaver ; 
+LIST Vbmod = vbmod ;
 
 SECTION
 
 "<hotu>" SELECT Det IF (-1C Pron);
 
+"<iha>" SELECT Exist IF (-1C Vbmod);
+
+"<iha>" SELECT Exist IF (-1 Adv) (-2C Vbmod);
+
 SELECT A IF (-1C N);
+

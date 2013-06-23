@@ -352,7 +352,6 @@
     <e lm="kedas"><i>kedas</i><par n="sei__tmp"/></e>
     <e lm="dadauk"><i>dadauk</i><par n="sei__tmp"/></e>
     <e lm="dadaun"><i>dadaun</i><par n="sei__tmp"/></e>
-    <e lm="nafatin"><i>nafatin</i><par n="sei__tmp"/></e>
     <e lm="seidauk"><i>seidauk</i><par n="sei__tmp"/></e>
 
     <!-- SECTION: Conjunctions -->
@@ -1537,6 +1536,7 @@
     <e lm="la-halimar"><i>la-halimar</i><par n="liu__postadv"/></e>
 
     <e lm="ne'ebá"><i>ne'ebá</i><par n="agora__adv"/></e>
+    <e lm="nafatin"><i>nafatin</i><par n="agora__adv"/></e>
     <e lm="né"><i>né</i><par n="agora__adv"/></e>
 
     <e lm="la"><i>la</i><par n="agora__adv"/></e>

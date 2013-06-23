@@ -29,6 +29,9 @@
     <def-cat n="det-dem">
       <cat-item tags="det.dem"/>
     </def-cat>
+    <def-cat n="preadj">
+      <cat-item lemma="la" tags="adv"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj"/>
     </def-cat>
@@ -428,6 +431,78 @@
             <b pos="1"/>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: nom preadj adj">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="preadj"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord2">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="n-a-a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: nom sira preadj adj">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="sira"/>
+        <pattern-item n="preadj"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="a_nbr"/><lit-tag v="pl"/>
+        </let>
+        <call-macro n="f_concord2">
+          <with-param pos="1"/>
+          <with-param pos="4"/>
+        </call-macro>
+        <out>
+          <chunk name="n-a-a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="4" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
