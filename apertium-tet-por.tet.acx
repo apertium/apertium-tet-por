@@ -28,4 +28,7 @@
   <char value="ú">
     <equiv-char value="u"/>
   </char>
+  <char value="s">
+    <equiv-char value="ç"/>
+  </char>
 </analysis-chars>

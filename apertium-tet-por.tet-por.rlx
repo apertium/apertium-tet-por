@@ -14,10 +14,12 @@ LIST Pron = prn ;
 LIST Exist = vbhaver ; 
 LIST Vbmod = vbmod ;
 LIST Postverb = postverb ;
+LIST Toponim = (np top) ;
 LIST Preverb = preverb ;
 LIST Pr = pr ;
 LIST Cm = cm ;
 LIST Cla = cla ;
+LIST Location = "sub-distritu"i "país"i ; 
 
 SECTION
 
@@ -28,6 +30,8 @@ SECTION
 "<iha>" SELECT Exist IF (-1 Adv) (-2C Vbmod);
 
 "<iha>" SELECT Pr IF (1 ("<loron>")) (2 Num);
+
+"<iha>" SELECT Pr IF (1 Toponim OR Location);
 
 "<ho>" SELECT Pr IF (-1 ("<hamutuk>"));
 
@@ -41,6 +45,8 @@ SELECT Pron IF (-1 Pr OR V) (0 ("né'e")) (1 Pr);
 
 SELECT Det IF (-1C N) (0 ("né'e")) (1 Cm);
 
+SELECT Det IF (-1C N) (0 ("ida-idak")) ; 
+
 SELECT A IF (-1C N);
 
 SELECT V IF (-1C Preverb) (0C V OR N);
@@ -48,3 +54,4 @@ SELECT V IF (-1C Preverb) (0C V OR N);
 SELECT V IF (-1C Pron) (0C V OR N);
 
 REMOVE Cla IF (0 Cla OR N);
+
