@@ -20,6 +20,7 @@ LIST Pr = pr ;
 LIST Cm = cm ;
 LIST Cla = cla ;
 LIST Location = "sub-distritu"i "país"i ; 
+LIST Loc = "ókos" "leten" "sorin" "ninin" ;
 
 SECTION
 
@@ -37,13 +38,17 @@ SECTION
 
 "<sira>" SELECT Pron IF (-1 Pr) (1 Preverb);
 
+SELECT Pr IF (0 Pr OR Exist) (1C N) (2 Det);
+
+SELECT Pr IF (0 Pr OR Exist) (1 N) (2 Loc);
+
 SELECT Pron IF (-1 Conj) (0 ("ida né'e"));
 
 SELECT Pron IF (-1 Cm) (0 ("né'e")) (1 V);
 
 SELECT Pron IF (-1 Pr OR V) (0 ("né'e")) (1 Pr);
 
-SELECT Det IF (-1C N) (0 ("né'e")) (1 Cm);
+SELECT Det IF (-1C N) (0 ("ida né'e")) (1 Cm);
 
 SELECT Det IF (-1C N) (0 ("ida-idak")) ; 
 

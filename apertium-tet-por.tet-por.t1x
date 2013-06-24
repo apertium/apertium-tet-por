@@ -150,15 +150,18 @@
     <def-var n="genero"/>
     <def-var n="tam"/>
     <def-var n="tam-advl"/>
+    <def-var n="v-chunk-n"/>
   </section-def-vars>
   <section-def-macros>
     <def-macro n="f_tam2" npar="2">
       <let><var n="tam-advl"/><lit v=""/></let>
+      <let><var n="v-chunk-n"/><lit v="v"/></let>
       <choose>
         <when>
           <test><equal><clip pos="2" side="sl" part="lem"/><lit v="seidauk"/></equal></test>
           <let><var n="tam"/><lit-tag v="pri"/></let>
           <let><var n="tam-advl"/><lit v="^ainda&lt;adv&gt;$ ^não&lt;adv&gt;$ "/></let>
+          <let><var n="v-chunk-n"/><lit v="a-a-v"/></let>
         </when>
         <when>
           <test><equal><clip pos="2" side="sl" part="lem"/><lit v="sei"/></equal></test>
@@ -1130,7 +1133,7 @@
           <with-param pos="1"/>
         </call-macro>
         <out>
-          <chunk name="a-a-v" case="caseFirstWord">
+          <chunk namefrom="v-chunk-n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
               <tag><clip pos="2" side="sl" part="a_tra"/></tag>

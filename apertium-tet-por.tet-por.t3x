@@ -29,6 +29,8 @@
     <def-attr n="a_tns">
       <attr-item tags="pri"/>
       <attr-item tags="prs"/>
+      <attr-item tags="fti"/>
+      <attr-item tags="pis"/>
       <attr-item tags="pii"/>
       <attr-item tags="MD"/>
     </def-attr>
