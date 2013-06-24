@@ -7,6 +7,7 @@
     <sdef n="vbmod"    c="Modal verb"/>
     <sdef n="vbhaver"  c="Existential 'hay'"/>
     <sdef n="postadv"  c="Postadverb"/>
+    <sdef n="predet"   c="Predeterminer"/>
     <sdef n="postdet"  c="Postdeterminer"/>
     <sdef n="cla"      c="Classifier"/>
     <sdef n="cnjadv"   c="Adverbial conjunction"/>
@@ -157,6 +158,10 @@
 
     <pardef n="nian__postdet">
       <e><p><l></l><r><s n="postdet"/></r></p></e>
+    </pardef>
+
+    <pardef n="kada__predet">
+      <e><p><l></l><r><s n="predet"/><s n="ind"/></r></p></e>
     </pardef>
 
     <pardef n="nia__det">
@@ -495,6 +500,7 @@
     <e lm="oi-oin"><i>oi-oin</i><par n="ida-idak__det"/></e>
     <e lm="oi-oin" r="LR"><p><l>oioin</l><r>oi-oin</r></p><par n="ida-idak__det"/></e>
     <e lm="hotu"><i>hotu</i><par n="hotu__det"/></e>
+    <e lm="kada"><i>kada</i><par n="kada__predet"/></e>
 
     <!-- SECTION: Pronouns -->
 

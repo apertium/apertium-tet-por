@@ -112,6 +112,8 @@
     <e><p><l>sira<b/>nia<s n="det"/><s n="pos"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>nia<s n="det"/><s n="pos"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
 
+    <e><p><l>kada<s n="predet"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
+
     <!-- SECTION: Pronouns -->
 
     <e><p><l>ha'u<s n="prn"/><s n="pers"/><s n="p1"/></l><r>eu<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/></r></p></e>
@@ -475,7 +477,137 @@
     <e><p><l>dezenvolve<s n="vblex"/><s n="tv"/></l><r>desenvolver<s n="vblex"/></r></p></e>
     <e><p><l>realiza<s n="vblex"/><s n="tv"/></l><r>realizar<s n="vblex"/></r></p></e>
 
-
+    <e><p><l>aborda<s n="vblex"/><s n="tv"/></l><r>abordar<s n="vblex"/></r></p></e>
+    <e><p><l>adopta<s n="vblex"/><s n="tv"/></l><r>adoptar<s n="vblex"/></r></p></e>
+    <e><p><l>afirma<s n="vblex"/><s n="tv"/></l><r>afirmar<s n="vblex"/></r></p></e>
+    <e><p><l>agradese<s n="vblex"/><s n="tv"/></l><r>agradecer<s n="vblex"/></r></p></e>
+    <e><p><l>akompaña<s n="vblex"/><s n="tv"/></l><r>acompanhar<s n="vblex"/></r></p></e>
+    <e><p><l>alkansa<s n="vblex"/><s n="tv"/></l><r>alcansar<s n="vblex"/></r></p></e>
+    <e><p><l>ameasa<s n="vblex"/><s n="tv"/></l><r>ameaçar<s n="vblex"/></r></p></e>
+    <e><p><l>aplika<s n="vblex"/><s n="tv"/></l><r>aplicar<s n="vblex"/></r></p></e>
+    <e><p><l>apoia<s n="vblex"/><s n="tv"/></l><r>apoiar<s n="vblex"/></r></p></e>
+    <e><p><l>aprende<s n="vblex"/><s n="tv"/></l><r>aprender<s n="vblex"/></r></p></e>
+    <e><p><l>aprova<s n="vblex"/><s n="tv"/></l><r>aprovar<s n="vblex"/></r></p></e>
+    <e><p><l>asegura<s n="vblex"/><s n="tv"/></l><r>assegurar<s n="vblex"/></r></p></e>
+    <e><p><l>asina<s n="vblex"/><s n="tv"/></l><r>assinar<s n="vblex"/></r></p></e>
+    <e><p><l>atende<s n="vblex"/><s n="tv"/></l><r>atender<s n="vblex"/></r></p></e>
+    <e><p><l>atinji<s n="vblex"/><s n="tv"/></l><r>atingir<s n="vblex"/></r></p></e>
+    <e><p><l>atrai<s n="vblex"/><s n="tv"/></l><r>atrair<s n="vblex"/></r></p></e>
+    <e><p><l>aumenta<s n="vblex"/><s n="tv"/></l><r>aumentar<s n="vblex"/></r></p></e>
+    <e><p><l>defende<s n="vblex"/><s n="tv"/></l><r>defender<s n="vblex"/></r></p></e>
+    <e><p><l>deskansa<s n="vblex"/><s n="iv"/></l><r>descansar<s n="vblex"/></r></p></e>
+    <e><p><l>determina<s n="vblex"/><s n="tv"/></l><r>determinar<s n="vblex"/></r></p></e>
+    <e><p><l>disemina<s n="vblex"/><s n="tv"/></l><r>disseminar<s n="vblex"/></r></p></e>
+    <e><p><l>entrega<s n="vblex"/><s n="tv"/></l><r>entregar<s n="vblex"/></r></p></e>
+    <e><p><l>esforsu<s n="vblex"/><s n="tv"/></l><r>esforçar<s n="vblex"/></r></p></e>
+    <e><p><l>espresa<s n="vblex"/><s n="tv"/></l><r>expressar<s n="vblex"/></r></p></e>
+    <e><p><l>estabelese<s n="vblex"/><s n="tv"/></l><r>estabelecer<s n="vblex"/></r></p></e>
+    <e><p><l>estraga<s n="vblex"/><s n="tv"/></l><r>estragar<s n="vblex"/></r></p></e>
+    <e><p><l>estuda<s n="vblex"/><s n="tv"/></l><r>estudar<s n="vblex"/></r></p></e>
+    <e><p><l>evita<s n="vblex"/><s n="tv"/></l><r>evitar<s n="vblex"/></r></p></e>
+    <e><p><l>fasilita<s n="vblex"/><s n="tv"/></l><r>facilitar<s n="vblex"/></r></p></e>
+    <e><p><l>felisita<s n="vblex"/><s n="tv"/></l><r>felicitar<s n="vblex"/></r></p></e>
+    <e><p><l>fiar<s n="vblex"/><s n="tv"/></l><r>fiar<s n="vblex"/></r></p></e>
+    <e><p><l>formaliza<s n="vblex"/><s n="tv"/></l><r>formalizar<s n="vblex"/></r></p></e>
+    <e><p><l>garante<s n="vblex"/><s n="tv"/></l><r>garantir<s n="vblex"/></r></p></e>
+    <e><p><l>gasta<s n="vblex"/><s n="tv"/></l><r>gastar<s n="vblex"/></r></p></e>
+    <e><p><l>hadi'a<s n="vblex"/><s n="tv"/></l><r>arranjar<s n="vblex"/></r></p></e>
+    <e><p><l>hakbesik<s n="vblex"/><s n="iv"/></l><r>acercar<s n="vblex"/></r></p></e>
+    <e><p><l>haki'ak<s n="vblex"/><s n="tv"/></l><r>criar<s n="vblex"/></r></p></e>
+    <e><p><l>halibur<s n="vblex"/><s n="tv"/></l><r>recolher<s n="vblex"/></r></p></e>
+    <e><p><l>halo<s n="vblex"/><s n="tv"/></l><r>fazer<s n="vblex"/></r></p></e>
+    <e><p><l>haluha<s n="vblex"/><s n="tv"/></l><r>esquecer<s n="vblex"/></r></p></e>
+    <e><p><l>hametin<s n="vblex"/><s n="tv"/></l><r>fortalecer<s n="vblex"/></r></p></e>
+    <e><p><l>hametin<s n="vblex"/><s n="tv"/></l><r>reforçar<s n="vblex"/></r></p></e>
+    <e><p><l>hanehan<s n="vblex"/><s n="tv"/></l><r>oprimir<s n="vblex"/></r></p></e>
+    <e><p><l>hanorin<s n="vblex"/><s n="tv"/></l><r>ensinar<s n="vblex"/></r></p></e>
+    <e><p><l>hán<s n="vblex"/><s n="tv"/></l><r>comer<s n="vblex"/></r></p></e>
+    <e><p><l>harii<s n="vblex"/><s n="tv"/></l><r>fundar<s n="vblex"/></r></p></e>
+    <e><p><l>haruka<s n="vblex"/><s n="tv"/></l><r>enviar<s n="vblex"/></r></p></e>
+    <e><p><l>haruka<s n="vblex"/><s n="tv"/></l><r>comandar<s n="vblex"/></r></p></e>
+    <e><p><l>hasoru<s n="vblex"/><s n="tv"/></l><r>visitar<s n="vblex"/></r></p></e>
+    <e><p><l>hateke<s n="vblex"/><s n="tv"/></l><r>mirar<s n="vblex"/></r></p></e>
+    <e><p><l>hatene<s n="vblex"/><s n="tv"/></l><r>saber<s n="vblex"/></r></p></e>
+    <e><p><l>hatene<s n="vblex"/><s n="tv"/></l><r>conhecer<s n="vblex"/></r></p></e>
+    <e><p><l>hatudu<s n="vblex"/><s n="tv"/></l><r>mostrar<s n="vblex"/></r></p></e>
+    <e><p><l>hatutan<s n="vblex"/><s n="tv"/></l><r>acrescentar<s n="vblex"/></r></p></e>
+    <e><p><l>hein<s n="vblex"/><s n="tv"/></l><r>cuidar<s n="vblex"/></r></p></e>
+    <e><p><l>hein<s n="vblex"/><s n="tv"/></l><r>guardar<s n="vblex"/></r></p></e>
+    <e><p><l>hola<s n="vblex"/><s n="tv"/></l><r>tomar<s n="vblex"/></r></p></e>
+    <e><p><l>husik<s n="vblex"/><s n="tv"/></l><r>deixar<s n="vblex"/></r></p></e>
+    <e><p><l>husu<s n="vblex"/><s n="tv"/></l><r>perguntar<s n="vblex"/></r></p></e>
+    <e><p><l>husu<s n="vblex"/><s n="tv"/></l><r>pedir<s n="vblex"/></r></p></e>
+    <e><p><l>implementa<s n="vblex"/><s n="tv"/></l><r>implementar<s n="vblex"/></r></p></e>
+    <e><p><l>inaugura<s n="vblex"/><s n="tv"/></l><r>inaugurar<s n="vblex"/></r></p></e>
+    <e><p><l>informa<s n="vblex"/><s n="tv"/></l><r>informar<s n="vblex"/></r></p></e>
+    <e><p><l>inklui<s n="vblex"/><s n="tv"/></l><r>incluir<s n="vblex"/></r></p></e>
+    <e><p><l>intensifika<s n="vblex"/><s n="tv"/></l><r>intensificar<s n="vblex"/></r></p></e>
+    <e><p><l>investe<s n="vblex"/><s n="tv"/></l><r>investir<s n="vblex"/></r></p></e>
+    <e><p><l>kaer<s n="vblex"/><s n="tv"/></l><r>agarrar<s n="vblex"/></r></p></e>
+    <e><p><l>kaer<s n="vblex"/><s n="tv"/></l><r>segurar<s n="vblex"/></r></p></e>
+    <e><p><l>kapasita<s n="vblex"/><s n="tv"/></l><r>capacitar<s n="vblex"/></r></p></e>
+    <e><p><l>ké<s n="vblex"/><s n="tv"/></l><r>cavar<s n="vblex"/></r></p></e>
+    <e><p><l>ké<s n="vblex"/><s n="tv"/></l><r>escavar<s n="vblex"/></r></p></e>
+    <e><p><l>ko'alia<s n="vblex"/><s n="tv"/></l><r>falar<s n="vblex"/></r></p></e>
+    <e><p><l>koko<s n="vblex"/><s n="tv"/></l><r>tentar<s n="vblex"/></r></p></e>
+    <e><p><l>koko<s n="vblex"/><s n="tv"/></l><r>provar<s n="vblex"/></r></p></e>
+    <e><p><l>kolabora<s n="vblex"/><s n="tv"/></l><r>colaborar<s n="vblex"/></r></p></e>
+    <e><p><l>kompriende<s n="vblex"/><s n="tv"/></l><r>compreender<s n="vblex"/></r></p></e>
+    <e><p><l>kompriende<s n="vblex"/><s n="tv"/></l><r>entender<s n="vblex"/></r></p></e>
+    <e><p><l>konfirma<s n="vblex"/><s n="tv"/></l><r>confirmar<s n="vblex"/></r></p></e>
+    <e><p><l>konsidera<s n="vblex"/><s n="tv"/></l><r>considerar<s n="vblex"/></r></p></e>
+    <e><p><l>konta<s n="vblex"/><s n="tv"/></l><r>contar<s n="vblex"/></r></p></e>
+    <e><p><l>kontinua<s n="vblex"/><s n="tv"/></l><r>continuar<s n="vblex"/></r></p></e>
+    <e><p><l>kontratu<s n="vblex"/><s n="tv"/></l><r>contratar<s n="vblex"/></r></p></e>
+    <e><p><l>kontribui<s n="vblex"/><s n="tv"/></l><r>contribuir<s n="vblex"/></r></p></e>
+    <e><p><l>kontrola<s n="vblex"/><s n="tv"/></l><r>controlar<s n="vblex"/></r></p></e>
+    <e><p><l>konvida<s n="vblex"/><s n="tv"/></l><r>convidar<s n="vblex"/></r></p></e>
+    <e><p><l>koñese<s n="vblex"/><s n="tv"/></l><r>conhecer<s n="vblex"/></r></p></e>
+    <e><p><l>koordena<s n="vblex"/><s n="tv"/></l><r>coordenar<s n="vblex"/></r></p></e>
+    <e><p><l>kria<s n="vblex"/><s n="tv"/></l><r>criar<s n="vblex"/></r></p></e>
+    <e><p><l>marka<s n="vblex"/><s n="tv"/></l><r>marcar<s n="vblex"/></r></p></e>
+    <e><p><l>minimiza<s n="vblex"/><s n="tv"/></l><r>minimizar<s n="vblex"/></r></p></e>
+    <e><p><l>móris<s n="vblex"/><s n="iv"/></l><r>viver<s n="vblex"/></r></p></e>
+    <e><p><l>móris<s n="vblex"/><s n="iv"/></l><r>nascer<s n="vblex"/></r></p></e>
+    <e><p><l>motiva<s n="vblex"/><s n="tv"/></l><r>motivar<s n="vblex"/></r></p></e>
+    <e><p><l>muda<s n="vblex"/><s n="tv"/></l><r>mudar<s n="vblex"/></r></p></e>
+    <e><p><l>observa<s n="vblex"/><s n="tv"/></l><r>observar<s n="vblex"/></r></p></e>
+    <e><p><l>oferese<s n="vblex"/><s n="tv"/></l><r>oferecer<s n="vblex"/></r></p></e>
+    <e><p><l>okupa<s n="vblex"/><s n="tv"/></l><r>ocupar<s n="vblex"/></r></p></e>
+    <e><p><l>organiza<s n="vblex"/><s n="tv"/></l><r>organizar<s n="vblex"/></r></p></e>
+    <e><p><l>orienta<s n="vblex"/><s n="tv"/></l><r>orientar<s n="vblex"/></r></p></e>
+    <e><p><l>partisipa<s n="vblex"/><s n="tv"/></l><r>participar<s n="vblex"/></r></p></e>
+    <e><p><l>pasa<s n="vblex"/><s n="tv"/></l><r>passar<s n="vblex"/></r></p></e>
+    <e><p><l>posibilita<s n="vblex"/><s n="tv"/></l><r>possibilitar<s n="vblex"/></r></p></e>
+    <e><p><l>produz<s n="vblex"/><s n="tv"/></l><r>produzir<s n="vblex"/></r></p></e>
+    <e><p><l>promove<s n="vblex"/><s n="tv"/></l><r>promover<s n="vblex"/></r></p></e>
+    <e><p><l>proteja<s n="vblex"/><s n="tv"/></l><r>proteger<s n="vblex"/></r></p></e>
+    <e><p><l>proteje<s n="vblex"/><s n="tv"/></l><r>proteger<s n="vblex"/></r></p></e>
+    <e><p><l>prova<s n="vblex"/><s n="tv"/></l><r>provar<s n="vblex"/></r></p></e>
+    <e><p><l>reabilita<s n="vblex"/><s n="tv"/></l><r>reabilitar<s n="vblex"/></r></p></e>
+    <e><p><l>redus<s n="vblex"/><s n="tv"/></l><r>reduzir<s n="vblex"/></r></p></e>
+    <e><p><l>reduz<s n="vblex"/><s n="tv"/></l><r>reduzir<s n="vblex"/></r></p></e>
+    <e><p><l>refere<s n="vblex"/><s n="tv"/></l><r>referir<s n="vblex"/></r></p></e>
+    <e><p><l>reforsa<s n="vblex"/><s n="tv"/></l><r>reforçar<s n="vblex"/></r></p></e>
+    <e><p><l>rejista<s n="vblex"/><s n="tv"/></l><r>registar<s n="vblex"/></r></p></e>
+    <e><p><l>rekomenda<s n="vblex"/><s n="tv"/></l><r>recomendar<s n="vblex"/></r></p></e>
+    <e><p><l>rekoñese<s n="vblex"/><s n="tv"/></l><r>reconhecer<s n="vblex"/></r></p></e>
+    <e><p><l>rekupera<s n="vblex"/><s n="tv"/></l><r>recuperar<s n="vblex"/></r></p></e>
+    <e><p><l>relembra<s n="vblex"/><s n="tv"/></l><r>relembrar<s n="vblex"/></r></p></e>
+    <e><p><l>reprezenta<s n="vblex"/><s n="tv"/></l><r>representar<s n="vblex"/></r></p></e>
+    <e><p><l>responde<s n="vblex"/><s n="tv"/></l><r>responder<s n="vblex"/></r></p></e>
+    <e><p><l>rezolve<s n="vblex"/><s n="tv"/></l><r>resolver<s n="vblex"/></r></p></e>
+    <e><p><l>selebra<s n="vblex"/><s n="tv"/></l><r>celebrar<s n="vblex"/></r></p></e>
+    <e><p><l>sensibiliza<s n="vblex"/><s n="tv"/></l><r>sensibilizar<s n="vblex"/></r></p></e>
+    <e><p><l>senti<s n="vblex"/><s n="tv"/></l><r>sentir<s n="vblex"/></r></p></e>
+    <e><p><l>serve<s n="vblex"/><s n="tv"/></l><r>servir<s n="vblex"/></r></p></e>
+    <e><p><l>signifika<s n="vblex"/><s n="tv"/></l><r>significar<s n="vblex"/></r></p></e>
+    <e><p><l>subliña<s n="vblex"/><s n="tv"/></l><r>sublinhar<s n="vblex"/></r></p></e>
+    <e><p><l>termina<s n="vblex"/><s n="tv"/></l><r>terminar<s n="vblex"/></r></p></e>
+    <e><p><l>transforma<s n="vblex"/><s n="tv"/></l><r>transformar<s n="vblex"/></r></p></e>
+    <e><p><l>troka<s n="vblex"/><s n="tv"/></l><r>trocar<s n="vblex"/></r></p></e>
+    <e><p><l>valoriza<s n="vblex"/><s n="tv"/></l><r>valorizar<s n="vblex"/></r></p></e>
+    <e><p><l>vizita<s n="vblex"/><s n="tv"/></l><r>visitar<s n="vblex"/></r></p></e>
 
     <!-- SECTION: Interjections -->
 
