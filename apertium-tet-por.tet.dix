@@ -1057,6 +1057,7 @@
     <e lm="udan"><i>udan</i><par n="uma__n"/></e>
     <e lm="ular"><i>ular</i><par n="uma__n"/></e>
     <e lm="ulun"><i>ulun</i><par n="uma__n"/></e>
+    <e lm="direitór"><i>direitór</i><par n="uma__n"/></e>
     <e lm="uma"><i>uma</i><par n="uma__n"/></e>
     <e lm="uma kakuluk"><i>uma<b/>kakuluk</i><par n="uma__n"/></e>
     <e lm="utu"><i>utu</i><par n="uma__n"/></e>
@@ -1076,6 +1077,7 @@
     <e lm="rezidenti"><i>rezident</i><par n="film/i__n"/></e>
     <e lm="tanki"><i>tank</i><par n="film/i__n"/></e>
     <e lm="partisipante"><i>partisipant</i><par n="restorant/e__n"/></e>
+    <e lm="dirijente"><i>dirijent</i><par n="restorant/e__n"/></e>
     <e lm="ajente"><i>ajent</i><par n="restorant/e__n"/></e>
     <e lm="restorante"><i>restorant</i><par n="restorant/e__n"/></e>
     <e lm="milagre"><i>milagre</i><par n="uma__n"/></e>
@@ -1415,6 +1417,7 @@
     <e lm="produtór"><i>produtór</i><par n="uma__n"/></e>
     <e lm="proposta"><i>proposta</i><par n="uma__n"/></e>
     <e lm="propriedade"><i>propriedade</i><par n="uma__n"/></e>
+    <e lm="espozisaun"><i>espozisaun</i><par n="uma__n"/></e>
     <e lm="sarjentu"><i>sarjentu</i><par n="uma__n"/></e>
     <e lm="prosesu"><i>prosesu</i><par n="uma__n"/></e>
     <e lm="infraestrutura"><i>infraestrutura</i><par n="uma__n"/></e>
@@ -1504,6 +1507,8 @@
     <e lm="oras"><i>oras</i><par n="uma__n"/></e>
     <e lm="dala"><i>dala</i><par n="uma__n"/></e>
     <e lm="kampaña"><i>kampaña</i><par n="uma__n"/></e>
+    <e lm="imajen"><i>imajen</i><par n="uma__n"/></e>
+    <e lm="imigrasaun"><i>imigrasaun</i><par n="uma__n"/></e>
     <e lm="lixu"><i>lixu</i><par n="uma__n"/></e>
     <e lm="kandidatura"><i>kandidatura</i><par n="uma__n"/></e>
     <e lm="protokolu"><i>protokolu</i><par n="uma__n"/></e>
@@ -1538,6 +1543,7 @@
     <e lm="Europa"><i>Europa</i><par n="Timór__np"/></e>
     <e lm="Fransa"><i>Fransa</i><par n="Timór__np"/></e>
     <e lm="Indonézia"><i>Indonézia</i><par n="Timór__np"/></e>
+    <e lm="Indonézia" r="LR"><p><l>Indonésia</l><r>Indonézia</r></p><par n="Timór__np"/></e>
     <e lm="Inglaterra"><i>Inglaterra</i><par n="Timór__np"/></e>
     <e lm="Lizboa"><i>Lizboa</i><par n="Timór__np"/></e>
     <e lm="Portugál"><i>Portugál</i><par n="Timór__np"/></e>
@@ -1832,11 +1838,14 @@
     <e lm="Guido"><i>Guido</i><par n="Simão__np"/></e>
     <e lm="Mari"><i>Mari</i><par n="Simão__np"/></e>
     <e lm="Sebastião"><i>Sebastião</i><par n="Simão__np"/></e>
+    <e lm="César"><i>César</i><par n="Simão__np"/></e>
     <e lm="Amaro"><i>Amaro</i><par n="Simão__np"/></e>
+    <e lm="Hugo"><i>Hugo</i><par n="Simão__np"/></e>
     <e lm="Amaro"><i>Amaro</i><par n="Simão__np"/></e>
     <e lm="Jaime"><i>Jaime</i><par n="Simão__np"/></e>
 
     <e lm="Isabel"><i>Isabel</i><par n="Isabel__np"/></e>
+    <e lm="Hillary"><i>Hillary</i><par n="Isabel__np"/></e>
     <e lm="Marcelina"><i>Marcelina</i><par n="Isabel__np"/></e>
     <e lm="Maria"><i>Maria</i><par n="Isabel__np"/></e>
     <e lm="Helena"><i>Helena</i><par n="Isabel__np"/></e>
@@ -1844,6 +1853,7 @@
     <e lm="Adalgiza"><i>Adalgiza</i><par n="Isabel__np"/></e>
 
     <e lm="Vargas"><i>Vargas</i><par n="Vargas__np"/></e>
+    <e lm="Fernandes"><i>Fernandes</i><par n="Vargas__np"/></e>
     <e lm="Baptista"><i>Baptista</i><par n="Vargas__np"/></e>
     <e lm="Marques"><i>Marques</i><par n="Vargas__np"/></e>
     <e lm="Manetelo"><i>Manetelo</i><par n="Vargas__np"/></e>
@@ -2143,6 +2153,7 @@
     <e lm="krítiku"><i>krítik</i><par n="espesializad/u__adj"/></e>
     <e lm="informativu"><i>informativ</i><par n="espesializad/u__adj"/></e>
     <e lm="komunitáriu"><i>komunitári</i><par n="espesializad/u__adj"/></e>
+    <e lm="doméstiku"><i>doméstik</i><par n="espesializad/u__adj"/></e>
     <e lm="artístiku"><i>artístik</i><par n="espesializad/u__adj"/></e>
     <e lm="voluntáriu"><i>voluntári</i><par n="espesializad/u__adj"/></e>
     <e lm="istóriku"><i>istórik</i><par n="espesializad/u__adj"/></e>
@@ -2160,6 +2171,17 @@
     <e lm="aziátiku"><i>aziátik</i><par n="espesializad/u__adj"/></e>
 
 
+    <e lm="portugés"><i>portugés</i><par n="boot__adj"/></e>
+    <e lm="portugés" r="LR"><p><l>portugués</l><r>portugés</r></p><par n="boot__adj"/></e>
+    <e lm="inglés"><i>inglés</i><par n="boot__adj"/></e>
+    <e lm="fransés"><i>fransés</i><par n="boot__adj"/></e>
+    <e lm="olandés"><i>olandés</i><par n="boot__adj"/></e>
+    <e lm="japonés"><i>japonés</i><par n="boot__adj"/></e>
+    <e lm="aragonés"><i>aragonés</i><par n="boot__adj"/></e>
+    <e lm="xinés"><i>xinés</i><par n="boot__adj"/></e>
+    <e lm="noruegés"><i>noruegés</i><par n="boot__adj"/></e>
+    <e lm="maltés"><i>maltés</i><par n="boot__adj"/></e>
+    <e lm="tailandés"><i>tailandés</i><par n="boot__adj"/></e>
 
 
     <!-- SECTION: Adverbs -->
@@ -2633,6 +2655,7 @@
     <e lm="minimiza"><i>minimiza</i><par n="hán__vblex"/></e>
     <e lm="refere"><i>refere</i><par n="hán__vblex"/></e>
     <e lm="atinji"><i>atinji</i><par n="hán__vblex"/></e>
+    <e lm="disemina"><i>disemina</i><par n="hán__vblex"/></e>
     <e lm="aplika"><i>aplika</i><par n="hán__vblex"/></e>
     <e lm="intensifika"><i>intensifika</i><par n="hán__vblex"/></e>
 
