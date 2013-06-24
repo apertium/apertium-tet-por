@@ -22,6 +22,9 @@
   <char value="á">
     <equiv-char value="a"/>
   </char>
+  <char value="ñ">
+    <equiv-char value="n"/>
+  </char>
   <char value="ú">
     <equiv-char value="u"/>
   </char>

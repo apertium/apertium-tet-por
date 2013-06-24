@@ -2,4 +2,11 @@
   <rule>
     <match lemma="halo" tags="vblex.tv"><select lemma="fazer" tags="vblex"/></match>
   </rule>
+  <rule>
+    <match lemma="móris" tags="vblex.iv"><select lemma="viver" tags="vblex"/></match>
+  </rule>
+  <rule>
+    <match lemma="moras" tags="adj"/>
+    <match lemma="fuan" tags="n"><select lemma="coração" tags="n.*"/></match>
+  </rule>
 </rules>

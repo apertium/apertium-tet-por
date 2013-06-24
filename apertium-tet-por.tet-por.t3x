@@ -11,8 +11,9 @@
     <def-cat n="v">
       <cat-item name="v"/>
     </def-cat>
-    <def-cat n="v-inf">
+    <def-cat n="v-inf/ref">
       <cat-item name="v-inf"/>
+      <cat-item name="v-ref"/>
     </def-cat>
     <def-cat n="sent">
       <cat-item name="punt"/>
@@ -84,7 +85,7 @@
 
     <rule comment="CHUNK:">
       <pattern>
-        <pattern-item n="v-inf"/>
+        <pattern-item n="v-inf/ref"/>
       </pattern>
       <action>
         <choose>

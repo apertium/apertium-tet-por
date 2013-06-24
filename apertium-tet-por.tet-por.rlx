@@ -7,6 +7,7 @@ LIST N = n ;
 LIST V = vblex ; 
 LIST A = adj ; 
 LIST Det = det ; 
+LIST Num = num ; 
 LIST Conj = cnjadv cnjsub ; 
 LIST Adv = adv ; 
 LIST Pron = prn ; 
@@ -16,6 +17,7 @@ LIST Postverb = postverb ;
 LIST Preverb = preverb ;
 LIST Pr = pr ;
 LIST Cm = cm ;
+LIST Cla = cla ;
 
 SECTION
 
@@ -24,6 +26,8 @@ SECTION
 "<iha>" SELECT Exist IF (-1C Vbmod);
 
 "<iha>" SELECT Exist IF (-1 Adv) (-2C Vbmod);
+
+"<iha>" SELECT Pr IF (1 ("<loron>")) (2 Num);
 
 "<ho>" SELECT Pr IF (-1 ("<hamutuk>"));
 
@@ -35,15 +39,12 @@ SELECT Pron IF (-1 Cm) (0 ("né'e")) (1 V);
 
 SELECT Pron IF (-1 Pr OR V) (0 ("né'e")) (1 Pr);
 
+SELECT Det IF (-1C N) (0 ("né'e")) (1 Cm);
+
 SELECT A IF (-1C N);
 
 SELECT V IF (-1C Preverb) (0C V OR N);
 
 SELECT V IF (-1C Pron) (0C V OR N);
 
-
-SECTION
-
-#ADD (JJ) TARGET ("\\*.*"r) (-1C N);
-#ADD (NN) TARGET ("\\*.*"r)  (0 ("<.*saun>"));
-ADD (VV) TARGET ("\\*.*"r) (-1C Preverb);
+REMOVE Cla IF (0 Cla OR N);

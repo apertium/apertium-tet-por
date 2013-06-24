@@ -17,6 +17,9 @@
       <program name="lt-proc -b">
         <file name="tet-por.autobil.bin"/>
       </program>
+      <program name="lrx-proc">
+        <file name="tet-por.autolex.bin"/>
+      </program>
       <program name="apertium-transfer -b">
         <file name="apertium-tet-por.tet-por.t1x"/>
         <file name="tet-por.t1x.bin"/>
@@ -52,6 +55,9 @@
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="tet-por.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="tet-por.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-tet-por.tet-por.t1x"/>
