@@ -10,6 +10,7 @@
     </def-cat>
     <def-cat n="PROP">
       <cat-item lemma="prop" tags="SN.*"/>
+      <cat-item lemma="prop" tags="SN"/>
     </def-cat>
     <def-cat n="SN">
       <cat-item tags="SN.*"/>

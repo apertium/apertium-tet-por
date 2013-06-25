@@ -400,6 +400,7 @@
     <e lm="se"><i>se</i><par n="la'ós__cnjadv"/></e>
     <e lm="maske"><i>maske</i><par n="la'ós__cnjadv"/></e>
     <e lm="maske" r="LR"><p><l>maski</l><r>maske</r></p><par n="la'ós__cnjadv"/></e>
+    <e lm="maske" r="LR"><p><l>mazke</l><r>maske</r></p><par n="la'ós__cnjadv"/></e>
     <e lm="para"><i>para</i><par n="la'ós__cnjadv"/></e>
     <e lm="kuanu"><i>kuanu</i><par n="la'ós__cnjadv"/></e>
     <e lm="momentu"><i>momentu</i><par n="la'ós__cnjadv"/></e>
@@ -1253,6 +1254,7 @@
     <e lm="suprevizionamentu"><i>suprevizionamentu</i><par n="uma__n"/></e>
     <e lm="solusaun"><i>solusaun</i><par n="uma__n"/></e>
     <e lm="meiu ambiente"><i>meiu<b/>ambiente</i><par n="uma__n"/></e>
+    <e lm="ambiente"><i>ambiente</i><par n="uma__n"/></e>
     <e lm="tratamentu"><i>tratamentu</i><par n="uma__n"/></e>
     <e lm="treinamentu"><i>treinamentu</i><par n="uma__n"/></e>
     <e lm="vensimentu"><i>vensimentu</i><par n="uma__n"/></e>
@@ -1871,11 +1873,13 @@
     <e lm="Sebastião"><i>Sebastião</i><par n="Simão__np"/></e>
     <e lm="César"><i>César</i><par n="Simão__np"/></e>
     <e lm="Amaro"><i>Amaro</i><par n="Simão__np"/></e>
+    <e lm="Alfredo"><i>Alfredo</i><par n="Simão__np"/></e>
     <e lm="Hugo"><i>Hugo</i><par n="Simão__np"/></e>
     <e lm="Amaro"><i>Amaro</i><par n="Simão__np"/></e>
     <e lm="Jaime"><i>Jaime</i><par n="Simão__np"/></e>
 
     <e lm="Isabel"><i>Isabel</i><par n="Isabel__np"/></e>
+    <e lm="Emilia"><i>Emilia</i><par n="Isabel__np"/></e>
     <e lm="Hillary"><i>Hillary</i><par n="Isabel__np"/></e>
     <e lm="Marcelina"><i>Marcelina</i><par n="Isabel__np"/></e>
     <e lm="Maria"><i>Maria</i><par n="Isabel__np"/></e>
@@ -1888,6 +1892,7 @@
     <e lm="Baptista"><i>Baptista</i><par n="Vargas__np"/></e>
     <e lm="Marques"><i>Marques</i><par n="Vargas__np"/></e>
     <e lm="Manetelo"><i>Manetelo</i><par n="Vargas__np"/></e>
+    <e lm="Pires"><i>Pires</i><par n="Vargas__np"/></e>
     <e lm="Valadares"><i>Valadares</i><par n="Vargas__np"/></e>
     <e lm="Coelho"><i>Coelho</i><par n="Vargas__np"/></e>
     <e lm="Vital"><i>Vital</i><par n="Vargas__np"/></e>
@@ -2146,6 +2151,7 @@
     <e lm="klimátiku"><i>klimátik</i><par n="espesializad/u__adj"/></e>
     <e lm="médiku"><i>médik</i><par n="espesializad/u__adj"/></e>
     <e lm="marítimu"><i>marítim</i><par n="espesializad/u__adj"/></e>
+    <e lm="mariñu"><i>mariñ</i><par n="espesializad/u__adj"/></e>
     <e lm="amerikanu"><i>amerikan</i><par n="espesializad/u__adj"/></e>
     <e lm="aeroportuári"><i>aeroportuári</i><par n="espesializad/u__adj"/></e>
     <e lm="umanitária"><i>umanitári</i><par n="espesializad/u__adj"/></e>
@@ -2335,6 +2341,7 @@
     <e lm="totalmente"><i>totalmente</i><par n="naturalmente__adv"/></e>
     <e lm="urjentemente"><i>urjentemente</i><par n="naturalmente__adv"/></e>
     <e lm="vertikalmente"><i>vertikalmente</i><par n="naturalmente__adv"/></e>
+    <e lm="teknikamente"><i>teknikamente</i><par n="naturalmente__adv"/></e>
     <e lm="ekonomikamente"><i>ekonomikamente</i><par n="naturalmente__adv"/></e>
 
 
