@@ -2,6 +2,9 @@
 <!-- -*- nxml -*- -->
 <interchunk>
   <section-def-cats>
+    <def-cat n="NIAN">
+      <cat-item lemma="nian" tags="POSTDET"/>
+    </def-cat>
     <def-cat n="PRN">
       <cat-item lemma="prn" tags="SN.*"/>
     </def-cat>
@@ -13,6 +16,7 @@
       <cat-item lemma="prop" tags="SN"/>
     </def-cat>
     <def-cat n="SN">
+      <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
     </def-cat>
     <def-cat n="SV">
@@ -161,6 +165,34 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: SN SN NIAN">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="SN"/>
+        <pattern-item n="NIAN"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <lit v="de&lt;PREP&gt;{^de&lt;pr&gt;$}"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
   </section-rules>

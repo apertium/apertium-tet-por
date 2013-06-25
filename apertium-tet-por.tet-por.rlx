@@ -21,6 +21,8 @@ LIST Cm = cm ;
 LIST Cla = cla ;
 LIST Location = "sub-distritu"i "país"i ; 
 LIST Loc = "ókos" "leten" "sorin" "ninin" "le'et" ;
+LIST Pl1 = (p1n pl) (p1x pl);
+LIST Sg2 = (p2 sg);
 
 SECTION
 
@@ -37,6 +39,8 @@ SECTION
 "<ho>" SELECT Pr IF (-1 ("<hamutuk>"));
 
 "<sira>" SELECT Pron IF (-1 Pr) (1 Preverb);
+
+SELECT Pl1 IF (0 Pl1 OR Sg2);
 
 SELECT Pr IF (0 Pr OR Exist) (1 N) (2 Det);
 

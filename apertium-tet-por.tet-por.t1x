@@ -9,6 +9,9 @@
     <def-cat n="prn-ref">
       <cat-item tags="prn.ref"/>
     </def-cat>
+    <def-cat n="nian">
+      <cat-item lemma="nian" tags="postdet"/>
+    </def-cat>
     <def-cat n="hotu">
       <cat-item lemma="hotu" tags="det.qnt"/>
     </def-cat>
@@ -1544,6 +1547,23 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: nian">
+      <pattern>
+        <pattern-item n="nian"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="nian" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="POSTDET"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: SENT">
       <pattern>

@@ -523,6 +523,7 @@
     <e><p><l>fiar<s n="n"/></l><r>fé<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>finansiamentu<s n="n"/></l><r>financiamento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>finasiamentu<s n="n"/></l><r>financiamento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>parseiru<s n="n"/></l><r>parceiro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>fini<s n="n"/></l><r>semente<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>fiskalizasaun<s n="n"/></l><r>fiscalização<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>foho<s n="n"/></l><r>montanha<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -921,6 +922,7 @@
     <e><p><l>votasaun<s n="n"/></l><r>votação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>workshop<s n="n"/></l><r>seminário<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>workshop<s n="n"/></l><r>colóquio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>kolokiu<s n="n"/></l><r>colóquio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>xave<s n="n"/></l><r>chave<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>xefe<s n="n"/></l><r>chefe<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>zona<s n="n"/></l><r>zona<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -1011,7 +1013,7 @@
     <e><p><l>orientadór<s n="n"/></l><r>orientador<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>oseanu<s n="n"/></l><r>oceano<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>parenti<s n="n"/></l><r>parente<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-    <e><p><l>pasaporti<s n="n"/></l><r>pasaporte<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>pasaporti<s n="n"/></l><r>passaporte<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>peskiza<s n="n"/></l><r>pesquisa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>petróliu<s n="n"/></l><r>petróleo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>pezka<s n="n"/></l><r>pesca<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -1050,6 +1052,13 @@
     <e><p><l>xoke<s n="n"/></l><r>choque<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
 
     <e><p><l>ambiente<s n="n"/></l><r>ambiente<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>abuzu<s n="n"/></l><r>abuso<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>faktu<s n="n"/></l><r>fato<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>irregularidade<s n="n"/></l><r>irregularidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>reportajen<s n="n"/></l><r>reportagem<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>risku<s n="n"/></l><r>risco<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>timoroan<s n="n"/></l><r>timorense<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
+
 
 
     <!-- SECTION: Proper nouns -->
@@ -1228,6 +1237,7 @@
     <e><p><l>Isaac<s n="np"/><s n="ant"/><s n="m"/></l><r>Isaac<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Bendito<s n="np"/><s n="ant"/><s n="m"/></l><r>Bendito<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Isabel<s n="np"/><s n="ant"/><s n="f"/></l><r>Isabel<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Ana<s n="np"/><s n="ant"/><s n="f"/></l><r>Ana<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Jaime<s n="np"/><s n="ant"/><s n="m"/></l><r>Jaime<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>João<s n="np"/><s n="ant"/><s n="m"/></l><r>João<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Jorge<s n="np"/><s n="ant"/><s n="m"/></l><r>Jorge<s n="np"/><s n="ant"/></r></p></e>
@@ -1357,7 +1367,12 @@
     <e><p><l>seluk<s n="adj"/></l><r>outro<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>balu<s n="adj"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
 
+    <e><p><l>investigativu<s n="adj"/></l><r>investigativo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>jornalístiku<s n="adj"/></l><r>jornalístico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>negativu<s n="adj"/></l><r>negativo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+
     <e><p><l>ativu<s n="adj"/></l><r>ativo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>jenériku<s n="adj"/></l><r>genérico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>espesiál<s n="adj"/></l><r>especial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>di'ak<b/>liu<s n="adj"/></l><r>melhor<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>infantil<s n="adj"/></l><r>infantil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
@@ -1372,7 +1387,7 @@
     <e><p><l>privadu<s n="adj"/></l><r>privado<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>mutin<s n="adj"/></l><r>branco<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>mean<s n="adj"/></l><r>vermelho<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e><p><l>metan<s n="adj"/></l><r>prieto<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>metan<s n="adj"/></l><r>preto<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>públiku<s n="adj"/></l><r>público<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>hamutuk<s n="adj"/></l><r>junto<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>profisionál<s n="adj"/></l><r>profissional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
@@ -1538,6 +1553,7 @@
     <e><p><l>maka'as<s n="adj"/></l><r>forte<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>malirin<s n="adj"/></l><r>frio<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>manas<s n="adj"/></l><r>quente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>komun<s n="adj"/></l><r>comum<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>maran<s n="adj"/></l><r>seco<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>matenek<s n="adj"/></l><r>sábio<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>metin<s n="adj"/></l><r>firme<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
@@ -1966,6 +1982,7 @@
     <e><p><l>harona<s n="vblex"/><s n="tv"/></l><r>ouvrir<s n="vblex"/></r></p></e>
     <e><p><l>hasoru<b/>malu<s n="vblex"/><s n="tv"/></l><r>reunir-se<s n="vblex"/></r></p></e>
     <e><p><l>sofre<s n="vblex"/><s n="tv"/></l><r>sofrer<s n="vblex"/></r></p></e>
+    <e><p><l>deskobre<s n="vblex"/><s n="tv"/></l><r>descobrir<s n="vblex"/></r></p></e>
 
 
 
