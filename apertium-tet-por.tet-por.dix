@@ -42,6 +42,7 @@
     <sdef n="pers"     c="Personal"/>
     <sdef n="ref"      c="Reflexive"/>
     <sdef n="rec"      c="Reciprocal"/>
+    <sdef n="ord"      c="Ordinal"/>
     <sdef n="pro"      c="Proclítico"/>
     <sdef n="pos"      c="Possessive"/>
     <sdef n="dem"      c="Demonstrative"/>
@@ -88,6 +89,7 @@
     <e><p><l>portantu<s n="cnjadv"/></l><r>portanto<s n="cnjadv"/></r></p></e>
     <e><p><l>se<s n="cnjadv"/></l><r>se<s n="cnjadv"/></r></p></e>
     <e><p><l>bain-hira<s n="cnjadv"/></l><r>quando<s n="rel"/><s n="adv"/></r></p></e>
+    <e><p><l>kuandu<s n="cnjadv"/></l><r>quando<s n="rel"/><s n="adv"/></r></p></e>
 
     <e><p><l>ka<s n="cnjcoo"/></l><r>ou<s n="cnjcoo"/></r></p></e>
     <e><p><l>maske<s n="cnjadv"/></l><r>embora<s n="cnjadv"/></r></p></e>
@@ -98,7 +100,7 @@
     <!-- SECTION: Classifiers -->
 
     <e r="LR"><p><l>lolon<s n="cla"/></l><r></r></p></e>
-    <e r="LR"><p><l>nain<s n="cla"/></l><r></r></p></e>
+    <e r="LR"><p><l>na'in<s n="cla"/></l><r></r></p></e>
     <e r="LR"><p><l>tahan<s n="cla"/></l><r></r></p></e>
     <e r="LR"><p><l>fatin<s n="cla"/></l><r></r></p></e>
 
@@ -354,6 +356,8 @@
     <e><p><l>levantamentu<s n="n"/></l><r>levantamento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>munisípiu<s n="n"/></l><r>município<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>daerah<s n="n"/></l><r>região<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>isin-rua<s n="n"/></l><r>gravidez<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>inan<b/>isin-rua<s n="n"/></l><r>fertilidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>okupasaun<s n="n"/></l><r>ocupação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>funu<s n="n"/></l><r>guerra<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>primeiru<b/>ministru<s n="n"/></l><r>primeiro<b/>ministro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -364,6 +368,7 @@
 
 
     <e><p><l>abastesimentu<s n="n"/></l><r>abastecimento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>tuur-ahi<s n="n"/></l><r>parto<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>abertura<s n="n"/></l><r>abertura<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>abríl<s n="n"/></l><r>abril<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>abstensaun<s n="n"/></l><r>abstenção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -383,6 +388,7 @@
     <e><p><l>ajenda<s n="n"/></l><r>agenda<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>ajénsia<s n="n"/></l><r>agência<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>ajente<s n="n"/></l><r>agente<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>feto-raan<s n="n"/></l><r>garoto<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>akontabilidade<s n="n"/></l><r>contabilidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>akordu<s n="n"/></l><r>acordo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>aldeia<s n="n"/></l><r>aldeia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -397,6 +403,7 @@
     <e><p><l>aparellu<s n="n"/></l><r>aparelho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>aprezentasaun<s n="n"/></l><r>apresentação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>aprosimasaun<s n="n"/></l><r>aproximação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>defeza<s n="n"/></l><r>defesa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>aprovasaun<s n="n"/></l><r>aprovação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>área<s n="n"/></l><r>área<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>arendamentu<s n="n"/></l><r>arrendamento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -417,7 +424,9 @@
     <e><p><l>aviaun<s n="n"/></l><r>avião<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>bairu<s n="n"/></l><r>bairro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>banku<s n="n"/></l><r>banco<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>estudu<s n="n"/></l><r>estudo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>baze<s n="n"/></l><r>base<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>bolsu<s n="n"/></l><r>bolsa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>bé<s n="n"/></l><r>agua<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>benefísiu<s n="n"/></l><r>benefício<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>brigadeiru<s n="n"/></l><r>brigadeiro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -441,6 +450,7 @@
     <e><p><l>determinasaun<s n="n"/></l><r>determinação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>devér<s n="n"/></l><r>dever<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>dezafiu<s n="n"/></l><r>desafio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>tékniku<s n="n"/></l><r>técnico<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>dezastre<s n="n"/></l><r>desastre<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>dezembru<s n="n"/></l><r>dezembro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>dezempregu<s n="n"/></l><r>desemprego<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -608,6 +618,8 @@
     <e><p><l>jornalizmu<s n="n"/></l><r>jornalismo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>jornál<s n="n"/></l><r>jornal<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>joven<s n="n"/></l><r>jovem<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>klosan<s n="n"/></l><r>jovem<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e><p><l>klosan<s n="n"/></l><r>juventude<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>foin-sa'e<s n="n"/></l><r>jovem<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>jullu<s n="n"/></l><r>julho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>juramentu<s n="n"/></l><r>juramento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -1201,7 +1213,7 @@
 
 
     <e><p><l>Armando<s n="np"/><s n="ant"/><s n="m"/></l><r>Armando<s n="np"/><s n="ant"/></r></p></e>
-    <e><p><l>Emilia<s n="np"/><s n="ant"/><s n="f"/></l><r>Emilia<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Emília<s n="np"/><s n="ant"/><s n="f"/></l><r>Emília<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Filipus<s n="np"/><s n="ant"/><s n="m"/></l><r>Filipus<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Flávio<s n="np"/><s n="ant"/><s n="m"/></l><r>Flávio<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Borja<s n="np"/><s n="ant"/><s n="m"/></l><r>Borja<s n="np"/><s n="ant"/></r></p></e>
@@ -1366,6 +1378,11 @@
 
     <e><p><l>seluk<s n="adj"/></l><r>outro<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>balu<s n="adj"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+
+    <e><p><l>dahuluk<s n="adj"/><s n="ord"/></l><r>primeiro<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>primeiru<s n="adj"/><s n="ord"/></l><r>primeiro<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>daruak<s n="adj"/><s n="ord"/></l><r>segundo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>segundu<s n="adj"/><s n="ord"/></l><r>segundo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <e><p><l>investigativu<s n="adj"/></l><r>investigativo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>jornalístiku<s n="adj"/></l><r>jornalístico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -1967,18 +1984,21 @@
     <e><p><l>konkretiza<s n="vblex"/><s n="tv"/></l><r>concretizar<s n="vblex"/></r></p></e>
     <e><p><l>tulun<s n="vblex"/><s n="tv"/></l><r>ajudar<s n="vblex"/></r></p></e>
     <e><p><l>tún<s n="vblex"/><s n="iv"/></l><r>baixar<s n="vblex"/></r></p></e>
+    <e><p><l>haka'as<s n="vblex"/><s n="iv"/></l><r>esforçar<s n="vblex"/></r></p></e>
     <e><p><l>túr<s n="vblex"/><s n="iv"/></l><r>morar<s n="vblex"/></r></p></e>
     <e><p><l>túr<s n="vblex"/><s n="iv"/></l><r>estar<g><b/>sentado</g><s n="vblex"/></r></p></e>
     <e><p><l>xoke<s n="vblex"/><s n="tv"/></l><r>chocar<s n="vblex"/></r></p></e>
     <e><p><l>afeta<s n="vblex"/><s n="tv"/></l><r>afectar<s n="vblex"/></r></p></e>
     <e><p><l>maneja<s n="vblex"/><s n="tv"/></l><r>manejar<s n="vblex"/></r></p></e>
     <e><p><l>bazeia<s n="vblex"/><s n="tv"/></l><r>basear<s n="vblex"/></r></p></e>
+    <e><p><l>kompara<s n="vblex"/><s n="tv"/></l><r>comparar<s n="vblex"/></r></p></e>
     <e><p><l>sa'e<s n="vblex"/><s n="tv"/></l><r>levantar<s n="vblex"/></r></p></e>
 
     <e><p><l>halakon<s n="vblex"/><s n="tv"/></l><r>destruir<s n="vblex"/></r></p></e>
     <e><p><l>hasai<s n="vblex"/><s n="tv"/></l><r>tirar<s n="vblex"/></r></p></e>
     <e><p><l>define<s n="vblex"/><s n="tv"/></l><r>definir<s n="vblex"/></r></p></e>
     <e><p><l>servisu<s n="vblex"/><s n="tv"/></l><r>trabalhar<s n="vblex"/></r></p></e>
+    <e><p><l>servi<s n="vblex"/><s n="tv"/></l><r>servir<s n="vblex"/></r></p></e>
     <e><p><l>harona<s n="vblex"/><s n="tv"/></l><r>ouvrir<s n="vblex"/></r></p></e>
     <e><p><l>hasoru<b/>malu<s n="vblex"/><s n="tv"/></l><r>reunir-se<s n="vblex"/></r></p></e>
     <e><p><l>sofre<s n="vblex"/><s n="tv"/></l><r>sofrer<s n="vblex"/></r></p></e>
