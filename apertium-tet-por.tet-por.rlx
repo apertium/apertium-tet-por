@@ -20,7 +20,7 @@ LIST Pr = pr ;
 LIST Cm = cm ;
 LIST Cla = cla ;
 LIST Location = "sub-distritu"i "país"i ; 
-LIST Loc = "ókos" "leten" "sorin" "ninin" ;
+LIST Loc = "ókos" "leten" "sorin" "ninin" "le'et" ;
 
 SECTION
 

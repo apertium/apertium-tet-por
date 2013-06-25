@@ -11,6 +11,7 @@ all:
 	apertium-preprocess-transfer apertium-tet-por.tet-por.t3x tet-por.t3x.bin
 	apertium-gen-modes modes.xml
 	cp *.mode modes/
+	lt-comp rl apertium-tet-por.por.dix tet-por.autogen.bin
 
 clean:
 	rm -rf *.bin *.mode modes
