@@ -144,8 +144,10 @@
     <e><p><l>balu<s n="det"/><s n="ind"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>ruma<s n="det"/><s n="ind"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>barak<s n="det"/><s n="qnt"/></l><r>muito<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e><p><l>lubuk<s n="det"/><s n="ind"/></l><r>vário<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e><p><l>oi-oin<s n="det"/><s n="ind"/></l><r>vário<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>bar-barak<s n="det"/><s n="qnt"/></l><r>muito<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>bar-barak<s n="det"/><s n="qnt"/></l><r>vário<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e><p><l>lubuk<s n="det"/><s n="ind"/></l><r>vário<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e><p><l>oi-oin<s n="det"/><s n="ind"/></l><r>vário<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
     <e><p><l>lubuk<s n="det"/><s n="ind"/></l><r>diverso<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>hotu<s n="det"/><s n="qnt"/></l><r>todo<s n="predet"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>hotu-hotu<s n="det"/><s n="qnt"/></l><r>todo<s n="predet"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -1414,6 +1416,7 @@
     <e><p><l>aeroportuáriu<s n="adj"/></l><r>aeroportuário<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>afrikanu<s n="adj"/></l><r>africano<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>alimentár<s n="adj"/></l><r>alimentar<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>tuituir<s n="adj"/></l><r>consecutivo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>amerikanu<s n="adj"/></l><r>americano<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>anuál<s n="adj"/></l><r>anual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>artístiku<s n="adj"/></l><r>artístico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -1675,6 +1678,8 @@
 
     <e><p><l>kalan-kalan<s n="adv"/></l><r>cada<b/>noite<s n="adv"/></r></p></e>
     <e><p><l>teknikamente<s n="adv"/></l><r>tecnicamente<s n="adv"/></r></p></e>
+    <e><p><l>no<b/>nune'e<b/>karik<s n="adv"/></l><r>por<b/>conseguinte<s n="adv"/></r></p></e>
+    <e><p><l>beibeik<s n="adv"/></l><r>muitas<b/>vezes<s n="adv"/></r></p></e>
     <e><p><l>ho<b/>didiak<s n="adv"/></l><r>com<b/>cuidado<s n="adv"/></r></p></e>
     <e><p><l>iha<b/>mundu<b/>tomak<s n="adv"/></l><r>em<b/>tudo<b/>o<b/>mundo<s n="adv"/></r></p></e>
 
@@ -1798,8 +1803,8 @@
     <e><p><l>inklui<s n="vblex"/><s n="tv"/></l><r>incluir<s n="vblex"/></r></p></e>
     <e><p><l>intensifika<s n="vblex"/><s n="tv"/></l><r>intensificar<s n="vblex"/></r></p></e>
     <e><p><l>investe<s n="vblex"/><s n="tv"/></l><r>investir<s n="vblex"/></r></p></e>
-    <e><p><l>kaer<s n="vblex"/><s n="tv"/></l><r>agarrar<s n="vblex"/></r></p></e>
-    <e><p><l>kaer<s n="vblex"/><s n="tv"/></l><r>segurar<s n="vblex"/></r></p></e>
+    <e><p><l>ka'er<s n="vblex"/><s n="tv"/></l><r>agarrar<s n="vblex"/></r></p></e>
+    <e><p><l>ka'er<s n="vblex"/><s n="tv"/></l><r>segurar<s n="vblex"/></r></p></e>
     <e><p><l>kapasita<s n="vblex"/><s n="tv"/></l><r>capacitar<s n="vblex"/></r></p></e>
     <e><p><l>ké<s n="vblex"/><s n="tv"/></l><r>cavar<s n="vblex"/></r></p></e>
     <e><p><l>ké<s n="vblex"/><s n="tv"/></l><r>escavar<s n="vblex"/></r></p></e>
@@ -2002,7 +2007,17 @@
     <e><p><l>harona<s n="vblex"/><s n="tv"/></l><r>ouvrir<s n="vblex"/></r></p></e>
     <e><p><l>hasoru<b/>malu<s n="vblex"/><s n="tv"/></l><r>reunir-se<s n="vblex"/></r></p></e>
     <e><p><l>sofre<s n="vblex"/><s n="tv"/></l><r>sofrer<s n="vblex"/></r></p></e>
+    <e><p><l>proklama<s n="vblex"/><s n="tv"/></l><r>proclamar<s n="vblex"/></r></p></e>
     <e><p><l>deskobre<s n="vblex"/><s n="tv"/></l><r>descobrir<s n="vblex"/></r></p></e>
+    <e><p><l>tenik<b/>tan<s n="vblex"/><s n="tv"/></l><r>realçar<s n="vblex"/></r></p></e>
+    <e><p><l>tenik<b/>tan<s n="vblex"/><s n="tv"/></l><r>reiterar<s n="vblex"/></r></p></e>
+    <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>adiantar<s n="vblex"/></r></p></e>
+    <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>defender<s n="vblex"/></r></p></e>
+    <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>reforçar<s n="vblex"/></r></p></e>
+    <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>apelar<s n="vblex"/></r></p></e>
+    <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>insistir<s n="vblex"/></r></p></e>
+    <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>declarar<s n="vblex"/></r></p></e>
+    <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>acrescentar<s n="vblex"/></r></p></e>
 
 
 
@@ -2010,6 +2025,7 @@
 
     <e><p><l>lae<s n="ij"/></l><r>não<s n="ij"/></r></p></e>
     <e><p><l>parabéns<s n="ij"/></l><r>parabéns<s n="ij"/></r></p></e>
+    <e><p><l>adeus<s n="ij"/></l><r>adeus<s n="ij"/></r></p></e>
     <e><p><l>lisensa<s n="ij"/></l><r>com<b/>licença<s n="ij"/></r></p></e>
 
 
