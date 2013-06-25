@@ -9,4 +9,11 @@
     <match lemma="moras" tags="adj"/>
     <match lemma="fuan" tags="n"><select lemma="coração" tags="n.*"/></match>
   </rule>
+  <rule>
+    <match lemma="lian" tags="n"><select lemma="língua" tags="n.*"/></match>
+  </rule>
+  <rule>
+    <match lemma="kursu" tags="n"/>
+    <match lemma="lian" tags="n"><select lemma="língua" tags="n.*"/></match>
+  </rule>
 </rules>

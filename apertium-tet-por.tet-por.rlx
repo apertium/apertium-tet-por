@@ -38,7 +38,7 @@ SECTION
 
 "<sira>" SELECT Pron IF (-1 Pr) (1 Preverb);
 
-SELECT Pr IF (0 Pr OR Exist) (1C N) (2 Det);
+SELECT Pr IF (0 Pr OR Exist) (1 N) (2 Det);
 
 SELECT Pr IF (0 Pr OR Exist) (1 N) (2 Loc);
 
@@ -51,6 +51,10 @@ SELECT Pron IF (-1 Pr OR V) (0 ("né'e")) (1 Pr);
 SELECT Det IF (-1C N) (0 ("ida né'e")) (1 Cm);
 
 SELECT Det IF (-1C N) (0 ("ida-idak")) ; 
+
+SELECT Det IF (-1C N);
+
+REMOVE V IF (-1 Pr) (0 N OR V);
 
 SELECT A IF (-1C N);
 

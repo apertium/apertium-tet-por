@@ -67,6 +67,7 @@
     <sdef n="cm"/>
     <sdef n="guio"/>
     <sdef n="lpar"/>
+    <sdef n="apos"/>
     <sdef n="rpar"/>
     <sdef n="lquest"/>
     <sdef n="pmp"/>
@@ -76,6 +77,12 @@
   </sdefs>
 
   <pardefs>
+
+    <pardef n="cometa">
+      <e><re>[’'‘]</re><p><l/><r><s n="apos"/></r></p></e>
+    </pardef>
+
+
 	  <pardef n="numeros">
 		  
       <e>
@@ -126,6 +133,12 @@
 
     <pardef n="guionet">
     
+      <e>
+        <p>
+          <l>–</l>
+         <r>–<s n="guio"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>-</l>
@@ -119129,6 +119142,11 @@
       </e>
       
       <e>
+        <i>sub-distrito</i>
+        <par n="livro__n"/>
+      </e>
+      
+      <e>
         <i>distrito</i>
         <par n="livro__n"/>
       </e>
@@ -131704,6 +131722,10 @@
 		
 		<e>
 			<i>a<b/>par<b/></i>
+			<par n="/de__pr"/>
+		</e>      
+		<e>
+			<i>antes<b/></i>
 			<par n="/de__pr"/>
 		</e>      
 		<e>
@@ -147836,6 +147858,13 @@
 	<r>Chipre<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r>
 	</p>
 </e> 
+
+<e>
+	<p>
+	<l>Coreia<b/>do<b/>Sul</l>
+	<r>Coreia<b/>do<b/>Sul<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r>
+	</p>
+</e> 
 <e>
 	<p>
 	<l>Coreia</l>
@@ -153150,6 +153179,8 @@
 <e><i>interatu</i><par n="abal/ar__vblex"/></e>
 
 
+<e><p><l>primeiro<b/>ministro</l><r>primeiro<b/>ministro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>primeiros<b/>ministros</l><r>primeiro<b/>ministro<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 
 <e><i>aerogerador</i><par n="amor__n"/></e>
 <e><i>subestaç</i><par n="aceitaç/ão__n"/></e> 
@@ -153205,6 +153236,9 @@
       </e>
       <e>
 	<par n="urls"/>
+      </e>
+      <e>
+	<par n="cometa"/>
       </e>
       <e>
 	<par n="guionet"/>
