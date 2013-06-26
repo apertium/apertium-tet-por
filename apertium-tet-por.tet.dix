@@ -577,6 +577,7 @@
     <e lm="malu"><i>malu</i><par n="malu__prn"/></e>
 
     <e lm="ida né'e"><i>ida<b/>né'e</i><par n="né'e__prn"/></e>
+
     <e lm="né'e"><i>né'e</i><par n="né'e__prn"/></e>
     <e lm="nee" r="LR"><p><l>nee</l><r>né'e</r></p><par n="né'e__prn"/></e>
     <e lm="nee" r="LR"><p><l>né'<b/>e</l><r>né'e</r></p><par n="né'e__prn"/></e>
@@ -587,7 +588,8 @@
     <e lm="ne'ebé" r="LR"><p><l>ne'<b/>eb'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <e lm="ne'ebé" r="LR"><p><l>nebe'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <e lm="ne'ebé" r="LR"><p><l>neb'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
-    <!--<e lm="be"><i>be</i><par n="ne'ebé__rel"/></e>-->
+    <e lm="ne'ebé" r="LR"><p><l>ne'bé</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
+
     <e lm="ida-idak"><i>ida-idak</i><par n="ida-idak__prn"/></e>
     <e lm="ida-idak" r="LR"><p><l>idaidak</l><r>ida-idak</r></p><par n="ida-idak__prn"/></e>
     <e lm="buat ruma"><i>buat<b/>ruma</i><par n="ida-idak__prn"/></e>
@@ -1524,6 +1526,7 @@
     <e lm="aldeia"><i>aldeia</i><par n="uma__n"/></e>
     <e lm="k'nua"><i>k'nua</i><par n="uma__n"/></e>
     <e lm="k'nua" r="LR"><p><l>knua</l><r>k'nua</r></p><par n="uma__n"/></e>
+    <e lm="k'nua" r="LR"><p><l>knu'a</l><r>k'nua</r></p><par n="uma__n"/></e>
     <e lm="kilómetru"><i>kilómetru</i><par n="uma__n"/></e>
     <e lm="banku"><i>banku</i><par n="uma__n"/></e>
     <e lm="ambulánsia"><i>ambulánsia</i><par n="uma__n"/></e>
