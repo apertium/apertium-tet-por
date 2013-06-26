@@ -5,6 +5,7 @@
     <def-cat n="prn-p3">
       <cat-item tags="prn.dem"/>
       <cat-item tags="prn.itg"/>
+      <cat-item tags="prn.ind"/>
     </def-cat>
     <def-cat n="prn-ref">
       <cat-item tags="prn.ref"/>
