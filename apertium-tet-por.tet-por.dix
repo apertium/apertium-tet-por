@@ -450,6 +450,7 @@
     <e><p><l>alterasaun<s n="n"/></l><r>alteração<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>liturjia<s n="n"/></l><r>liturgia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>alunu<s n="n"/></l><r>aluno<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>aluna<s n="n"/></l><r>aluno<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>ámbitu<s n="n"/></l><r>âmbito<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>aniversáriu<s n="n"/></l><r>aniversário<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>antuziazmu<s n="n"/></l><r>entusiasmo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -778,6 +779,7 @@
     <e><p><l>manutensaun<s n="n"/></l><r>manutenção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>marsu<s n="n"/></l><r>março<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>matan<s n="n"/></l><r>olho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>utu<s n="n"/></l><r>piolho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>materiál<s n="n"/></l><r>material<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>medalla<s n="n"/></l><r>medalha<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>meiu<b/>ambiente<s n="n"/></l><r>meiu<b/>ambiente<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -1511,6 +1513,53 @@
     <e><p><l>visaun<s n="n"/></l><r>visão<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>vítima<s n="n"/></l><r>vítima<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>vokalista<s n="n"/></l><r>vocalista<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+
+    <e><p><l>ahi-naroman<s n="n"/></l><r>luz<b/>artificial<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>ahioan<s n="n"/></l><r>lâmpada<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>ahioan<s n="n"/></l><r>candeia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>ahi<b/>suar<s n="n"/></l><r>fumo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>ai<b/>funan<s n="n"/></l><r>flor<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>ai<b/>kulit<s n="n"/></l><r>casca<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>ai<b/>laran<s n="n"/></l><r>floresta<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>ai<b/>laran<s n="n"/></l><r>mato<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>ain<b/>túr<s n="n"/></l><r>joelho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>ai<b/>tahan<s n="n"/></l><r>folha<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>ai<b/>tarak<s n="n"/></l><r>espinho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>azeiti<s n="n"/></l><r>azeite<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>bero<s n="n"/></l><r>beiro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>boek<s n="n"/></l><r>camarão<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>dima<s n="n"/></l><r>lança<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>etu<s n="n"/></l><r>arroz<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>fatuk<b/>kuak<s n="n"/></l><r>caverna<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>fúk<s n="n"/></l><r>cabelo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>fulun<s n="n"/></l><r>pelo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>ibun<b/>kulit<s n="n"/></l><r>lábio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>ibun<b/>kulit<s n="n"/></l><r>beiço<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>inus<s n="n"/></l><r>nariz<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>kabun<s n="n"/></l><r>barriga<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>kail<s n="n"/></l><r>anzol<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>kalohan<s n="n"/></l><r>nuvem<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>laho<s n="n"/></l><r>rato<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>liman<b/>fuan<s n="n"/></l><r>dedo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>liras<s n="n"/></l><r>asa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>mane-faluk<s n="n"/></l><r>viúvo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>mota<s n="n"/></l><r>rio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>nasionalista<s n="n"/></l><r>nacionalista<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>parseira<s n="n"/></l><r>parceiro<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>pregrinasaun<s n="n"/></l><r>peregrinação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>prosisaun<s n="n"/></l><r>procissão<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>rai<b/>henek<s n="n"/></l><r>areia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>rai-ketan<s n="n"/></l><r>fronteira<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>rai<b/>lakan<s n="n"/></l><r>relâmpago<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>rai-naroman<s n="n"/></l><r>luz<g><b/>do<b/>sol</g><s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>rai-naroma<s n="n"/></l><r>madrugada<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>rai-naroma<s n="n"/></l><r>amanhecer<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>rai<b/>tarutu<s n="n"/></l><r>trovão<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>samea<s n="n"/></l><r>cobra<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>susun<s n="n"/></l><r>seio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>taxu<s n="n"/></l><r>frigideira<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>tilun<s n="n"/></l><r>orelha<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>ular<s n="n"/></l><r>lagarta<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
 
