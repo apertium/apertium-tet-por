@@ -7,6 +7,9 @@
       <cat-item tags="prn.itg"/>
       <cat-item tags="prn.ind"/>
     </def-cat>
+    <def-cat n="rel-adv">
+      <cat-item tags="rel.adv"/>
+    </def-cat>
     <def-cat n="prn-ref">
       <cat-item tags="prn.ref"/>
     </def-cat>
@@ -1747,6 +1750,24 @@
           <chunk name="coma" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="CM"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: rel-adv">
+      <pattern>
+        <pattern-item n="rel-adv"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="rel" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="REL"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
