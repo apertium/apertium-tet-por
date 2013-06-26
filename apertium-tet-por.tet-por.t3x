@@ -32,6 +32,7 @@
       <attr-item tags="fti"/>
       <attr-item tags="pis"/>
       <attr-item tags="pii"/>
+      <attr-item tags="inf"/>
       <attr-item tags="MD"/>
     </def-attr>
     <def-attr n="a_gen">
@@ -174,6 +175,21 @@
             <let><clip pos="1" part="a_prs"/><lit-tag v="p3"/></let>
           </when>
         </choose>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal><clip pos="1" part="a_tns"/><lit-tag v="MD"/></equal>
+                <equal><clip pos="1" part="a_prs"/><lit-tag v="PD"/></equal>
+                <equal><clip pos="1" part="a_nbr"/><lit-tag v="ND"/></equal>
+              </and>
+            </test>
+            <let><clip pos="1" part="a_tns"/><lit-tag v="inf"/></let>
+            <let><clip pos="1" part="a_prs"/><lit v=""/></let>
+            <let><clip pos="1" part="a_nbr"/><lit v=""/></let>
+          </when>
+        </choose>
+
         <out>
           <lu>
             <clip pos="1" part="whole"/>

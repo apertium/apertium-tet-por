@@ -97714,7 +97714,12 @@
         <i>cambia</i>
         <par n="aceitáve/l__adj"/>
       </e>
-      
+       
+      <e>
+        <i>timorense</i>
+        <par n="agrícola__adj"/>
+      </e>
+
       <e>
         <i>canadense</i>
         <par n="agrícola__adj"/>
@@ -127716,7 +127721,12 @@
 			<i>oficina</i>
 			<par n="abadia__n"/>
 		</e>
-		
+			
+		<e>
+			<i>timorense</i>
+			<par n="accionista__n"/>
+		</e>
+
 		<e>
 			<i>estadounidense</i>
 			<par n="accionista__n"/>
