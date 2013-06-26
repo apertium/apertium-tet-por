@@ -1664,6 +1664,7 @@
     <e lm="abuzu"><i>abuzu</i><par n="uma__n"/></e>
     <e lm="korrupsaun"><i>korrupsaun</i><par n="uma__n"/></e>
     <e lm="korrupsaun" r="LR"><p><l>korrupasaun</l><r>korrupsaun</r></p><par n="uma__n"/></e>
+    <e lm="korrupsaun" r="LR"><p><l>korupsaun</l><r>korrupsaun</r></p><par n="uma__n"/></e>
     <e lm="manutensaun"><i>manutensaun</i><par n="uma__n"/></e>
     <e lm="misaun"><i>misaun</i><par n="uma__n"/></e>
     <e lm="teste"><i>teste</i><par n="uma__n"/></e>
@@ -2567,11 +2568,15 @@
     <e lm="dahuluk" r="LR"><p><l>da-uluk</l><r>dahuluk</r></p><par n="dahuluk__adj"/></e>
     <e lm="dahuluk" r="LR"><p><l>da-uluik</l><r>dahuluk</r></p><par n="dahuluk__adj"/></e>
     <e lm="primeiru"><i>primeiru</i><par n="dahuluk__adj"/></e>
+    <e lm="pertama"><i>pertama</i><par n="dahuluk__adj"/></e>
     <e lm="daruak"><i>daruak</i><par n="dahuluk__adj"/></e>
     <e lm="segundu"><i>segundu</i><par n="dahuluk__adj"/></e>
+    <e lm="kedua"><i>kedua</i><par n="dahuluk__adj"/></e>
     <e lm="terseiru"><i>terseiru</i><par n="dahuluk__adj"/></e>
+    <e lm="ketiga"><i>ketiga</i><par n="dahuluk__adj"/></e>
     <e lm="kuartu"><i>kuartu</i><par n="dahuluk__adj"/></e>
     <e lm="kintu"><i>kintu</i><par n="dahuluk__adj"/></e>
+    <e lm="kelima"><i>kelima</i><par n="dahuluk__adj"/></e>
     <e lm="datoluk"><i>datoluk</i><par n="dahuluk__adj"/></e>
     <e lm="dalimak"><i>dalimak</i><par n="dahuluk__adj"/></e>
     <e lm="dasanuluk"><i>dasanuluk</i><par n="dahuluk__adj"/></e>
@@ -3126,13 +3131,10 @@
     <e lm="sai"><i>sai</i><par n="sai__vblex"/></e>
     <e lm="hasai"><i>hasai</i><par n="hán__vblex"/></e>
     <e lm="mai"><i>mai</i><par n="sai__vblex"/></e>
-    <e lm="hamai"><i>hamai</i><par n="hán__vblex"/></e>
     <e lm="rona"><i>rona</i><par n="sai__vblex"/></e>
     <e lm="harona"><i>harona</i><par n="hán__vblex"/></e>
     <e lm="lakon"><i>lakon</i><par n="sai__vblex"/></e>
     <e lm="halakon"><i>halakon</i><par n="hán__vblex"/></e>
-    <e lm="maus"><i>maus</i><par n="sai__vblex"/></e>
-    <e lm="hamaus"><i>hamaus</i><par n="hán__vblex"/></e>
     <e lm="to'o"><i>to'o</i><par n="sai__vblex"/></e>
     <e lm="to'o" r="LR"><p><l>too</l><r>to'o</r></p><par n="sai__vblex"/></e>
     <e lm="hato'o"><i>hato'o</i><par n="hán__vblex"/></e>
@@ -3168,7 +3170,6 @@
 
 
     <e lm="bá"><i>bá</i><par n="sai__vblex"/></e>
-    <e lm="nakdulas"><i>nakdulas</i><par n="sai__vblex"/></e>
     <e lm="hela"><i>hela</i><par n="sai__vblex"/></e>
     <e lm="namkari"><i>namkari</i><par n="sai__vblex"/></e>
     <e lm="tún"><i>tún</i><par n="sai__vblex"/></e>
@@ -3186,7 +3187,7 @@
     <e lm="fa'an"><i>fa'an</i><par n="hán__vblex"/></e>
     <e lm="dulas"><i>dulas</i><par n="hán__vblex"/></e>
     <e lm="kari"><i>kari</i><par n="hán__vblex"/></e>
-    <e lm="bahat"><i>bahat</i><par n="hán__vblex"/></e>
+    <!--<e lm="bahat"><i>bahat</i><par n="hán__vblex"/></e>-->
     <e lm="bomba"><i>bomba</i><par n="hán__vblex"/></e>
     <e lm="esforsu"><i>esforsu</i><par n="hán__vblex"/></e>
     <e lm="xoke"><i>xoke</i><par n="hán__vblex"/></e>
@@ -3219,7 +3220,6 @@
     <e lm="koñese" r="LR"><p><l>koenese</l><r>koñese</r></p><par n="hán__vblex"/></e>
     <e lm="rekoñese"><i>rekoñese</i><par n="hán__vblex"/></e>
     <e lm="monu"><i>monu</i><par n="hán__vblex"/></e>
-    <e lm="hamonu"><i>hamonu</i><par n="hán__vblex"/></e>
     <e lm="oho"><i>oho</i><par n="hán__vblex"/></e>
     <e lm="rona"><i>rona</i><par n="hán__vblex"/></e>
     <e lm="soe"><i>soe</i><par n="hán__vblex"/></e>
@@ -3264,7 +3264,6 @@
     <e lm="dán"><i>dán</i><par n="hán__vblex"/></e>
     <e lm="tunu"><i>tunu</i><par n="hán__vblex"/></e>
     <e lm="fila"><i>fila</i><par n="hán__vblex"/></e>
-    <e lm="kedok"><i>kedok</i><par n="hán__vblex"/></e>
     <e lm="fui"><i>fui</i><par n="hán__vblex"/></e>
     <e lm="tau"><i>tau</i><par n="hán__vblex"/></e>
     <e lm="simu"><i>simu</i><par n="hán__vblex"/></e>
@@ -3275,7 +3274,6 @@
     <e lm="foti"><i>foti</i><par n="hán__vblex"/></e>
     <!--<e lm="hanesan"><i>hanesan</i><par n="hán__vblex"/></e>-->
     <e lm="vizita"><i>vizita</i><par n="hán__vblex"/></e>
-    <e lm="kuru"><i>kuru</i><par n="hán__vblex"/></e>
     <e lm="hatete"><i>hatete</i><par n="hán__vblex"/></e>
     <e lm="nata"><i>nata</i><par n="hán__vblex"/></e>
     <e lm="tesi"><i>tesi</i><par n="hán__vblex"/></e>
@@ -3368,7 +3366,6 @@
     <e lm="asina"><i>asina</i><par n="hán__vblex"/></e>
     <e lm="entrega"><i>entrega</i><par n="hán__vblex"/></e>
     <e lm="fotokopi"><i>fotokopi</i><par n="hán__vblex"/></e>
-    <e lm="ketík"><i>ketík</i><par n="hán__vblex"/></e>
     <e lm="koriji"><i>koriji</i><par n="hán__vblex"/></e>
     <e lm="lakon"><i>lakon</i><par n="hán__vblex"/></e>
     <e lm="pasa"><i>pasa</i><par n="hán__vblex"/></e>
@@ -3467,7 +3464,6 @@
     <e lm="kolabora"><i>kolabora</i><par n="hán__vblex"/></e>
     <e lm="asegura"><i>asegura</i><par n="hán__vblex"/></e>
     <e lm="kapasita"><i>kapasita</i><par n="hán__vblex"/></e>
-    <e lm="faze"><i>faze</i><par n="hán__vblex"/></e>
     <e lm="rekupera"><i>rekupera</i><par n="hán__vblex"/></e>
     <e lm="signifika"><i>signifika</i><par n="hán__vblex"/></e>
     <e lm="relembra"><i>relembra</i><par n="hán__vblex"/></e>
@@ -3494,7 +3490,6 @@
     <e lm="kria"><i>kria</i><par n="hán__vblex"/></e>
     <e lm="minimiza"><i>minimiza</i><par n="hán__vblex"/></e>
     <e lm="refere"><i>refere</i><par n="hán__vblex"/></e>
-    <e lm="doer"><i>doer</i><par n="hán__vblex"/></e>
     <e lm="atinji"><i>atinji</i><par n="hán__vblex"/></e>
     <e lm="rekopera"><i>rekopera</i><par n="hán__vblex"/></e>
     <e lm="kumpri"><i>kumpri</i><par n="hán__vblex"/></e>
@@ -3533,12 +3528,10 @@
     <e lm="analiza"><i>analiza</i><par n="hán__vblex"/></e>
     <e lm="proklama"><i>proklama</i><par n="hán__vblex"/></e>
     <e lm="hatama"><i>hatama</i><par n="hán__vblex"/></e>
-    <e lm="hatoba"><i>hatoba</i><par n="hán__vblex"/></e>
     <e lm="tenik"><i>tenik</i><par n="hán__vblex"/></e>
     <e lm="tenik tan"><i>tenik<b/>tan</i><par n="hán__vblex"/></e>
     <e lm="promete"><i>promete</i><par n="hán__vblex"/></e>
     <e lm="insentiva"><i>insentiva</i><par n="hán__vblex"/></e>
-    <e lm="hatuun"><i>hatuun</i><par n="hán__vblex"/></e>
     <e lm="biban"><i>biban</i><par n="hán__vblex"/></e>
     <e lm="lori"><i>lori</i><par n="hán__vblex"/></e>
     <e lm="servisu"><i>servisu</i><par n="hán__vblex"/></e>
@@ -3615,6 +3608,7 @@
     <e lm="terus"><i>terus</i><par n="hán__vblex"/></e>
     <e lm="diversifika"><i>diversifika</i><par n="hán__vblex"/></e>
     <e lm="grava"><i>grava</i><par n="hán__vblex"/></e>
+    <e lm="inventa"><i>inventa</i><par n="hán__vblex"/></e>
     <e lm="tradús"><i>tradús</i><par n="hán__vblex"/></e>
     <e lm="transfere"><i>transfere</i><par n="hán__vblex"/></e>
 

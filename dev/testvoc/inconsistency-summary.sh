@@ -1,7 +1,7 @@
 INC=$1
 PAIR=$2
 OUT=testvoc-summary.$PAIR.txt
-POS="abbr adj adv cm cnjadv cnjcoo cnjsub det guio ij n np num pr preadv prn rel vbhaver vblex vbmod postdet postadv"
+POS="abbr adj adv cm cnjadv cnjcoo cnjsub det guio ij n np num pr preadv prn rel vbhaver vblex vbmod postdet postadv cla foc preverb"
 
 echo -n "" > $OUT;
 
