@@ -10,6 +10,7 @@
     </def-cat>
     <def-cat n="v">
       <cat-item name="v"/>
+      <cat-item name="vmod"/>
     </def-cat>
     <def-cat n="v-inf/ref">
       <cat-item name="v-inf"/>
