@@ -8,6 +8,9 @@
     <def-cat n="PRN">
       <cat-item lemma="prn" tags="SN.*"/>
     </def-cat>
+    <def-cat n="CM">
+      <cat-item tags="CM"/>
+    </def-cat>
     <def-cat n="ADVL">
       <cat-item lemma="adv" tags="ADVL"/>
     </def-cat>
@@ -126,6 +129,41 @@
             <clip pos="2" part="lem"/>
             <clip pos="2" part="tags"/>
             <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: PROP CM SV">
+      <pattern>
+        <pattern-item n="PROP"/>
+        <pattern-item n="CM"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+        <let> <clip pos="3" part="a_prs"/><lit-tag v="p3"/> </let>
+        <let> <clip pos="3" part="a_nbr"/><lit-tag v="sg"/> </let>
+        <call-macro n="f_verb_tam1"> 
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
           </chunk>
         </out>
       </action>

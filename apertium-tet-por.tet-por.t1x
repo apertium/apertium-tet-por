@@ -110,6 +110,9 @@
     <def-cat n="sira">
       <cat-item lemma="sira" tags="det"/>
     </def-cat>
+    <def-cat n="cm">
+      <cat-item tags="cm"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -1625,6 +1628,24 @@
           <chunk name="nian" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="POSTDET"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: CM">
+      <pattern>
+        <pattern-item n="cm"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="coma" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="CM"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>

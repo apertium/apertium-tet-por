@@ -102204,6 +102204,20 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
+    <e lm="ainda mais"><i>ainda<b/>mais</i><par n="Op.Cit.__adv"/></e>
+    <e lm="antes"><i>antes</i><par n="Op.Cit.__adv"/></e>
+    <e lm="ao lado"><i>ao<b/>lado</i><par n="Op.Cit.__adv"/></e>
+    <e lm="cada noite"><i>cada<b/>noite</i><par n="Op.Cit.__adv"/></e>
+    <e lm="com cuidado"><i>com<b/>cuidado</i><par n="Op.Cit.__adv"/></e>
+    <e lm="de novo"><i>de<b/>novo</i><par n="Op.Cit.__adv"/></e>
+    <e lm="direito"><i>direito</i><par n="Op.Cit.__adv"/></e>
+    <e lm="duas vezes"><i>duas<b/>vezes</i><par n="Op.Cit.__adv"/></e>
+    <e lm="em médio"><i>em<b/>médio</i><par n="Op.Cit.__adv"/></e>
+    <e lm="em tudo o mundo"><i>em<b/>tudo<b/>o<b/>mundo</i><par n="Op.Cit.__adv"/></e>
+    <e lm="muitas vezes"><i>muitas<b/>vezes</i><par n="Op.Cit.__adv"/></e>
+    <e lm="passo a passo"><i>passo<b/>a<b/>passo</i><par n="Op.Cit.__adv"/></e>
+    <e lm="uma vez"><i>uma<b/>vez</i><par n="Op.Cit.__adv"/></e>
+
       <e>
         <i>a<b/>cada</i>
         <par n="Op.Cit.__adv"/>
@@ -115685,7 +115699,13 @@
         <i>anfitri</i>
         <par n="anfitri/ão__n"/>
       </e>
+       
+      <e>
+        <i>arroza</i>
+        <par n="anima/l__n"/>
+      </e>
       
+
       <e>
         <i>anima</i>
         <par n="anima/l__n"/>
@@ -117492,7 +117512,12 @@
         <i>coisa</i>
         <par n="abadia__n"/>
       </e>
-      
+       
+      <e>
+        <i>entrevistador</i>
+        <par n="admirador__n"/>
+      </e>
+
       <e>
         <i>colaborador</i>
         <par n="admirador__n"/>
@@ -128981,6 +129006,107 @@
         <par n="Abu__np"/>
       </e>
       
+
+<e lm="Simão"><i>Simão</i><par n="Abu__np"/></e>
+<e lm="Bendito"><i>Bendito</i><par n="Abu__np"/></e>
+<e lm="Januário"><i>Januário</i><par n="Abu__np"/></e>
+<e lm="Júlio"><i>Júlio</i><par n="Abu__np"/></e>
+<e lm="Filipus"><i>Filipus</i><par n="Abu__np"/></e>
+<e lm="Cláudio"><i>Cláudio</i><par n="Abu__np"/></e>
+<e lm="Salomão"><i>Salomão</i><par n="Abu__np"/></e>
+<e lm="Gastão"><i>Gastão</i><par n="Abu__np"/></e>
+<e lm="Libório"><i>Libório</i><par n="Abu__np"/></e>
+<e lm="Libóriu"><i>Libóriu</i><par n="Abu__np"/></e>
+<e lm="Armando"><i>Armando</i><par n="Abu__np"/></e>
+<e lm="Nino"><i>Nino</i><par n="Abu__np"/></e>
+<e lm="Avelino"><i>Avelino</i><par n="Abu__np"/></e>
+<e lm="Borja"><i>Borja</i><par n="Abu__np"/></e>
+<e lm="Flávio"><i>Flávio</i><par n="Abu__np"/></e>
+<e lm="Elias"><i>Elias</i><par n="Abu__np"/></e>
+<e lm="Isaac"><i>Isaac</i><par n="Abu__np"/></e>
+<e lm="Dionísio"><i>Dionísio</i><par n="Abu__np"/></e>
+<e lm="Leopoldo"><i>Leopoldo</i><par n="Abu__np"/></e>
+<e lm="Nélio"><i>Nélio</i><par n="Abu__np"/></e>
+<e lm="Samuel"><i>Samuel</i><par n="Abu__np"/></e>
+<e lm="Xanana"><i>Xanana</i><par n="Abu__np"/></e>
+<e lm="Kay"><i>Kay</i><par n="Abu__np"/></e>
+<e lm="Rala"><i>Rala</i><par n="Abu__np"/></e>
+<e lm="Nelinho"><i>Nelinho</i><par n="Abu__np"/></e>
+<e lm="Filomeno"><i>Filomeno</i><par n="Abu__np"/></e>
+<e lm="Guido"><i>Guido</i><par n="Abu__np"/></e>
+<e lm="Mari"><i>Mari</i><par n="Abu__np"/></e>
+<e lm="Sebastião"><i>Sebastião</i><par n="Abu__np"/></e>
+<e lm="Amaro"><i>Amaro</i><par n="Abu__np"/></e>
+<e lm="Rigoberto"><i>Rigoberto</i><par n="Abu__np"/></e>
+<e lm="Amândio"><i>Amândio</i><par n="Abu__np"/></e>
+<e lm="Florindo"><i>Florindo</i><par n="Abu__np"/></e>
+<e lm="Longuinhos"><i>Longuinhos</i><par n="Abu__np"/></e>
+<e lm="Aurélio"><i>Aurélio</i><par n="Abu__np"/></e>
+<e lm="Ilídiu"><i>Ilídiu</i><par n="Abu__np"/></e>
+<e lm="Zacarias"><i>Zacarias</i><par n="Abu__np"/></e>
+<e lm="Tito"><i>Tito</i><par n="Abu__np"/></e>
+<e lm="Arcangêlo"><i>Arcangêlo</i><par n="Abu__np"/></e>
+<e lm="Amaro"><i>Amaro</i><par n="Abu__np"/></e>
+<e lm="Taur"><i>Taur</i><par n="Abu__np"/></e>
+<e lm="Ivo"><i>Ivo</i><par n="Abu__np"/></e>
+<e lm="Madalena"><i>Madalena</i><par n="Abu__np"/></e>
+<e lm="Marcelina"><i>Marcelina</i><par n="Abu__np"/></e>
+<e lm="Lucia"><i>Lucia</i><par n="Abu__np"/></e>
+<e lm="Nancy"><i>Nancy</i><par n="Abu__np"/></e>
+<e lm="Gabriela"><i>Gabriela</i><par n="Abu__np"/></e>
+<e lm="Idelta"><i>Idelta</i><par n="Abu__np"/></e>
+<e lm="Liliana"><i>Liliana</i><par n="Abu__np"/></e>
+<e lm="Ruak"><i>Ruak</i><par n="Abu__np"/></e>
+<e lm="Lobato"><i>Lobato</i><par n="Abu__np"/></e>
+<e lm="Câncio"><i>Câncio</i><par n="Abu__np"/></e>
+<e lm="Leite"><i>Leite</i><par n="Abu__np"/></e>
+<e lm="Alves"><i>Alves</i><par n="Abu__np"/></e>
+<e lm="Domingas"><i>Domingas</i><par n="Abu__np"/></e>
+<e lm="Manetelo"><i>Manetelo</i><par n="Abu__np"/></e>
+<e lm="Valadares"><i>Valadares</i><par n="Abu__np"/></e>
+<e lm="Coelho"><i>Coelho</i><par n="Abu__np"/></e>
+<e lm="Carrascalão"><i>Carrascalão</i><par n="Abu__np"/></e>
+<e lm="Vital"><i>Vital</i><par n="Abu__np"/></e>
+<e lm="Sabino"><i>Sabino</i><par n="Abu__np"/></e>
+<e lm="Teme"><i>Teme</i><par n="Abu__np"/></e>
+<e lm="de Araújo"><i>de<b/>Araújo</i><par n="Abu__np"/></e>
+<e lm="de Deus"><i>de<b/>Deus</i><par n="Abu__np"/></e>
+<e lm="de Freitas"><i>de<b/>Freitas</i><par n="Abu__np"/></e>
+<e lm="de Oliveira"><i>de<b/>Oliveira</i><par n="Abu__np"/></e>
+<e lm="de Almeida"><i>de<b/>Almeida</i><par n="Abu__np"/></e>
+<e lm="de Jesus"><i>de<b/>Jesus</i><par n="Abu__np"/></e>
+<e lm="da Silva"><i>da<b/>Silva</i><par n="Abu__np"/></e>
+<e lm="da Cruz"><i>da<b/>Cruz</i><par n="Abu__np"/></e>
+<e lm="dos Santos"><i>dos<b/>Santos</i><par n="Abu__np"/></e>
+<e lm="dos Reis"><i>dos<b/>Reis</i><par n="Abu__np"/></e>
+<e lm="do Nascimento"><i>do<b/>Nascimento</i><par n="Abu__np"/></e>
+<e lm="do Amaral"><i>do<b/>Amaral</i><par n="Abu__np"/></e>
+<e lm="La Sama"><i>La<b/>Sama</i><par n="Abu__np"/></e>
+<e lm="da Conceição"><i>da<b/>Conceição</i><par n="Abu__np"/></e>
+<e lm="de Sousa"><i>de<b/>Sousa</i><par n="Abu__np"/></e>
+
+<e lm="Gusmão"><i>Gusmão</i><par n="Abu__np"/></e>
+<e lm="Babo"><i>Babo</i><par n="Abu__np"/></e>
+<e lm="Ramos-Horta"><i>Ramos-Horta</i><par n="Abu__np"/></e>
+<e lm="Alkatiri"><i>Alkatiri</i><par n="Abu__np"/></e>
+<e lm="Paixão"><i>Paixão</i><par n="Abu__np"/></e>
+<e lm="Guterres"><i>Guterres</i><par n="Abu__np"/></e>
+<e lm="Aparício"><i>Aparício</i><par n="Abu__np"/></e>
+<e lm="Domingos"><i>Domingos</i><par n="Abu__np"/></e>
+<e lm="Tilman"><i>Tilman</i><par n="Abu__np"/></e>
+<e lm="Valente"><i>Valente</i><par n="Abu__np"/></e>
+<e lm="Gilman"><i>Gilman</i><par n="Abu__np"/></e>
+<e lm="Nheu"><i>Nheu</i><par n="Abu__np"/></e>
+<e lm="Fereira"><i>Fereira</i><par n="Abu__np"/></e>
+<e lm="Fatarudin"><i>Fatarudin</i><par n="Abu__np"/></e>
+<e lm="Rudd"><i>Rudd</i><par n="Abu__np"/></e>
+<e lm="Brandão"><i>Brandão</i><par n="Abu__np"/></e>
+<e lm="Pinto"><i>Pinto</i><par n="Abu__np"/></e>
+<e lm="Neves"><i>Neves</i><par n="Abu__np"/></e>
+<e lm="Dias"><i>Dias</i><par n="Abu__np"/></e>
+<e lm="Quintas"><i>Quintas</i><par n="Abu__np"/></e>
+<e lm="Ki-moon"><i>Ki-moon</i><par n="Abu__np"/></e>
+
       <e>
         <i>Fernando</i>
         <par n="Abu__np"/>
@@ -129120,7 +129246,12 @@
         <i>Giovanni</i>
         <par n="Abu__np"/>
       </e>
-      
+       
+      <e>
+        <i>Gusmão</i>
+        <par n="Abu__np"/>
+      </e>
+
       <e>
         <i>González</i>
         <par n="Abu__np"/>
@@ -129676,7 +129807,12 @@
         <i>Marcelo</i>
         <par n="Abu__np"/>
       </e>
-      
+       
+      <e>
+        <i>Marcus</i>
+        <par n="Abu__np"/>
+      </e>
+
       <e>
         <i>Marcos</i>
         <par n="Abu__np"/>
@@ -130695,6 +130831,55 @@
         <par n="AC__np"/>
       </e>
       
+    <e lm="Aileu"><i>Aileu</i><par n="Marte__np"/></e>
+    <e lm="Ainaro"><i>Ainaro</i><par n="Marte__np"/></e>
+    <e lm="Andorra"><i>Andorra</i><par n="Marte__np"/></e>
+    <e lm="Aragão"><i>Aragão</i><par n="Marte__np"/></e>
+    <e lm="Azerbaijão"><i>Azerbaijão</i><par n="Marte__np"/></e>
+    <e lm="Baucau"><i>Baucau</i><par n="Marte__np"/></e>
+    <e lm="Bebui"><i>Bebui</i><par n="Marte__np"/></e>
+    <e lm="Bobonaro"><i>Bobonaro</i><par n="Marte__np"/></e>
+    <e lm="Brunei"><i>Brunei</i><par n="Marte__np"/></e>
+    <e lm="Cabo-Verde"><i>Cabo-Verde</i><par n="Marte__np"/></e>
+    <e lm="Cova Lima"><i>Cova<b/>Lima</i><par n="Marte__np"/></e>
+    <e lm="Cristo Rei"><i>Cristo<b/>Rei</i><par n="Marte__np"/></e>
+    <e lm="Ermera"><i>Ermera</i><par n="Marte__np"/></e>
+    <e lm="Fatumean"><i>Fatumean</i><par n="Marte__np"/></e>
+    <e lm="Filipinas"><i>Filipinas</i><par n="Marte__np"/></e>
+    <e lm="Gana"><i>Gana</i><par n="Marte__np"/></e>
+    <e lm="Guiana"><i>Guiana</i><par n="Marte__np"/></e>
+    <e lm="Guiné-Bissau"><i>Guiné-Bissau</i><par n="Marte__np"/></e>
+    <e lm="Índia"><i>Índia</i><par n="Marte__np"/></e>
+    <e lm="Jakarta"><i>Jakarta</i><par n="Marte__np"/></e>
+    <e lm="Kaikoli"><i>Kaikoli</i><par n="Marte__np"/></e>
+    <e lm="Kupang"><i>Kupang</i><par n="Marte__np"/></e>
+    <e lm="Laos"><i>Laos</i><par n="Marte__np"/></e>
+    <e lm="Lautém"><i>Lautém</i><par n="Marte__np"/></e>
+    <e lm="Libéria"><i>Libéria</i><par n="Marte__np"/></e>
+    <e lm="Liechtenstein"><i>Liechtenstein</i><par n="Marte__np"/></e>
+    <e lm="Liquiçá"><i>Liquiçá</i><par n="Marte__np"/></e>
+    <e lm="Lospalos"><i>Lospalos</i><par n="Marte__np"/></e>
+    <e lm="Madrid"><i>Madrid</i><par n="Marte__np"/></e>
+    <e lm="Manatuto"><i>Manatuto</i><par n="Marte__np"/></e>
+    <e lm="Manufahi"><i>Manufahi</i><par n="Marte__np"/></e>
+    <e lm="Monróvia"><i>Monróvia</i><par n="Marte__np"/></e>
+    <e lm="Oecusse"><i>Oecusse</i><par n="Marte__np"/></e>
+    <e lm="Palestina"><i>Palestina</i><par n="Marte__np"/></e>
+    <e lm="Papua-Nova Guiné"><i>Papua-Nova<b/>Guiné</i><par n="Marte__np"/></e>
+    <e lm="República Democrática do Congo"><i>República<b/>Democrática<b/>do<b/>Congo</i><par n="Marte__np"/></e>
+    <e lm="Roménia"><i>Roménia</i><par n="Marte__np"/></e>
+    <e lm="San Diego"><i>San<b/>Diego</i><par n="Marte__np"/></e>
+    <e lm="São Tomé e Príncipe"><i>São<b/>Tomé<b/>e<b/>Príncipe</i><par n="Marte__np"/></e>
+    <e lm="Saragoça"><i>Saragoça</i><par n="Marte__np"/></e>
+    <e lm="Serra Leão"><i>Serra<b/>Leão</i><par n="Marte__np"/></e>
+    <e lm="Somália"><i>Somália</i><par n="Marte__np"/></e>
+    <e lm="Suriname"><i>Suriname</i><par n="Marte__np"/></e>
+    <e lm="Timór-Leste"><i>Timór-Leste</i><par n="Marte__np"/></e>
+    <e lm="Vera Cruz"><i>Vera<b/>Cruz</i><par n="Marte__np"/></e>
+    <e lm="Viqueque"><i>Viqueque</i><par n="Marte__np"/></e>
+    <e lm="Vitória"><i>Vitória</i><par n="Marte__np"/></e>
+    <e lm="Zumalai"><i>Zumalai</i><par n="Marte__np"/></e>
+
       <e>
         <i>Nuno</i>
         <par n="Abu__np"/>
@@ -131732,6 +131917,10 @@
 		
 		<e>
 			<i>a<b/>par<b/></i>
+			<par n="/de__pr"/>
+		</e>      
+		<e>
+			<i>através<b/></i>
 			<par n="/de__pr"/>
 		</e>      
 		<e>
@@ -147943,6 +148132,20 @@
 </e>
 <e>
 	<p>
+	<l>Nações<b/>Unidas</l>
+	<r>Nações<b/>Unidas<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r>
+	</p>
+</e> 
+
+<e>
+	<p>
+	<l>Estados<b/>Unidos</l>
+	<r>Estados<b/>Unidos<b/>da<b/>América<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r>
+	</p>
+</e> 
+
+<e>
+	<p>
 	<l>Estados<b/>Unidos</l>
 	<r>Estados<b/>Unidos<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r>
 	</p>
@@ -148471,7 +148674,12 @@
         <i>champô</i>
         <par n="livro__n"/>
      </e>
-          
+           
+      <e>
+        <i>canalizaç</i>
+        <par n="aceitaç/ão__n"/>
+      </e>  
+
       <e>
         <i>programaç</i>
         <par n="aceitaç/ão__n"/>
