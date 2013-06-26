@@ -19,4 +19,8 @@
     <match lemma="kursu" tags="n"/>
     <match lemma="lian" tags="n"><select lemma="língua" tags="n.*"/></match>
   </rule>
+  <rule>
+    <match lemma="haktuir" tags="vblex.tv"><remove lemma="referir" tags="vblex"/></match>
+    <match lemma="katak"/>
+  </rule>
 </rules>

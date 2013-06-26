@@ -300,6 +300,7 @@
     <e><p><l>kombate<s n="n"/></l><r>combate<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>rai-henek<s n="n"/></l><r>areia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>rai<b/>liur<s n="n"/></l><r>estrangeiro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>terra<b/>liur<s n="n"/></l><r>estrangeiro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>konseitu<s n="n"/></l><r>conceito<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>problema<s n="n"/></l><r>problema<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>lian<s n="n"/></l><r>língua<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -1157,7 +1158,7 @@
     <e><p><l>Líbanu<s n="np"/><s n="top"/></l><r>Líbano<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Malázia<s n="np"/><s n="top"/></l><r>Malásia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Turkia<s n="np"/><s n="top"/></l><r>Turquia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Vietname<s n="np"/><s n="top"/></l><r>Vietname<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Vietname<s n="np"/><s n="top"/></l><r>Vietnã<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Baukau<s n="np"/><s n="top"/></l><r>Baucau<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Dili<s n="np"/><s n="top"/></l><r>Díli<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Lautein<s n="np"/><s n="top"/></l><r>Lautém<s n="np"/><s n="top"/></r></p></e>
@@ -1382,6 +1383,7 @@
     <e><p><l>balu<s n="adj"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <e><p><l>dahuluk<s n="adj"/><s n="ord"/></l><r>primeiro<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>dahuluk<s n="adj"/><s n="ord"/></l><r>inicial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>primeiru<s n="adj"/><s n="ord"/></l><r>primeiro<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>daruak<s n="adj"/><s n="ord"/></l><r>segundo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>segundu<s n="adj"/><s n="ord"/></l><r>segundo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -2018,6 +2020,10 @@
     <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>insistir<s n="vblex"/></r></p></e>
     <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>declarar<s n="vblex"/></r></p></e>
     <e><p><l>tenik<s n="vblex"/><s n="tv"/></l><r>acrescentar<s n="vblex"/></r></p></e>
+    <e><p><l>haktuir<s n="vblex"/><s n="tv"/></l><r>referir<s n="vblex"/></r></p></e>
+    <e><p><l>haktuir<s n="vblex"/><s n="tv"/></l><r>afirmar<s n="vblex"/></r></p></e>
+    <e><p><l>haktuir<s n="vblex"/><s n="tv"/></l><r>lembrar<s n="vblex"/></r></p></e>
+    <e><p><l>haktuir<s n="vblex"/><s n="tv"/></l><r>considerar<s n="vblex"/></r></p></e>
 
 
 

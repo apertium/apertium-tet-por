@@ -317,6 +317,7 @@
 
     <pardef n="espesializad/u__adj">
       <e><p><l>u</l><r>u<s n="adj"/></r></p></e>
+      <e r="LR"><p><l>o</l><r>u<s n="adj"/></r></p></e>
       <e r="LR"><p><l>a</l><r>u<s n="adj"/></r></p></e>
       <e r="LR"><p><l>us</l><r>u<s n="adj"/></r></p></e>
       <e r="LR"><p><l>as</l><r>u<s n="adj"/></r></p></e>
@@ -628,6 +629,7 @@
     <e lm="parte"><i>parte</i><par n="uma__n"/></e>
     <e lm="oan"><i>oan</i><par n="uma__n"/></e>
     <e lm="futuru"><i>futuru</i><par n="uma__n"/></e>
+    <e lm="kontradisaun"><i>kontradisaun</i><par n="uma__n"/></e>
     <e lm="institutu"><i>institutu</i><par n="uma__n"/></e>
     <e lm="reitór"><i>reitór</i><par n="uma__n"/></e>
     <e lm="maluk"><i>maluk</i><par n="uma__n"/></e>
@@ -772,6 +774,7 @@
     <e lm="jeitu"><i>jeitu</i><par n="uma__n"/></e>
     <e lm="resposta"><i>resposta</i><par n="uma__n"/></e>
     <e lm="kantadór"><i>kantadór</i><par n="uma__n"/></e>
+    <e lm="prazu"><i>prazu</i><par n="uma__n"/></e>
     <e lm="indise"><i>indise</i><par n="uma__n"/></e>
     <e lm="kapasidade"><i>kapasidade</i><par n="uma__n"/></e>
     <e lm="kolónia"><i>kolónia</i><par n="uma__n"/></e>
@@ -900,6 +903,7 @@
     <e lm="dansa"><i>dansa</i><par n="uma__n"/></e>
     <e lm="país"><i>país</i><par n="uma__n"/></e>
     <e lm="país" r="LR"><p><l>paíz</l><r>país</r></p><par n="uma__n"/></e>
+    <e lm="país" r="LR"><p><l>pa'íz</l><r>país</r></p><par n="uma__n"/></e>
     <e lm="sistema"><i>sistema</i><par n="uma__n"/></e>
     <e lm="situasaun"><i>situasaun</i><par n="uma__n"/></e>
     <e lm="territóriu"><i>territóriu</i><par n="uma__n"/></e>
@@ -1176,6 +1180,8 @@
     <e lm="rai-henek"><i>rai-henek</i><par n="uma__n"/></e>
     <e lm="rai tarutu"><i>rai<b/>tarutu</i><par n="uma__n"/></e>
     <e lm="rai liur"><i>rai<b/>liur</i><par n="uma__n"/></e>
+    <e lm="terra liur"><i>terra<b/>liur</i><par n="uma__n"/></e>
+    <e lm="terra liur" r="LR"><p><l>terra-liur</l><r>terra<b/>liur</r></p><par n="uma__n"/></e>
     <e lm="rán"><i>rán</i><par n="uma__n"/></e>
     <e lm="ruin"><i>ruin</i><par n="uma__n"/></e>
     <e lm="samea"><i>samea</i><par n="uma__n"/></e>
@@ -1216,6 +1222,7 @@
     <e lm="dirijente"><i>dirijent</i><par n="restorant/e__n"/></e>
     <e lm="ajente"><i>ajent</i><par n="restorant/e__n"/></e>
     <e lm="restorante"><i>restorant</i><par n="restorant/e__n"/></e>
+    <e lm="restorante" r="LR"><p><l>restaurant</l><r>restorant</r></p><par n="restorant/e__n"/></e>
     <e lm="milagre"><i>milagre</i><par n="uma__n"/></e>
     <e lm="palásiu"><i>palásiu</i><par n="uma__n"/></e>
     <e lm="ideia"><i>ideia</i><par n="uma__n"/></e>
@@ -2258,6 +2265,10 @@
     <e lm="malirin"><i>malirin</i><par n="boot__adj"/></e>
     <e lm="manas"><i>manas</i><par n="boot__adj"/></e>
     <e lm="sustentável"><i>sustentável</i><par n="boot__adj"/></e>
+    <e lm="determinante"><i>determinante</i><par n="boot__adj"/></e>
+    <e lm="relevante"><i>relevante</i><par n="boot__adj"/></e>
+    <e lm="signifikante"><i>signifikante</i><par n="boot__adj"/></e>
+    <e lm="interesante"><i>interesante</i><par n="boot__adj"/></e>
     <e lm="kompatível"><i>kompatível</i><par n="boot__adj"/></e>
     <e lm="sufisiente"><i>sufisiente</i><par n="boot__adj"/></e>
     <e lm="urbanu"><i>urbanu</i><par n="boot__adj"/></e>
@@ -2378,6 +2389,7 @@
     <e lm="koñesidu"><i>koñesid</i><par n="espesializad/u__adj"/></e>
     <e lm="klimátiku"><i>klimátik</i><par n="espesializad/u__adj"/></e>
     <e lm="médiku"><i>médik</i><par n="espesializad/u__adj"/></e>
+    <e lm="médiu"><i>médi</i><par n="espesializad/u__adj"/></e>
     <e lm="marítimu"><i>marítim</i><par n="espesializad/u__adj"/></e>
     <e lm="mariñu"><i>mariñ</i><par n="espesializad/u__adj"/></e>
     <e lm="amerikanu"><i>amerikan</i><par n="espesializad/u__adj"/></e>
@@ -3022,6 +3034,8 @@
     <e lm="dukur"><i>dukur</i><par n="sai__vblex"/></e>
     <e lm="finji"><i>finji</i><par n="hán__vblex"/></e>
     <e lm="prevee"><i>prevee</i><par n="hán__vblex"/></e>
+    <e lm="kompete"><i>kompete</i><par n="hán__vblex"/></e>
+    <e lm="haktuir"><i>haktuir</i><par n="hán__vblex"/></e>
     <e lm="sofre"><i>sofre</i><par n="hán__vblex"/></e>
 
     <!-- SECTION: Interjections -->

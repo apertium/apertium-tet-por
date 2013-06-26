@@ -63,6 +63,29 @@
           <when>
             <test>
               <and>
+                <not><equal><clip pos="1" part="a_tns"/><lit-tag v="MD"/></equal></not>
+                <equal><clip pos="1" part="a_nbr"/><lit-tag v="ND"/></equal>
+              </and>
+            </test>
+            <let><clip pos="1" part="a_nbr"/><lit-tag v="sg"/></let>
+          </when>
+        </choose>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <not><equal><clip pos="1" part="a_tns"/><lit-tag v="MD"/></equal></not>
+                <equal><clip pos="1" part="a_prs"/><lit-tag v="PD"/></equal>
+              </and>
+            </test>
+            <let><clip pos="1" part="a_prs"/><lit-tag v="p3"/></let>
+          </when>
+        </choose>
+
+        <choose>
+          <when>
+            <test>
+              <and>
                 <equal><clip pos="1" part="a_tns"/><lit-tag v="MD"/></equal>
                 <equal><clip pos="1" part="a_prs"/><lit-tag v="PD"/></equal>
                 <equal><clip pos="1" part="a_nbr"/><lit-tag v="ND"/></equal>
