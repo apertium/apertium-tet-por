@@ -586,6 +586,7 @@
     <e lm="ne'ebé" r="LR"><p><l>ne'eb'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <e lm="ne'ebé" r="LR"><p><l>ne'<b/>eb'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <e lm="ne'ebé" r="LR"><p><l>nebe'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
+    <e lm="ne'ebé" r="LR"><p><l>neb'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <!--<e lm="be"><i>be</i><par n="ne'ebé__rel"/></e>-->
     <e lm="ida-idak"><i>ida-idak</i><par n="ida-idak__prn"/></e>
     <e lm="ida-idak" r="LR"><p><l>idaidak</l><r>ida-idak</r></p><par n="ida-idak__prn"/></e>
@@ -654,6 +655,7 @@
     <e lm="kontradisaun"><i>kontradisaun</i><par n="uma__n"/></e>
     <e lm="institutu"><i>institutu</i><par n="uma__n"/></e>
     <e lm="liurai"><i>liurai</i><par n="uma__n"/></e>
+    <e lm="liurai-feto"><i>liurai-feto</i><par n="uma__n"/></e>
     <e lm="reitór"><i>reitór</i><par n="uma__n"/></e>
     <e lm="maluk"><i>maluk</i><par n="uma__n"/></e>
     <e lm="labarik"><i>labarik</i><par n="uma__n"/></e>
@@ -663,6 +665,8 @@
     <e lm="surat"><i>surat</i><par n="uma__n"/></e>
     <e lm="moris"><i>moris</i><par n="uma__n"/></e>
     <e lm="ko'alia"><i>ko'alia</i><par n="uma__n"/></e>
+    <e lm="ko'alia" r="LR"><p><l>koalia</l><r>ko'alia</r></p><par n="uma__n"/></e>
+    <e lm="ko'alia" r="LR"><p><l>koa'lia</l><r>ko'alia</r></p><par n="uma__n"/></e>
     <e lm="fi'ar"><i>fi'ar</i><par n="uma__n"/></e>
     <e lm="fi'ar" r="LR"><p><l>fiar</l><r>fi'ar</r></p><par n="uma__n"/></e>
     <e lm="investigasaun"><i>investigasaun</i><par n="uma__n"/></e>
@@ -680,6 +684,7 @@
     <e lm="ema"><i>ema</i><par n="uma__n"/></e>
     <e lm="liafuan"><i>liafuan</i><par n="uma__n"/></e>
     <e lm="refujiadu"><i>refujiadu</i><par n="uma__n"/></e>
+    <e lm="monarkia"><i>monarkia</i><par n="uma__n"/></e>
     <e lm="buat"><i>buat</i><par n="uma__n"/></e>
     <e lm="miléniu"><i>miléniu</i><par n="uma__n"/></e>
     <e lm="lubuk"><i>lubuk</i><par n="uma__n"/></e>
@@ -2085,6 +2090,8 @@
     <e lm="Andorra"><i>Andorra</i><par n="Timór__np"/></e>
     <e lm="Áustria"><i>Áustria</i><par n="Timór__np"/></e>
     <e lm="Béljika"><i>Béljika</i><par n="Timór__np"/></e>
+    <e lm="Ázia"><i>Ázia</i><par n="Timór__np"/></e>
+    <e lm="Ázia" r="LR"><p><l>Ásia</l><r>Ázia</r></p><par n="Timór__np"/></e>
     <e lm="Bielorúsia"><i>Bielorúsia</i><par n="Timór__np"/></e>
     <e lm="Bóznia no Erzegovina"><i>Bóznia<b/>no<b/>Erzegovina</i><par n="Timór__np"/></e>
     <e lm="Bulgária"><i>Bulgária</i><par n="Timór__np"/></e>
@@ -2700,6 +2707,7 @@
     <e lm="bilaterál"><i>bilater</i><par n="jer/ál__adj"/></e>
     <e lm="dijitál"><i>dijit</i><par n="jer/ál__adj"/></e>
     <e lm="distritál"><i>distrit</i><par n="jer/ál__adj"/></e>
+    <e lm="federál"><i>feder</i><par n="jer/ál__adj"/></e>
     <e lm="emprezariál"><i>emprezari</i><par n="jer/ál__adj"/></e>
     <e lm="esensiál"><i>esensi</i><par n="jer/ál__adj"/></e>
     <e lm="espesiál"><i>espesi</i><par n="jer/ál__adj"/></e>
@@ -3414,6 +3422,7 @@
     <e lm="ezerse"><i>ezerse</i><par n="hán__vblex"/></e>
     <e lm="ko'alia"><i>ko'alia</i><par n="hán__vblex"/></e>
     <e lm="ko'alia" r="LR"><p><l>koalia</l><r>ko'alia</r></p><par n="hán__vblex"/></e>
+    <e lm="ko'alia" r="LR"><p><l>koa'lia</l><r>ko'alia</r></p><par n="hán__vblex"/></e>
     <e lm="investiga"><i>investiga</i><par n="hán__vblex"/></e>
     <e lm="senti"><i>senti</i><par n="hán__vblex"/></e>
     <e lm="partisipa"><i>partisipa</i><par n="hán__vblex"/></e>

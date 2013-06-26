@@ -426,6 +426,7 @@
     <e><p><l>Natál<s n="n"/></l><r>Natal<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>abstensaun<s n="n"/></l><r>abstenção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>administrasaun<s n="n"/></l><r>administração<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>monarkia<s n="n"/></l><r>monarquia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>admisaun<s n="n"/></l><r>admissão<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>admistradór<s n="n"/></l><r>administrador<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>advogadu<s n="n"/></l><r>advogado<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -493,6 +494,7 @@
     <e><p><l>debate<s n="n"/></l><r>debate<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>miléniu<s n="n"/></l><r>milénio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>liurai<s n="n"/></l><r>rei<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>liurai-feto<s n="n"/></l><r>rainha<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>liurai<s n="n"/></l><r>liurai<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>dedikasaun<s n="n"/></l><r>dedicação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>defensór<s n="n"/></l><r>defensor<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -791,7 +793,7 @@
     <e><p><l>memória<s n="n"/></l><r>memória<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>merkadu<s n="n"/></l><r>mercado<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>metru<s n="n"/></l><r>metro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-    <e><p><l>mina<s n="n"/></l><r>óleo<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>mina<s n="n"/></l><r>óleo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>mina-rai<s n="n"/></l><r>petróleo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>ministériu<s n="n"/></l><r>ministério<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>ministru<s n="n"/></l><r>ministro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -1848,6 +1850,7 @@
     <e><p><l>Serra<b/>Leoa<s n="np"/><s n="top"/></l><r>Serra<b/>Leão<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Singapura<s n="np"/><s n="top"/></l><r>Singapura<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Síria<s n="np"/><s n="top"/></l><r>Síria<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Ázia<s n="np"/><s n="top"/></l><r>Ásia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>UNESCO<s n="np"/><s n="org"/></l><r>UNESCO<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
 
     <e><p><l>Xina<s n="np"/><s n="top"/></l><r>China<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
@@ -2119,6 +2122,7 @@
     <e><p><l>infantil<s n="adj"/></l><r>infantil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>internasionál<s n="adj"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>jerál<s n="adj"/></l><r>geral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>federál<s n="adj"/></l><r>federal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>ki'ik<s n="adj"/></l><r>pequeno<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>mundiál<s n="adj"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>nasionál<s n="adj"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
