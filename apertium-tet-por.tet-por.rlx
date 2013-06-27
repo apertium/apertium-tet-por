@@ -40,6 +40,8 @@ SECTION
 
 "<sira>" SELECT Pron IF (-1 Pr) (1 Preverb);
 
+SELECT Pr IF (0 Pr OR Exist) (1 Num) (NOT 2 N);
+
 SELECT Pl1 IF (0 Pl1 OR Sg2);
 
 SELECT Pr IF (0 Pr OR Exist) (1 N) (2 Det);

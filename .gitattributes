@@ -10,6 +10,7 @@
 /apertium-tet-por.tet-por.t3x -text
 /apertium-tet-por.tet.acx -text
 /apertium-tet-por.tet.dix -text
+dev/disambig/sent1.txt -text
 dev/testvoc/inconsistency-summary.sh -text
 dev/testvoc/inconsistency.sh -text
 dev/testvoc/testvoc-summary.tet-por.txt -text

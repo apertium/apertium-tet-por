@@ -257,6 +257,12 @@
       <e><p><l></l><r><s n="n"/></r></p></e>
     </pardef>
 
+    <pardef n="violé/nsia__n">
+      <e><p><l>nsia</l><r>nsia<s n="n"/></r></p></e>
+      <e r="LR"><p><l>ncia</l><r>nsia<s n="n"/></r></p></e>
+    </pardef>
+
+
     <pardef n="pov/u__n">
       <e><p><l>u</l><r>u<s n="n"/></r></p></e>
       <e r="LR"><p><l>o</l><r>u<s n="n"/></r></p></e>
@@ -541,7 +547,9 @@
     <e lm="hirak"><i>hirak</i><par n="né'e__det"/></e>
     <e lm="ida né'e"><i>ida<b/>né'e</i><par n="né'e__det"/></e>
     <e lm="ida né'e" r="LR"><p><l>ida-né'e</l><r>ida<b/>né'e</r></p><par n="né'e__det"/></e>
+<!--    <e lm="ida né'e" r="LR"><p><l>ida<b/>ne</l><r>ida<b/>né'e</r></p><par n="né'e__det"/></e>-->
     <e lm="ne'ebá"><i>ne'ebá</i><par n="né'e__det"/></e>
+    <e lm="ne'ebá" r="LR"><p><l>neba</l><r>ne'ebá</r></p><par n="né'e__det"/></e>
     <e lm="né'e"><i>né'e</i><par n="né'e__det"/></e>
     <e lm="nee" r="LR"><p><l>nee</l><r>né'e</r></p><par n="né'e__det"/></e>
     <e lm="nee" r="LR"><p><l>né'<b/>e</l><r>né'e</r></p><par n="né'e__det"/></e>
@@ -578,6 +586,7 @@
     <e lm="malu"><i>malu</i><par n="malu__prn"/></e>
 
     <e lm="ida né'e"><i>ida<b/>né'e</i><par n="né'e__prn"/></e>
+<!--    <e lm="ida né'e" r="LR"><p><l>ida<b/>ne</l><r>ida<b/>né'e</r></p><par n="né'e__prn"/></e>-->
 
     <e lm="né'e"><i>né'e</i><par n="né'e__prn"/></e>
     <e lm="nee" r="LR"><p><l>nee</l><r>né'e</r></p><par n="né'e__prn"/></e>
@@ -613,7 +622,6 @@
     <e lm="ualu" r="LR"><p><l>walu</l><r>ualu</r></p><par n="rua__num"/></e>
     <e lm="sia"><i>sia</i><par n="rua__num"/></e>
     <e lm="sanulu"><i>sanulu</i><par n="rua__num"/></e>
-    <e lm="limanulu"><i>limanulu</i><par n="rua__num"/></e>
 
     <e lm="sanulu resin ida"><i>sanulu<b/>resin<b/>ida</i><par n="rua__num"/></e>
     <e lm="sanulu resin rua"><i>sanulu<b/>resin<b/>rua</i><par n="rua__num"/></e>
@@ -627,7 +635,17 @@
     <e lm="sanulu resin sia"><i>sanulu<b/>resin<b/>sia</i><par n="rua__num"/></e>
     <e lm="rua-nulu"><i>rua-nulu</i><par n="rua__num"/></e>
     <e lm="tolu-nulu"><i>tolu-nulu</i><par n="rua__num"/></e>
-    <e lm="haat-nulu"><i>haat-nulu</i><par n="rua__num"/></e>
+    <e lm="hát-nulu"><i>hát-nulu</i><par n="rua__num"/></e>
+    <e lm="hát-nulu" r="LR"><p><l>haat-nulu</l><r>hát-nulu</r></p><par n="rua__num"/></e>
+    <e lm="lima-nulu"><i>lima-nulu</i><par n="rua__num"/></e>
+    <e lm="lima-nulu" r="LR"><p><l>limanulu</l><r>lima-nulu</r></p><par n="rua__num"/></e>
+    <e lm="nén-nulu"><i>nén-nulu</i><par n="rua__num"/></e>
+    <e lm="nén-nulu" r="LR"><p><l>neen-nulu</l><r>nén-nulu</r></p><par n="rua__num"/></e>
+    <e lm="hitu-nulu"><i>hitu-nulu</i><par n="rua__num"/></e>
+    <e lm="ualu-nulu"><i>ualu-nulu</i><par n="rua__num"/></e>
+    <e lm="ualu-nulu" r="LR"><p><l>walu-nulu</l><r>ualu-nulu</r></p><par n="rua__num"/></e>
+    <e lm="sia-nulu"><i>sia-nulu</i><par n="rua__num"/></e>
+
     <e lm="lima-nulu resin ida"><i>lima-nulu<b/>resin<b/>ida</i><par n="rua__num"/></e>
     <e lm="atus"><i>atus</i><par n="rua__num"/></e>
     <e lm="atus ida"><i>atus<b/>ida</i><par n="rua__num"/></e>
@@ -659,6 +677,7 @@
     <e lm="institutu"><i>institutu</i><par n="uma__n"/></e>
     <e lm="liurai"><i>liurai</i><par n="uma__n"/></e>
     <e lm="liurai-feto"><i>liurai-feto</i><par n="uma__n"/></e>
+    <e lm="liurai-feto" r="LR"><p><l>liurai<b/>feto</l><r>liurai-feto</r></p><par n="uma__n"/></e>
     <e lm="reitór"><i>reitór</i><par n="uma__n"/></e>
     <e lm="maluk"><i>maluk</i><par n="uma__n"/></e>
     <e lm="labarik"><i>labarik</i><par n="uma__n"/></e>
@@ -729,6 +748,7 @@
     <e lm="artigu"><i>artigu</i><par n="uma__n"/></e>
     <e lm="idioma"><i>idioma</i><par n="uma__n"/></e>
     <e lm="lia"><i>lia</i><par n="uma__n"/></e>
+    <e lm="lia-loos"><i>lia-loos</i><par n="uma__n"/></e>
     <e lm="perspektiva"><i>perspektiva</i><par n="uma__n"/></e>
     <e lm="estimativa"><i>estimativa</i><par n="uma__n"/></e>
     <e lm="lian"><i>lian</i><par n="uma__n"/></e>
@@ -770,6 +790,8 @@
     <e lm="benefísiu"><i>benefísiu</i><par n="uma__n"/></e>
     <e lm="obras públikas"><i>obras<b/>públikas</i><par n="uma__n"/></e>
     <e lm="forsas armadas"><i>forsas<b/>armadas</i><par n="uma__n"/></e>
+    <e lm="forsa paz"><i>forsa<b/>paz</i><par n="uma__n"/></e>
+    <e lm="forsa"><i>forsa</i><par n="uma__n"/></e>
     <e lm="distritu"><i>distritu</i><par n="uma__n"/></e>
     <e lm="devér"><i>devér</i><par n="uma__n"/></e>
     <e lm="sub-distritu"><i>sub-distritu</i><par n="uma__n"/></e>
@@ -796,16 +818,11 @@
     <e lm="estudante"><i>estudante</i><par n="uma__n"/></e>
     <e lm="festivál"><i>festivál</i><par n="uma__n"/></e>
     <e lm="formasaun"><i>formasaun</i><par n="uma__n"/></e>
-    <e lm="forsa"><i>forsa</i><par n="uma__n"/></e>
     <e lm="frente"><i>frente</i><par n="uma__n"/></e>
     <e lm="fronteira"><i>fronteira</i><par n="uma__n"/></e>
     <e lm="despedida"><i>despedida</i><par n="uma__n"/></e>
     <e lm="governu"><i>governu</i><par n="uma__n"/></e>
-    <e lm="importánsia"><i>importánsia</i><par n="uma__n"/></e>
-    <e lm="independénsia"><i>independénsia</i><par n="uma__n"/></e>
-    <e lm="insidénsia"><i>insidénsia</i><par n="uma__n"/></e>
     <e lm="indústria"><i>indústria</i><par n="uma__n"/></e>
-    <e lm="influénsia"><i>influénsia</i><par n="uma__n"/></e>
     <e lm="integrasaun"><i>integrasaun</i><par n="uma__n"/></e>
     <e lm="taxa"><i>taxa</i><par n="uma__n"/></e>
     <e lm="malaria"><i>malaria</i><par n="uma__n"/></e>
@@ -841,7 +858,6 @@
     <e lm="veraun"><i>veraun</i><par n="uma__n"/></e>
     <e lm="destinu"><i>destinu</i><par n="uma__n"/></e>
     <e lm="interkámbiu"><i>interkámbiu</i><par n="uma__n"/></e>
-    <e lm="sekuénsia"><i>sekuénsia</i><par n="uma__n"/></e>
     <e lm="petróliu"><i>petróliu</i><par n="uma__n"/></e>
     <e lm="manu-tolun"><i>manu-tolun</i><par n="uma__n"/></e>
     <e lm="formuláriu"><i>formuláriu</i><par n="uma__n"/></e>
@@ -926,7 +942,6 @@
     <e lm="projetu"><i>projetu</i><par n="uma__n"/></e>
     <e lm="projetu" r="LR"><p><l>projektu</l><r>projetu</r></p><par n="uma__n"/></e>
     <e lm="proporsaun"><i>proporsaun</i><par n="uma__n"/></e>
-    <e lm="provínsia"><i>provínsia</i><par n="uma__n"/></e>
     <e lm="reinu"><i>reinu</i><par n="uma__n"/></e>
     <e lm="rejime"><i>rejime</i><par n="uma__n"/></e>
     <e lm="relasaun"><i>relasaun</i><par n="uma__n"/></e>
@@ -934,7 +949,6 @@
     <e lm="natar"><i>natar</i><par n="uma__n"/></e>
     <e lm="revista"><i>revista</i><par n="uma__n"/></e>
     <e lm="revolusaun"><i>revolusaun</i><par n="uma__n"/></e>
-    <e lm="rezisténsia"><i>rezisténsia</i><par n="uma__n"/></e>
     <e lm="rezolusaun"><i>rezolusaun</i><par n="uma__n"/></e>
     <e lm="rezultadu"><i>rezultadu</i><par n="uma__n"/></e>
     <e lm="seguransa"><i>seguransa</i><par n="uma__n"/></e>
@@ -942,7 +956,6 @@
     <e lm="sabraka"><i>sabraka</i><par n="uma__n"/></e>
     <e lm="sékulu"><i>sékulu</i><par n="uma__n"/></e>
     <e lm="selebrasaun"><i>selebrasaun</i><par n="uma__n"/></e>
-    <e lm="siénsia"><i>siénsia</i><par n="uma__n"/></e>
     <e lm="dansa"><i>dansa</i><par n="uma__n"/></e>
     <e lm="país"><i>país</i><par n="uma__n"/></e>
     <e lm="país" r="LR"><p><l>paíz</l><r>país</r></p><par n="uma__n"/></e>
@@ -953,7 +966,6 @@
     <e lm="territóriu" r="LR"><p><l>teritóriu</l><r>territóriu</r></p><par n="uma__n"/></e>
     <e lm="tradisaun"><i>tradisaun</i><par n="uma__n"/></e>
     <e lm="uniaun"><i>uniaun</i><par n="uma__n"/></e>
-    <e lm="violensia"><i>violensia</i><par n="uma__n"/></e>
     <e lm="vokalista"><i>vokalista</i><par n="uma__n"/></e>
     <e lm="administradór"><i>administradór</i><par n="uma__n"/></e>
     <e lm="autór"><i>autór</i><par n="uma__n"/></e>
@@ -1409,15 +1421,6 @@
     <e lm="vaga"><i>vaga</i><par n="uma__n"/></e>
 
 
-    <e lm="ajénsia"><i>ajénsia</i><par n="uma__n"/></e>
-    <e lm="asisténsia"><i>asisténsia</i><par n="uma__n"/></e>
-    <e lm="dependénsia"><i>dependénsia</i><par n="uma__n"/></e>
-    <e lm="efisiénsia"><i>efisiénsia</i><par n="uma__n"/></e>
-    <e lm="emerjénsia"><i>emerjénsia</i><par n="uma__n"/></e>
-    <e lm="eselénsia"><i>eselénsia</i><par n="uma__n"/></e>
-    <e lm="esperiénsia"><i>esperiénsia</i><par n="uma__n"/></e>
-    <e lm="emergénsia"><i>emergénsia</i><par n="uma__n"/></e>
-    <e lm="exelénsia"><i>exelénsia</i><par n="uma__n"/></e>
     <e lm="greve"><i>greve</i><par n="uma__n"/></e>
     <e lm="esplikasaun"><i>esplikasaun</i><par n="uma__n"/></e>
     <e lm="legizlasaun"><i>legizlasaun</i><par n="uma__n"/></e>
@@ -1427,43 +1430,23 @@
     <e lm="sorumutu" r="LR"><p><l>soru-mutu</l><r>sorumutu</r></p><par n="uma__n"/></e>
     <e lm="sorumutu" r="LR"><p><l>sorumutuk</l><r>sorumutu</r></p><par n="uma__n"/></e>
     <e lm="papél"><i>papél</i><par n="uma__n"/></e>
-    <e lm="ezijénsia"><i>ezijénsia</i><par n="uma__n"/></e>
-    <e lm="ezisténsia"><i>ezisténsia</i><par n="uma__n"/></e>
-    <e lm="independénsia"><i>independénsia</i><par n="uma__n"/></e>
     <e lm="bolseiru"><i>bolseiru</i><par n="uma__n"/></e>
     <e lm="korpu"><i>korpu</i><par n="uma__n"/></e>
     <e lm="sabaun"><i>sabaun</i><par n="uma__n"/></e>
-    <e lm="interferénsia"><i>interferénsia</i><par n="uma__n"/></e>
-    <e lm="kompeténsia"><i>kompeténsia</i><par n="uma__n"/></e>
     <e lm="oin"><i>oin</i><par n="uma__n"/></e>
-    <e lm="konferénsia"><i>konferénsia</i><par n="uma__n"/></e>
-    <e lm="konsekuénsia"><i>konsekuénsia</i><par n="uma__n"/></e>
-    <e lm="konsiénsia"><i>konsiénsia</i><par n="uma__n"/></e>
-    <e lm="konvivénsia"><i>konvivénsia</i><par n="uma__n"/></e>
-    <e lm="obediénsia"><i>obediénsia</i><par n="uma__n"/></e>
-    <e lm="pasiénsia"><i>pasiénsia</i><par n="uma__n"/></e>
-    <e lm="poténsia"><i>poténsia</i><par n="uma__n"/></e>
     <e lm="espíritu"><i>espíritu</i><par n="uma__n"/></e>
     <e lm="enerjia"><i>enerjia</i><par n="uma__n"/></e>
     <e lm="enerjia" r="LR"><p><l>energia</l><r>enerjia</r></p><par n="uma__n"/></e>
-    <e lm="toleránsia"><i>toleránsia</i><par n="uma__n"/></e>
     <e lm="agrikultór"><i>agrikultór</i><par n="uma__n"/></e>
     <e lm="antuziazmu"><i>antuziazmu</i><par n="uma__n"/></e>
-    <e lm="preferénsia"><i>preferénsia</i><par n="uma__n"/></e>
     <e lm="patrimóniu"><i>patrimóniu</i><par n="uma__n"/></e>
     <e lm="metru"><i>metru</i><par n="uma__n"/></e>
-    <e lm="prezidénsia"><i>prezidénsia</i><par n="uma__n"/></e>
-    <e lm="referénsia"><i>referénsia</i><par n="uma__n"/></e>
-    <e lm="subsisténsia"><i>subsisténsia</i><par n="uma__n"/></e>
-    <e lm="transferénsia"><i>transferénsia</i><par n="uma__n"/></e>
     <e lm="rádiu"><i>rádiu</i><par n="uma__n"/></e>
     <e lm="grupu"><i>grupu</i><par n="uma__n"/></e>
-    <e lm="transparénsia"><i>transparénsia</i><par n="uma__n"/></e>
     <e lm="ponte"><i>ponte</i><par n="uma__n"/></e>
     <e lm="númeru"><i>númeru</i><par n="uma__n"/></e>
     <e lm="pekadu"><i>pekadu</i><par n="uma__n"/></e>
     <e lm="kafé"><i>kafé</i><par n="uma__n"/></e>
-    <e lm="violénsia"><i>violénsia</i><par n="uma__n"/></e>
 
     <e lm="maromak"><i>maromak</i><par n="uma__n"/></e>
 
@@ -1519,6 +1502,8 @@
     <e lm="tema"><i>tema</i><par n="uma__n"/></e>
     <e lm="komérsiu"><i>komérsiu</i><par n="uma__n"/></e>
     <e lm="lei"><i>lei</i><par n="uma__n"/></e>
+    <e lm="lei-inan"><i>lei-inan</i><par n="uma__n"/></e>
+    <e lm="lei-inan" r="LR"><p><l>leiinan</l><r>lei-inan</r></p><par n="uma__n"/></e>
     <e lm="pamfletu"><i>pamfletu</i><par n="uma__n"/></e>
     <e lm="públiku"><i>públiku</i><par n="uma__n"/></e>
     <e lm="konseitu"><i>konseitu</i><par n="uma__n"/></e>
@@ -1532,7 +1517,6 @@
     <e lm="k'nua" r="LR"><p><l>knu'a</l><r>k'nua</r></p><par n="uma__n"/></e>
     <e lm="kilómetru"><i>kilómetru</i><par n="uma__n"/></e>
     <e lm="banku"><i>banku</i><par n="uma__n"/></e>
-    <e lm="ambulánsia"><i>ambulánsia</i><par n="uma__n"/></e>
     <e lm="aviaun"><i>aviaun</i><par n="uma__n"/></e>
     <e lm="demokrasia"><i>demokrasia</i><par n="uma__n"/></e>
     <e lm="dezempregu"><i>dezempregu</i><par n="uma__n"/></e>
@@ -1729,9 +1713,6 @@
     <e lm="teoria"><i>teoria</i><par n="uma__n"/></e>
     <e lm="vitória"><i>vitória</i><par n="uma__n"/></e>
     <e lm="nutisia"><i>nutisia</i><par n="uma__n"/></e>
-    <e lm="vijilánsia"><i>vijilánsia</i><par n="uma__n"/></e>
-    <e lm="distánsia"><i>distánsia</i><par n="uma__n"/></e>
-    <e lm="koerénsia"><i>koerénsia</i><par n="uma__n"/></e>
     <e lm="kortezia"><i>kortezia</i><par n="uma__n"/></e>
     <e lm="bandeja"><i>bandeja</i><par n="uma__n"/></e>
     <e lm="karau-baka"><i>karau-baka</i><par n="uma__n"/></e>
@@ -1975,7 +1956,6 @@
     <e lm="tonelada"><i>tonelada</i><par n="uma__n"/></e>
     <e lm="demografia"><i>demografia</i><par n="uma__n"/></e>
     <e lm="ortografia"><i>ortografia</i><par n="uma__n"/></e>
-    <e lm="experiénsia"><i>experiénsia</i><par n="uma__n"/></e>
     <e lm="garantia"><i>garantia</i><par n="uma__n"/></e>
     <e lm="poezia"><i>poezia</i><par n="uma__n"/></e>
     <e lm="klinika"><i>klinika</i><par n="uma__n"/></e>
@@ -2030,8 +2010,6 @@
     <e lm="penitente"><i>penitente</i><par n="uma__n"/></e>
     <e lm="pedreiru"><i>pedreiru</i><par n="uma__n"/></e>
     <e lm="perísia"><i>perísia</i><par n="uma__n"/></e>
-    <e lm="permanénsia"><i>permanénsia</i><par n="uma__n"/></e>
-    <e lm="peniténsia"><i>peniténsia</i><par n="uma__n"/></e>
     <e lm="pedagojia"><i>pedagojia</i><par n="uma__n"/></e>
     <e lm="perfumaria"><i>perfumaria</i><par n="uma__n"/></e>
     <e lm="periferia"><i>periferia</i><par n="uma__n"/></e>
@@ -2073,6 +2051,52 @@
     <e lm="peskizadór"><i>peskizadór</i><par n="uma__n"/></e>
     <e lm="perú"><i>perú</i><par n="uma__n"/></e>
 
+    <e lm="importánsia"><i>importá</i><par n="violé/nsia__n"/></e>
+    <e lm="provínsia"><i>proví</i><par n="violé/nsia__n"/></e>
+    <e lm="toleránsia"><i>tolerá</i><par n="violé/nsia__n"/></e>
+    <e lm="ambulánsia"><i>ambulá</i><par n="violé/nsia__n"/></e>
+    <e lm="vijilánsia"><i>vijilá</i><par n="violé/nsia__n"/></e>
+    <e lm="distánsia"><i>distá</i><par n="violé/nsia__n"/></e>
+
+    <e lm="redundáncia"><i>redundá</i><par n="violé/nsia__n"/></e>
+    <e lm="independénsia"><i>independé</i><par n="violé/nsia__n"/></e>
+    <e lm="insidénsia"><i>insidé</i><par n="violé/nsia__n"/></e>
+    <e lm="influénsia"><i>influé</i><par n="violé/nsia__n"/></e>
+    <e lm="sekuénsia"><i>sekué</i><par n="violé/nsia__n"/></e>
+    <e lm="rezisténsia"><i>rezisté</i><par n="violé/nsia__n"/></e>
+    <e lm="siénsia"><i>sié</i><par n="violé/nsia__n"/></e>
+    <e lm="violénsia"><i>violé</i><par n="violé/nsia__n"/></e>
+    <e lm="ajénsia"><i>ajé</i><par n="violé/nsia__n"/></e>
+    <e lm="asisténsia"><i>asisté</i><par n="violé/nsia__n"/></e>
+    <e lm="dependénsia"><i>dependé</i><par n="violé/nsia__n"/></e>
+    <e lm="efisiénsia"><i>efisié</i><par n="violé/nsia__n"/></e>
+    <e lm="emerjénsia"><i>emerjé</i><par n="violé/nsia__n"/></e>
+    <e lm="eselénsia"><i>eselé</i><par n="violé/nsia__n"/></e>
+    <e lm="esperiénsia"><i>esperié</i><par n="violé/nsia__n"/></e>
+    <e lm="emergénsia"><i>emergé</i><par n="violé/nsia__n"/></e>
+    <e lm="exelénsia"><i>exelé</i><par n="violé/nsia__n"/></e>
+    <e lm="ezijénsia"><i>ezijé</i><par n="violé/nsia__n"/></e>
+    <e lm="ezisténsia"><i>ezisté</i><par n="violé/nsia__n"/></e>
+    <e lm="independénsia"><i>independé</i><par n="violé/nsia__n"/></e>
+    <e lm="interferénsia"><i>interferé</i><par n="violé/nsia__n"/></e>
+    <e lm="kompeténsia"><i>kompeté</i><par n="violé/nsia__n"/></e>
+    <e lm="konferénsia"><i>konferé</i><par n="violé/nsia__n"/></e>
+    <e lm="konsekuénsia"><i>konsekué</i><par n="violé/nsia__n"/></e>
+    <e lm="konsiénsia"><i>konsié</i><par n="violé/nsia__n"/></e>
+    <e lm="konvivénsia"><i>konvivé</i><par n="violé/nsia__n"/></e>
+    <e lm="obediénsia"><i>obedié</i><par n="violé/nsia__n"/></e>
+    <e lm="pasiénsia"><i>pasié</i><par n="violé/nsia__n"/></e>
+    <e lm="poténsia"><i>poté</i><par n="violé/nsia__n"/></e>
+    <e lm="preferénsia"><i>preferé</i><par n="violé/nsia__n"/></e>
+    <e lm="prezidénsia"><i>prezidé</i><par n="violé/nsia__n"/></e>
+    <e lm="referénsia"><i>referé</i><par n="violé/nsia__n"/></e>
+    <e lm="subsisténsia"><i>subsisté</i><par n="violé/nsia__n"/></e>
+    <e lm="transferénsia"><i>transferé</i><par n="violé/nsia__n"/></e>
+    <e lm="transparénsia"><i>transparé</i><par n="violé/nsia__n"/></e>
+    <e lm="koerénsia"><i>koeré</i><par n="violé/nsia__n"/></e>
+    <e lm="experiénsia"><i>experié</i><par n="violé/nsia__n"/></e>
+    <e lm="permanénsia"><i>permané</i><par n="violé/nsia__n"/></e>
+    <e lm="peniténsia"><i>penité</i><par n="violé/nsia__n"/></e>
 
     <e lm="Dr."><i>Dr.</i><par n="uma__n"/></e>
     <e lm="Dra."><i>Dra.</i><par n="uma__n"/></e>
@@ -3086,6 +3110,7 @@
     <e lm="liutiha"><i>liutiha</i><par n="agora__adv"/></e>
 
     <e lm="ne'ebá"><i>ne'ebá</i><par n="agora__adv"/></e>
+    <e lm="ne'ebá" r="LR"><p><l>neba</l><r>ne'ebá</r></p><par n="agora__adv"/></e>
     <e lm="nafatin"><i>nafatin</i><par n="agora__adv"/></e>
     <e lm="né"><i>né</i><par n="agora__adv"/></e>
     <e lm="hafoin"><i>hafoin</i><par n="agora__adv"/></e>
@@ -3196,6 +3221,7 @@
     <e lm="neneik-neik"><i>neneik-neik</i><par n="naturalmente__adv"/></e>
     <e lm="no nune'e karik"><i>no<b/>nune'e<b/>karik</i><par n="naturalmente__adv"/></e>
     <e lm="ho didiak"><i>ho<b/>didiak</i><par n="naturalmente__adv"/></e>
+    <e lm="iha vigór"><i>iha<b/>vigór</i><par n="naturalmente__adv"/></e>
     <e lm="iha mundu tomak"><i>iha<b/>mundu<b/>tomak</i><par n="naturalmente__adv"/></e>
 
 
@@ -3520,6 +3546,7 @@
     <e lm="defende"><i>defende</i><par n="hán__vblex"/></e>
     <e lm="oferese"><i>oferese</i><par n="hán__vblex"/></e>
     <e lm="estabelese"><i>estabelese</i><par n="hán__vblex"/></e>
+    <e lm="estabelese" r="LR"><p><l>establese</l><r>estabelese</r></p><par n="hán__vblex"/></e>
     <e lm="dezenvolve"><i>dezenvolve</i><par n="hán__vblex"/></e>
     <e lm="hateke"><i>hateke</i><par n="hán__vblex"/></e>
     <e lm="afirma"><i>afirma</i><par n="hán__vblex"/></e>
@@ -3688,6 +3715,7 @@
     <e lm="toka"><i>toka</i><par n="hán__vblex"/></e>
     <e lm="invade"><i>invade</i><par n="hán__vblex"/></e>
     <e lm="adapta"><i>adapta</i><par n="hán__vblex"/></e>
+    <e lm="asume"><i>asume</i><par n="hán__vblex"/></e>
     <e lm="terus"><i>terus</i><par n="hán__vblex"/></e>
     <e lm="diversifika"><i>diversifika</i><par n="hán__vblex"/></e>
     <e lm="grava"><i>grava</i><par n="hán__vblex"/></e>

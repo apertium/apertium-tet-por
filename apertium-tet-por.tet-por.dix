@@ -239,7 +239,6 @@
     <e><p><l>sanulu<b/>resin<b/>ualu<s n="num"/></l><r>dezoito<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>sanulu<b/>resin<b/>sia<s n="num"/></l><r>dezanove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
 
-    <e><p><l>rua-nulu<s n="num"/></l><r>vinte<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <e><p><l>atus<s n="num"/></l><r>cem<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>atus<b/>ida<s n="num"/></l><r>cem<b/>e<b/>um<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -254,9 +253,15 @@
 
     <e><p><l>millaun<s n="num"/></l><r>milhão<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
 
-    <e><p><l>limanulu<s n="num"/></l><r>cinquenta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>rua-nulu<s n="num"/></l><r>vinte<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>tolu-nulu<s n="num"/></l><r>trinta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>haat-nulu<s n="num"/></l><r>quarenta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>hát-nulu<s n="num"/></l><r>quarenta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>lima-nulu<s n="num"/></l><r>cinquenta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>nén-nulu<s n="num"/></l><r>sessenta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>hitu-nulu<s n="num"/></l><r>setenta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>ualu-nulu<s n="num"/></l><r>oitenta<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>sia-nulu<s n="num"/></l><r>noventa<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+
     <e><p><l>lima-nulu<b/>resin<b/>ida<s n="num"/></l><r>cinquenta<b/>e<b/>um<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
     <e><p><l>atus<b/>ida<b/>rua<s n="num"/></l><r>cento<b/>e<b/>dois<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>atus<b/>ida<b/>rua-nulu<s n="num"/></l><r>cento<b/>vinte<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -305,11 +310,13 @@
     <e><p><l>komisária<s n="n"/></l><r>comissário<s n="n"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>kompromisu<s n="n"/></l><r>compromisso<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>komunidade<s n="n"/></l><r>comunidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>lia-loos<s n="n"/></l><r>verdade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>fertilidade<s n="n"/></l><r>fertilidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>vizita<s n="n"/></l><r>visita<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>ospitál<s n="n"/></l><r>hospital<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>konfederasaun<s n="n"/></l><r>confederação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>konstitusaun<s n="n"/></l><r>constituição<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>lei-inan<s n="n"/></l><r>constituição<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>konvensaun<s n="n"/></l><r>convenção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>kooperasaun<s n="n"/></l><r>cooperação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>labarik<s n="n"/></l><r>criança<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -647,6 +654,7 @@
     <e><p><l>implementasaun<s n="n"/></l><r>implementação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>importadór<s n="n"/></l><r>importador<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>importánsia<s n="n"/></l><r>importância<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>redundánsia<s n="n"/></l><r>redundância<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>importasaun<s n="n"/></l><r>importação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>imprensa<s n="n"/></l><r>imprensa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>inaugurasaun<s n="n"/></l><r>inauguração<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -824,6 +832,7 @@
     <e><p><l>obra<s n="n"/></l><r>obra<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>obras<b/>públikas<s n="n"/></l><r>obra<b/>pública<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>forsas<b/>armadas<s n="n"/></l><r>força<b/>armada<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    <e><p><l>forsa<b/>paz<s n="n"/></l><r>força<g><b/>de<b/>manutenção<b/>da<b/>paz</g><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e><p><l>obrigasaun<s n="n"/></l><r>obrigação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>observasaun<s n="n"/></l><r>observação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>oferta<s n="n"/></l><r>oferta<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -2673,6 +2682,7 @@
     <e><p><l>neneik-neik<s n="adv"/></l><r>passo<b/>a<b/>passo<s n="adv"/></r></p></e>
     <e><p><l>no<b/>nune'e<b/>karik<s n="adv"/></l><r>por<b/>conseguinte<s n="adv"/></r></p></e>
     <e><p><l>beibeik<s n="adv"/></l><r>muitas<b/>vezes<s n="adv"/></r></p></e>
+    <e><p><l>iha<b/>vigór<s n="adv"/></l><r>em<b/>vigor<s n="adv"/></r></p></e>
     <e><p><l>ho<b/>didiak<s n="adv"/></l><r>com<b/>cuidado<s n="adv"/></r></p></e>
     <e><p><l>iha<b/>mundu<b/>tomak<s n="adv"/></l><r>em<b/>tudo<b/>o<b/>mundo<s n="adv"/></r></p></e>
 
@@ -3185,6 +3195,7 @@
     <e><p><l>tutan<s n="vblex"/><s n="tv"/></l><r>juntar<s n="vblex"/></r></p></e>
     <e><p><l>tutan<s n="vblex"/><s n="tv"/></l><r>ligar<s n="vblex"/></r></p></e>
     <e><p><l>xave<s n="vblex"/><s n="tv"/></l><r>trancar<s n="vblex"/></r></p></e>
+    <e><p><l>asume<s n="vblex"/><s n="tv"/></l><r>assumir<s n="vblex"/></r></p></e>
 
     <e><p><l>pezka<s n="vblex"/><s n="tv"/></l><r>pescar<s n="vblex"/></r></p></e>
     <e><p><l>pega<s n="vblex"/><s n="tv"/></l><r>pegar<s n="vblex"/></r></p></e>
