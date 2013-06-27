@@ -766,7 +766,9 @@
     <e lm="mina-rai"><i>mina-rai</i><par n="uma__n"/></e>
     <e lm="osan"><i>osan</i><par n="uma__n"/></e>
     <e lm="osan mean"><i>osan<b/>mean</i><par n="uma__n"/></e>
+    <e lm="osan mean" r="LR"><p><l>osan-mean</l><r>osan<b/>mean</r></p><par n="uma__n"/></e>
     <e lm="osan mutin"><i>osan<b/>mutin</i><par n="uma__n"/></e>
+    <e lm="osan mutin" r="LR"><p><l>osan-mutin</l><r>osan<b/>mutin</r></p><par n="uma__n"/></e>
     <e lm="astronomia"><i>astronomia</i><par n="uma__n"/></e>
     <e lm="reportajen"><i>reportajen</i><par n="uma__n"/></e>
     <e lm="presu"><i>presu</i><par n="uma__n"/></e>
@@ -1200,6 +1202,7 @@
     <e lm="ikun"><i>ikun</i><par n="uma__n"/></e>
     <e lm="inus"><i>inus</i><par n="uma__n"/></e>
     <e lm="isin"><i>isin</i><par n="uma__n"/></e>
+    <e lm="maun-alin"><i>maun-alin</i><par n="uma__n"/></e>
     <e lm="jardín"><i>jardín</i><par n="uma__n"/></e>
     <e lm="kabun"><i>kabun</i><par n="uma__n"/></e>
     <e lm="kadiuk"><i>kadiuk</i><par n="uma__n"/></e>
@@ -1496,6 +1499,7 @@
     <e lm="empregu"><i>empregu</i><par n="uma__n"/></e>
     <e lm="konfederasaun"><i>konfederasaun</i><par n="uma__n"/></e>
     <e lm="matéria"><i>matéria</i><par n="uma__n"/></e>
+    <e lm="ferik-oan"><i>ferik-oan</i><par n="uma__n"/></e>
     <e lm="komisária"><i>komisária</i><par n="uma__n"/></e>
     <e lm="ratifikasaun"><i>ratifikasaun</i><par n="uma__n"/></e>
     <e lm="tékniku"><i>tékniku</i><par n="uma__n"/></e>

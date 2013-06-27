@@ -8,6 +8,9 @@
     <def-cat n="PRN">
       <cat-item lemma="prn" tags="SN.*"/>
     </def-cat>
+    <def-cat n="FOC">
+      <cat-item tags="FOC"/>
+    </def-cat>
     <def-cat n="REL">
       <cat-item tags="REL"/>
     </def-cat>
@@ -83,6 +86,71 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: SN SN NIAN">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="SN"/>
+        <pattern-item n="NIAN"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <lit v="de&lt;PREP&gt;{^de&lt;pr&gt;$}"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SN SN SENT">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="SN"/>
+        <pattern-item n="SENT"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <lit v="de&lt;PREP&gt;{^de&lt;pr&gt;$}"/>
+          </chunk>
+          <b/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+
+        </out>
+      </action>
+    </rule>
+
+
+
+
+
     <rule comment="REGLA: SN REL SV">
       <pattern>
         <pattern-item n="SN"/>
@@ -108,6 +176,70 @@
             <clip pos="2" part="chcontent"/>
           </chunk>
           <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: SN REL FOC SV">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="REL"/>
+        <pattern-item n="FOC"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+        <let> <clip pos="2" part="a_prs"/><lit-tag v="p3"/> </let>
+        <let> <clip pos="4" part="a_nbr"/><clip pos="1" part="a_nbr"/> </let>
+        <call-macro n="f_verb_tam1"> 
+          <with-param pos="4"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <clip pos="4" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: PRN FOC SV">
+      <pattern>
+        <pattern-item n="PRN"/>
+        <pattern-item n="FOC"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+        <let> <clip pos="3" part="a_prs"/><clip pos="1" part="a_prs"/> </let>
+        <let> <clip pos="3" part="a_nbr"/><clip pos="1" part="a_nbr"/> </let>
+        <call-macro n="f_verb_tam1"> 
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
           <chunk>
             <clip pos="3" part="lem"/>
             <clip pos="3" part="tags"/>
@@ -166,6 +298,41 @@
             <clip pos="2" part="lem"/>
             <clip pos="2" part="tags"/>
             <clip pos="2" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: PROP FOC SV">
+      <pattern>
+        <pattern-item n="PROP"/>
+        <pattern-item n="FOC"/>
+        <pattern-item n="SV"/>
+      </pattern>
+      <action>
+        <let> <clip pos="3" part="a_prs"/><lit-tag v="p3"/> </let>
+        <let> <clip pos="3" part="a_nbr"/><lit-tag v="sg"/> </let>
+        <call-macro n="f_verb_tam1"> 
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
           </chunk>
         </out>
       </action>
@@ -241,13 +408,19 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: SN SN NIAN">
+    <rule comment="REGLA: PRN ADVL FOC SV">
       <pattern>
-        <pattern-item n="SN"/>
-        <pattern-item n="SN"/>
-        <pattern-item n="NIAN"/>
+        <pattern-item n="PRN"/>
+        <pattern-item n="ADVL"/>
+        <pattern-item n="FOC"/>
+        <pattern-item n="SV"/>
       </pattern>
       <action>
+        <let> <clip pos="4" part="a_prs"/><clip pos="1" part="a_prs"/> </let>
+        <let> <clip pos="4" part="a_nbr"/><clip pos="1" part="a_nbr"/> </let>
+        <call-macro n="f_verb_tam1"> 
+          <with-param pos="4"/>
+        </call-macro>
         <out>
           <chunk>
             <clip pos="1" part="lem"/>
@@ -256,18 +429,19 @@
           </chunk>
           <b pos="1"/>
           <chunk>
-            <lit v="de&lt;PREP&gt;{^de&lt;pr&gt;$}"/>
-          </chunk>
-          <b pos="1"/>
-          <chunk>
             <clip pos="2" part="lem"/>
             <clip pos="2" part="tags"/>
             <clip pos="2" part="chcontent"/>
           </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <clip pos="4" part="chcontent"/>
+          </chunk>
         </out>
       </action>
     </rule>
-
 
 
   </section-rules>

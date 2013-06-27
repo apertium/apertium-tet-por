@@ -77,7 +77,7 @@
 
     <!-- SECTION: Miscellaneous -->
 
-    <e r="LR"><p><l>mak<s n="foc"/></l><r></r></p></e>
+    <!--<e r="LR"><p><l>mak<s n="foc"/></l><r></r></p></e>-->
 
     <!-- SECTION: Conjunctions -->
 
@@ -336,6 +336,8 @@
     <e><p><l>sabraka<s n="n"/></l><r>laranja<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>polítika<s n="n"/></l><r>política<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>feto<s n="n"/></l><r>mulher<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>felik-oan<s n="n"/></l><r>mulher<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>felik-oan<s n="n"/></l><r>esposo<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>relatóriu<s n="n"/></l><r>relatório<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>sekretáriu<s n="n"/></l><r>secretário<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>sekretária<s n="n"/></l><r>secretário<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -560,6 +562,7 @@
     <e><p><l>festa<s n="n"/></l><r>festa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>embaixada<s n="n"/></l><r>embaixada<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>embaixadór<s n="n"/></l><r>embaixador<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>maun-alin<s n="n"/></l><r>irmão<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     <e><p><l>embriaun<s n="n"/></l><r>embrião<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>emerjénsia<s n="n"/></l><r>emergência<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>empregadór<s n="n"/></l><r>empregador<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -1160,7 +1163,7 @@
     <e><p><l>aklamasaun<s n="n"/></l><r>aclamação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>akreditasaun<s n="n"/></l><r>acreditação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>aksionista<s n="n"/></l><r>accionista<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
-    <e><p><l>aktividade<s n="n"/></l><r>atividade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>aktividade<s n="n"/></l><r>actividade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>alimentasaun<s n="n"/></l><r>alimentação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>alokasaun<s n="n"/></l><r>alocação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>amizade<s n="n"/></l><r>amizade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -1174,7 +1177,7 @@
     <e><p><l>asesór<s n="n"/></l><r>assessor<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>asinatura<s n="n"/></l><r>assinatura<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>atendimentu<s n="n"/></l><r>atendimento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-    <e><p><l>ativista<s n="n"/></l><r>ativista<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>ativista<s n="n"/></l><r>activista<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>atlas<s n="n"/></l><r>atlas<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>atleta<s n="n"/></l><r>atleta<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>atletizmu<s n="n"/></l><r>atletismo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
