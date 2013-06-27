@@ -418,6 +418,7 @@
     <e lm="ho" r="LR"><p><l>hó</l><r>ho</r></p><par n="i__cnjcoo"/></e>
     <e lm="ka"><i>ka</i><par n="i__cnjcoo"/></e>
     <e lm="katak"><i>katak</i><par n="katak__cnjsub"/></e>
+    <e lm="pelumenus"><i>pelumenus</i><par n="la'ós__cnjadv"/></e>
     <e lm="entretantu"><i>entretantu</i><par n="la'ós__cnjadv"/></e>
     <e lm="entretantu" r="LR"><p><l>entertantu</l><r>entretantu</r></p><par n="la'ós__cnjadv"/></e>
     <e lm="tanbá"><i>tanbá</i><par n="la'ós__cnjadv"/></e>
@@ -1460,6 +1461,7 @@
     <e lm="transparénsia"><i>transparénsia</i><par n="uma__n"/></e>
     <e lm="ponte"><i>ponte</i><par n="uma__n"/></e>
     <e lm="númeru"><i>númeru</i><par n="uma__n"/></e>
+    <e lm="pekadu"><i>pekadu</i><par n="uma__n"/></e>
     <e lm="kafé"><i>kafé</i><par n="uma__n"/></e>
     <e lm="violénsia"><i>violénsia</i><par n="uma__n"/></e>
 
@@ -2023,6 +2025,53 @@
     <e lm="aeroportu"><i>aeroportu</i><par n="uma__n"/></e>
     <e lm="idozu"><i>idozu</i><par n="uma__n"/></e>
     <e lm="matriz"><i>matriz</i><par n="uma__n"/></e>
+
+    <e lm="pesimista"><i>pesimista</i><par n="uma__n"/></e>
+    <e lm="penitente"><i>penitente</i><par n="uma__n"/></e>
+    <e lm="pedreiru"><i>pedreiru</i><par n="uma__n"/></e>
+    <e lm="perísia"><i>perísia</i><par n="uma__n"/></e>
+    <e lm="permanénsia"><i>permanénsia</i><par n="uma__n"/></e>
+    <e lm="peniténsia"><i>peniténsia</i><par n="uma__n"/></e>
+    <e lm="pedagojia"><i>pedagojia</i><par n="uma__n"/></e>
+    <e lm="perfumaria"><i>perfumaria</i><par n="uma__n"/></e>
+    <e lm="periferia"><i>periferia</i><par n="uma__n"/></e>
+    <e lm="pelíkula"><i>pelíkula</i><par n="uma__n"/></e>
+    <e lm="península"><i>península</i><par n="uma__n"/></e>
+    <e lm="pena"><i>pena</i><par n="uma__n"/></e>
+    <e lm="pesoa"><i>pesoa</i><par n="uma__n"/></e>
+    <e lm="pergunta"><i>pergunta</i><par n="uma__n"/></e>
+    <e lm="perspetiva"><i>perspetiva</i><par n="uma__n"/></e>
+    <e lm="penalidade"><i>penalidade</i><par n="uma__n"/></e>
+    <e lm="pekuliaridade"><i>pekuliaridade</i><par n="uma__n"/></e>
+    <e lm="personajen"><i>personajen</i><par n="uma__n"/></e>
+    <e lm="penetrasaun"><i>penetrasaun</i><par n="uma__n"/></e>
+    <e lm="perfurasaun"><i>perfurasaun</i><par n="uma__n"/></e>
+    <e lm="persegisaun"><i>persegisaun</i><par n="uma__n"/></e>
+    <e lm="persesaun"><i>persesaun</i><par n="uma__n"/></e>
+    <e lm="permisaun"><i>permisaun</i><par n="uma__n"/></e>
+    <e lm="perkusaun"><i>perkusaun</i><par n="uma__n"/></e>
+    <e lm="peregrina"><i>peregrina</i><par n="uma__n"/></e>
+    <e lm="peskizadora"><i>peskizadora</i><par n="uma__n"/></e>
+    <e lm="pestisida"><i>pestisida</i><par n="uma__n"/></e>
+    <e lm="pertense"><i>pertense</i><par n="uma__n"/></e>
+    <e lm="perfume"><i>perfume</i><par n="uma__n"/></e>
+    <e lm="pesoál"><i>pesoál</i><par n="uma__n"/></e>
+    <e lm="perfíl"><i>perfíl</i><par n="uma__n"/></e>
+    <e lm="perdaun"><i>perdaun</i><par n="uma__n"/></e>
+    <e lm="pedasu"><i>pedasu</i><par n="uma__n"/></e>
+    <e lm="períodu"><i>períodu</i><par n="uma__n"/></e>
+    <e lm="petróleu"><i>petróleu</i><par n="uma__n"/></e>
+    <e lm="perigu"><i>perigu</i><par n="uma__n"/></e>
+    <e lm="pezadelu"><i>pezadelu</i><par n="uma__n"/></e>
+    <e lm="peregrinu"><i>peregrinu</i><par n="uma__n"/></e>
+    <e lm="petroleiru"><i>petroleiru</i><par n="uma__n"/></e>
+    <e lm="perímetru"><i>perímetru</i><par n="uma__n"/></e>
+    <e lm="pezu"><i>pezu</i><par n="uma__n"/></e>
+    <e lm="pensu"><i>pensu</i><par n="uma__n"/></e>
+    <e lm="peitu"><i>peitu</i><par n="uma__n"/></e>
+    <e lm="peritu"><i>peritu</i><par n="uma__n"/></e>
+    <e lm="peskizadór"><i>peskizadór</i><par n="uma__n"/></e>
+    <e lm="perú"><i>perú</i><par n="uma__n"/></e>
 
 
     <e lm="Dr."><i>Dr.</i><par n="uma__n"/></e>
@@ -2982,6 +3031,27 @@
     <e lm="maltés"><i>malt</i><par n="portug/és__adj"/></e>
     <e lm="tailandés"><i>tailand</i><par n="portug/és__adj"/></e>
 
+    <e lm="periódiku"><i>periódik</i><par n="espesializad/u__adj"/></e>
+    <e lm="pedagójiku"><i>pedagójik</i><par n="espesializad/u__adj"/></e>
+    <e lm="perifériku"><i>periférik</i><par n="espesializad/u__adj"/></e>
+    <e lm="penitensiáriu"><i>penitensiári</i><par n="espesializad/u__adj"/></e>
+    <e lm="pedófilu"><i>pedófil</i><par n="espesializad/u__adj"/></e>
+    <e lm="peruanu"><i>peruan</i><par n="espesializad/u__adj"/></e>
+    <e lm="petrolíferu"><i>petrolífer</i><par n="espesializad/u__adj"/></e>
+    <e lm="perigozu"><i>perigoz</i><par n="espesializad/u__adj"/></e>
+    <e lm="perversu"><i>pervers</i><par n="espesializad/u__adj"/></e>
+    <e lm="perfeitu"><i>perfeit</i><par n="espesializad/u__adj"/></e>
+    <e lm="perpétuu"><i>perpétu</i><par n="espesializad/u__adj"/></e>
+    <e lm="pekuliár"><i>pekuliár</i><par n="boot__adj"/></e>
+    <e lm="pendente"><i>pendente</i><par n="boot__adj"/></e>
+    <e lm="pertinente"><i>pertinente</i><par n="boot__adj"/></e>
+    <e lm="persistente"><i>persistente</i><par n="boot__adj"/></e>
+    <e lm="persetivel"><i>persetivel</i><par n="boot__adj"/></e>
+    <e lm="perpendikulár"><i>perpendikulár</i><par n="boot__adj"/></e>
+
+    <e lm="pervertidu"><i>pervertid</i><par n="espesializad/u__adj"/></e>
+    <e lm="perdidu"><i>perdid</i><par n="espesializad/u__adj"/></e>
+
 
 
     <!-- SECTION: Adverbs -->
@@ -3624,6 +3694,18 @@
     <e lm="inventa"><i>inventa</i><par n="hán__vblex"/></e>
     <e lm="tradús"><i>tradús</i><par n="hán__vblex"/></e>
     <e lm="transfere"><i>transfere</i><par n="hán__vblex"/></e>
+
+    <e lm="pezka"><i>pezka</i><par n="hán__vblex"/></e>
+    <e lm="pega"><i>pega</i><par n="hán__vblex"/></e>
+    <e lm="pexinxa"><i>pexinxa</i><par n="hán__vblex"/></e>
+    <e lm="perdoa"><i>perdoa</i><par n="hán__vblex"/></e>
+    <e lm="penetra"><i>penetra</i><par n="hán__vblex"/></e>
+    <e lm="pesa"><i>pesa</i><par n="hán__vblex"/></e>
+    <e lm="personaliza"><i>personaliza</i><par n="hán__vblex"/></e>
+    <e lm="perverte"><i>perverte</i><par n="hán__vblex"/></e>
+    <e lm="persuade"><i>persuade</i><par n="hán__vblex"/></e>
+    <e lm="persiste"><i>persiste</i><par n="hán__vblex"/></e>
+    <e lm="persege"><i>persege</i><par n="hán__vblex"/></e>
 
 
     <!-- SECTION: Interjections -->
