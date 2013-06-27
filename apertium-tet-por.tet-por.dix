@@ -425,6 +425,7 @@
     <e><p><l>abríl<s n="n"/></l><r>abril<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>Natál<s n="n"/></l><r>Natal<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>abstensaun<s n="n"/></l><r>abstenção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>ONG<s n="n"/></l><r>ONG<s n="n"/><s n="acr"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>administrasaun<s n="n"/></l><r>administração<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>monarkia<s n="n"/></l><r>monarquia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>admisaun<s n="n"/></l><r>admissão<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -2660,7 +2661,7 @@
     <e><p><l>afirma<s n="vblex"/><s n="tv"/></l><r>afirmar<s n="vblex"/></r></p></e>
     <e><p><l>agradese<s n="vblex"/><s n="tv"/></l><r>agradecer<s n="vblex"/></r></p></e>
     <e><p><l>akompaña<s n="vblex"/><s n="tv"/></l><r>acompanhar<s n="vblex"/></r></p></e>
-    <e><p><l>alkansa<s n="vblex"/><s n="tv"/></l><r>alcansar<s n="vblex"/></r></p></e>
+    <e><p><l>alkansa<s n="vblex"/><s n="tv"/></l><r>alcançar<s n="vblex"/></r></p></e>
     <e><p><l>ameasa<s n="vblex"/><s n="tv"/></l><r>ameaçar<s n="vblex"/></r></p></e>
     <e><p><l>aplika<s n="vblex"/><s n="tv"/></l><r>aplicar<s n="vblex"/></r></p></e>
     <e><p><l>apoia<s n="vblex"/><s n="tv"/></l><r>apoiar<s n="vblex"/></r></p></e>
@@ -2793,7 +2794,7 @@
     <e><p><l>hala'o<s n="vblex"/><s n="tv"/></l><r>cumprir<s n="vblex"/></r></p></e>
     <e><p><l>hala'o<s n="vblex"/><s n="tv"/></l><r>efectuar<s n="vblex"/></r></p></e>
     <e><p><l>hala'o<s n="vblex"/><s n="tv"/></l><r>realizar<s n="vblex"/></r></p></e>
-    <e><p><l>hahú<s n="vblex"/><s n="tv"/></l><r>començar<s n="vblex"/></r></p></e>
+    <e><p><l>hahú<s n="vblex"/><s n="tv"/></l><r>começar<s n="vblex"/></r></p></e>
     <e><p><l>hahú<s n="vblex"/><s n="tv"/></l><r>iniciar<s n="vblex"/></r></p></e>
     <e><p><l>rekopera<s n="vblex"/><s n="tv"/></l><r>recuperar<s n="vblex"/></r></p></e>
     <e><p><l>to'o<s n="vblex"/><s n="iv"/></l><r>chegar<s n="vblex"/></r></p></e>
@@ -2952,12 +2953,12 @@
 
 
 
-    <e><p><l>aloka<s n="vblex"/><s n="tv"/></l><r>alocarr<s n="vblex"/></r></p></e>
-    <e><p><l>analiza<s n="vblex"/><s n="tv"/></l><r>analizar<s n="vblex"/></r></p></e>
+    <e><p><l>aloka<s n="vblex"/><s n="tv"/></l><r>alocar<s n="vblex"/></r></p></e>
+    <e><p><l>analiza<s n="vblex"/><s n="tv"/></l><r>analisar<s n="vblex"/></r></p></e>
     <e><p><l>apela<s n="vblex"/><s n="tv"/></l><r>apelar<s n="vblex"/></r></p></e>
     <e><p><l>aposta<s n="vblex"/><s n="tv"/></l><r>apostar<s n="vblex"/></r></p></e>
     <e><p><l>apresenta<s n="vblex"/><s n="tv"/></l><r>apresentar<s n="vblex"/></r></p></e>
-    <e><p><l>asiste<s n="vblex"/><s n="tv"/></l><r>assister<s n="vblex"/></r></p></e>
+    <e><p><l>asiste<s n="vblex"/><s n="tv"/></l><r>assistir<s n="vblex"/></r></p></e>
     <e><p><l>avalia<s n="vblex"/><s n="tv"/></l><r>avaliar<s n="vblex"/></r></p></e>
     <e><p><l>bolu<s n="vblex"/><s n="tv"/></l><r>chamar<s n="vblex"/></r></p></e>
     <e><p><l>dedika<s n="vblex"/><s n="tv"/></l><r>dedicar<s n="vblex"/></r></p></e>
@@ -2972,7 +2973,7 @@
     <e><p><l>dura<s n="vblex"/><s n="tv"/></l><r>durar<s n="vblex"/></r></p></e>
     <e><p><l>elabora<s n="vblex"/><s n="tv"/></l><r>elaborar<s n="vblex"/></r></p></e>
     <e><p><l>enfrenta<s n="vblex"/><s n="tv"/></l><r>enfrentar<s n="vblex"/></r></p></e>
-    <e><p><l>esplora<s n="vblex"/><s n="tv"/></l><r>ecplorar<s n="vblex"/></r></p></e>
+    <e><p><l>esplora<s n="vblex"/><s n="tv"/></l><r>explorar<s n="vblex"/></r></p></e>
     <e><p><l>estabiliza<s n="vblex"/><s n="tv"/></l><r>estabilizar<s n="vblex"/></r></p></e>
     <e><p><l>estimula<s n="vblex"/><s n="tv"/></l><r>estimular<s n="vblex"/></r></p></e>
     <e><p><l>eziste<s n="vblex"/><s n="iv"/></l><r>existir<s n="vblex"/></r></p></e>
@@ -2991,7 +2992,7 @@
     <e><p><l>justifika<s n="vblex"/><s n="tv"/></l><r>justificar<s n="vblex"/></r></p></e>
     <e><p><l>kandidata<s n="vblex"/><s n="tv"/></l><r>candidatar<s n="vblex"/></r></p></e>
     <e><p><l>klik<s n="vblex"/><s n="tv"/></l><r>fazer<g><b/>clic</g><s n="vblex"/></r></p></e>
-    <e><p><l>komesa<s n="vblex"/><s n="tv"/></l><r>començar<s n="vblex"/></r></p></e>
+    <e><p><l>komesa<s n="vblex"/><s n="tv"/></l><r>começar<s n="vblex"/></r></p></e>
     <e><p><l>kompete<s n="vblex"/><s n="tv"/></l><r>competir<s n="vblex"/></r></p></e>
     <e><p><l>konklui<s n="vblex"/><s n="tv"/></l><r>concluir<s n="vblex"/></r></p></e>
     <e><p><l>konkorda<s n="vblex"/><s n="tv"/></l><r>concordar<s n="vblex"/></r></p></e>
@@ -3016,7 +3017,7 @@
     <e><p><l>sente<s n="vblex"/><s n="tv"/></l><r>sentir<s n="vblex"/></r></p></e>
     <e><p><l>sujere<s n="vblex"/><s n="tv"/></l><r>sugerir<s n="vblex"/></r></p></e>
     <e><p><l>terus<s n="vblex"/><s n="tv"/></l><r>sofrer<s n="vblex"/></r></p></e>
-    <e><p><l>inventa<s n="vblex"/><s n="tv"/></l><r>inventa<s n="vblex"/></r></p></e>
+    <e><p><l>inventa<s n="vblex"/><s n="tv"/></l><r>inventar<s n="vblex"/></r></p></e>
     <e><p><l>transfere<s n="vblex"/><s n="tv"/></l><r>transferir<s n="vblex"/></r></p></e>
     <e><p><l>utiliza<s n="vblex"/><s n="tv"/></l><r>utilizar<s n="vblex"/></r></p></e>
     <e><p><l>verifika<s n="vblex"/><s n="tv"/></l><r>verificar<s n="vblex"/></r></p></e>
