@@ -693,6 +693,7 @@
     <e lm="fi'ar" r="LR"><p><l>fiar</l><r>fi'ar</r></p><par n="uma__n"/></e>
     <e lm="investigasaun"><i>investigasaun</i><par n="uma__n"/></e>
     <e lm="pulmaun"><i>pulmaun</i><par n="uma__n"/></e>
+    <e lm="entuziazmu"><i>entuziazmu</i><par n="uma__n"/></e>
     <e lm="kurasaun"><i>kurasaun</i><par n="uma__n"/></e>
     <e lm="duplikasaun"><i>duplikasaun</i><par n="uma__n"/></e>
     <e lm="salaun"><i>salaun</i><par n="uma__n"/></e>
@@ -797,6 +798,8 @@
     <e lm="distritu"><i>distritu</i><par n="uma__n"/></e>
     <e lm="devér"><i>devér</i><par n="uma__n"/></e>
     <e lm="sub-distritu"><i>sub-distritu</i><par n="uma__n"/></e>
+    <e lm="sub-distritu" r="LR"><p><l>sub<b/>distritu</l><r>sub-distritu</r></p><par n="uma__n"/></e>
+    <e lm="sub-distritu" r="LR"><p><l>subdistritu</l><r>sub-distritu</r></p><par n="uma__n"/></e>
     <e lm="ditadura"><i>ditadura</i><par n="uma__n"/></e>
     <e lm="dokumentu"><i>dokumentu</i><par n="uma__n"/></e>
     <e lm="dólar"><i>dólar</i><par n="uma__n"/></e>
@@ -2064,6 +2067,7 @@
 
     <e lm="redundáncia"><i>redundá</i><par n="violé/nsia__n"/></e>
     <e lm="independénsia"><i>independé</i><par n="violé/nsia__n"/></e>
+    <e lm="tendénsia"><i>tendé</i><par n="violé/nsia__n"/></e>
     <e lm="insidénsia"><i>insidé</i><par n="violé/nsia__n"/></e>
     <e lm="influénsia"><i>influé</i><par n="violé/nsia__n"/></e>
     <e lm="sekuénsia"><i>sekué</i><par n="violé/nsia__n"/></e>
