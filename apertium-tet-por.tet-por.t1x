@@ -77,6 +77,9 @@
     <def-cat n="det-pos">
       <cat-item tags="det.pos"/>
     </def-cat>
+    <def-cat n="predet">
+      <cat-item tags="predet.*"/>
+    </def-cat>
     <def-cat n="det">
       <cat-item tags="det.ind"/>
       <cat-item tags="det.qnt"/>
@@ -149,41 +152,45 @@
       <let><var n="v-chunk-n"/><lit v="v"/></let>
       <choose>
         <when>
-          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="seidauk"/></equal></test>
+          <test><equal caseless="yes"><clip pos="2" side="sl" part="lem"/><lit v="seidauk"/></equal></test>
           <let><var n="tam"/><lit-tag v="pri"/></let>
           <let><var n="tam-advl"/><lit v="^ainda&lt;adv&gt;$ ^não&lt;adv&gt;$ "/></let>
           <let><var n="v-chunk-n"/><lit v="a-a-v"/></let>
         </when>
         <when>
-          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="sei"/></equal></test>
+          <test><equal caseless="yes"><clip pos="2" side="sl" part="lem"/><lit v="lalika"/></equal></test>
+          <let><var n="tam"/><lit-tag v="inf"/></let>
+          <let><var n="tam-advl"/><concat><lit v="^não&lt;adv&gt;$ ^precisar"/><lit-tag v="vblex.pri.p3.sg"/><lit v="$ "/></concat></let>
+          <let><var n="v-chunk-n"/><lit v="a-v-inf"/></let>
+        </when>
+        <when>
+          <test><equal caseless="yes"><clip pos="2" side="sl" part="lem"/><lit v="keta"/></equal></test>
+          <let><var n="tam"/><lit-tag v="prs"/></let>
+          <let><var n="tam-advl"/><lit v="^não&lt;adv&gt;$ "/></let>
+          <let><var n="v-chunk-n"/><lit v="a-v"/></let>
+        </when>
+        <when>
+          <test><equal caseless="yes"><clip pos="2" side="sl" part="lem"/><lit v="sei"/></equal></test>
           <let><var n="tam"/><lit-tag v="fti"/></let>
         </when>
         <when>
-          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="sei"/></equal></test>
+          <test><equal caseless="yes"><clip pos="2" side="sl" part="lem"/><lit v="sei"/></equal></test>
           <let><var n="tam"/><lit-tag v="fti"/></let>
         </when>
         <when>
-          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="sei"/></equal></test>
-          <let><var n="tam"/><lit-tag v="fti"/></let>
-        </when>
-        <when>
-          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="sei"/></equal></test>
-          <let><var n="tam"/><lit-tag v="fti"/></let>
-        </when>
-        <when>
-          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="atu"/></equal></test>
+          <test><equal caseless="yes"><clip pos="2" side="sl" part="lem"/><lit v="atu"/></equal></test>
           <let><var n="tam"/><lit-tag v="prs"/></let>
         </when>
         <when>
-          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="ona"/></equal></test>
+          <test><equal caseless="yes"><clip pos="2" side="sl" part="lem"/><lit v="ona"/></equal></test>
           <let><var n="tam"/><lit-tag v="ifi"/></let>
         </when>
         <when>
-          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="tiha ona"/></equal></test>
+          <test><equal caseless="yes"><clip pos="2" side="sl" part="lem"/><lit v="tiha ona"/></equal></test>
           <let><var n="tam"/><lit-tag v="ifi"/></let>
         </when>
         <when>
-          <test><equal><clip pos="2" side="sl" part="lem"/><lit v="tiha"/></equal></test>
+          <test><equal caseless="yes"><clip pos="2" side="sl" part="lem"/><lit v="tiha"/></equal></test>
           <let><var n="tam"/><lit-tag v="ifi"/></let>
         </when>
         <otherwise>
@@ -827,6 +834,37 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: predet nom ida">
+      <pattern>
+        <pattern-item n="predet"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="ida"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord2">
+          <with-param pos="2"/>
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="z-n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="2" side="tl" part="a_gen"/></tag>
+              <tag><clip pos="2" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+                <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+                <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: nom num">
       <pattern>
         <pattern-item n="nom"/>
@@ -988,6 +1026,44 @@
             <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: nom adj adj">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord2">
+          <with-param pos="1"/>
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="f_concord2">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="n-a-a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_gen"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
@@ -1338,7 +1414,9 @@
               <tag><lit-tag v="PD"/></tag>
               <tag><lit-tag v="ND"/></tag>
             </tags>
-            <var n="tam-advl"/>
+            <get-case-from pos="1">
+              <var n="tam-advl"/>
+            </get-case-from>
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_vrb"/>

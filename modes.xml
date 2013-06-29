@@ -28,9 +28,13 @@
         <file name="apertium-tet-por.tet-por.t2x"/>
         <file name="tet-por.t2x.bin"/>
       </program>
-      <program name="apertium-postchunk">
+      <program name="apertium-interchunk">
         <file name="apertium-tet-por.tet-por.t3x"/>
         <file name="tet-por.t3x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-tet-por.tet-por.t4x"/>
+        <file name="tet-por.t4x.bin"/>
       </program>
       <program name="lt-proc $1">
         <file name="tet-por.autogen.bin"/>
@@ -67,9 +71,13 @@
         <file name="apertium-tet-por.tet-por.t2x"/>
         <file name="tet-por.t2x.bin"/>
       </program>
-      <program name="apertium-postchunk">
+      <program name="apertium-interchunk">
         <file name="apertium-tet-por.tet-por.t3x"/>
         <file name="tet-por.t3x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-tet-por.tet-por.t4x"/>
+        <file name="tet-por.t4x.bin"/>
       </program>
       <program name="lt-proc -d">
         <file name="tet-por.autogen.bin"/>
@@ -179,7 +187,7 @@
     </pipeline>
   </mode>
 
-  <mode name="tet-por-interchunk" install="no">
+  <mode name="tet-por-interchunk1" install="no">
     <pipeline>
       <program name="lt-proc -w">
         <file name="tet-por.automorf.bin"/>
@@ -204,6 +212,40 @@
       <program name="apertium-interchunk">
         <file name="apertium-tet-por.tet-por.t2x"/>
         <file name="tet-por.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="tet-por-interchunk2" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="tet-por.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tet-por.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="tet-por.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="tet-por.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="tet-por.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-tet-por.tet-por.t1x"/>
+        <file name="tet-por.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-tet-por.tet-por.t2x"/>
+        <file name="tet-por.t2x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-tet-por.tet-por.t3x"/>
+        <file name="tet-por.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -234,9 +276,13 @@
         <file name="apertium-tet-por.tet-por.t2x"/>
         <file name="tet-por.t2x.bin"/>
       </program>
-      <program name="apertium-postchunk">
+      <program name="apertium-interchunk">
         <file name="apertium-tet-por.tet-por.t3x"/>
         <file name="tet-por.t3x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-tet-por.tet-por.t4x"/>
+        <file name="tet-por.t4x.bin"/>
       </program>
     </pipeline>
   </mode>

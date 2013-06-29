@@ -10,6 +10,7 @@ LIST Det = det ;
 LIST Num = num ; 
 LIST Conj = cnjadv cnjsub ; 
 LIST Adv = adv ; 
+LIST Num = num ; 
 LIST Pron = prn ; 
 LIST Exist = vbhaver ; 
 LIST Vbmod = vbmod ;
@@ -72,3 +73,6 @@ SELECT V IF (-1C Pron) (0C V OR N);
 
 REMOVE Cla IF (0 Cla OR N);
 
+SELECT Conj IF (-1 Num) (0 Conj OR Adv) (1 Num);
+
+SELECT Adv IF (-1 Num) (0 Conj OR Adv);

@@ -110,6 +110,7 @@
     <e><p><l>ou<s n="cnjcoo"/></l><r>ou<s n="cnjcoo"/></r></p></e>
     <e><p><l>para<s n="cnjadv"/></l><r>para<s n="pr"/></r></p></e>
     <e><p><l>entretantu<s n="cnjadv"/></l><r>entretanto<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>resin<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
 
 
 
@@ -147,6 +148,7 @@
     <e><p><l>sein<s n="pr"/></l><r>sem<s n="pr"/></r></p></e>
     <e><p><l>tan<s n="pr"/></l><r>por<b/>causa<b/>de<s n="pr"/></r></p></e>
     <e><p><l>to'o<s n="pr"/></l><r>até<s n="pr"/></r></p></e>
+    <e><p><l>envezde<s n="pr"/></l><r>em<b/>vez<b/>de<s n="pr"/></r></p></e>
 
     <e><p><l>hahú<b/>kedas<b/>iha<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
 
@@ -184,6 +186,7 @@
 
     <e><p><l>ida-idak<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>kada<s n="predet"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>naran<s n="predet"/><s n="ind"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r></p></e>
 
     <e><p><l>tomak<s n="det"/><s n="qnt"/></l><r>inteiro<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
 
@@ -283,6 +286,7 @@
     <e><p><l>diskursu<s n="n"/></l><r>discurso<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>edukasaun<s n="n"/></l><r>educação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>poténsia<s n="n"/></l><r>potência<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>evidénsia<s n="n"/></l><r>evidência<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>tendénsia<s n="n"/></l><r>tendência<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>bee<s n="n"/></l><r>água<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>empregu<s n="n"/></l><r>emprego<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -504,6 +508,8 @@
     <e><p><l>buat<s n="n"/></l><r>coisa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>dala<s n="n"/></l><r>vez<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>debate<s n="n"/></l><r>debate<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>na'an<s n="n"/></l><r>carne<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>du'ut<s n="n"/></l><r>erva<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>miléniu<s n="n"/></l><r>milénio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>liurai<s n="n"/></l><r>rei<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>liurai-feto<s n="n"/></l><r>rainha<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -524,6 +530,7 @@
     <e><p><l>desentralizasaun<s n="n"/></l><r>descentralização<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>kanalizasaun<s n="n"/></l><r>canalização<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>desizaun<s n="n"/></l><r>decisão<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>konfuzaun<s n="n"/></l><r>confusão<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>determinasaun<s n="n"/></l><r>determinação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>devér<s n="n"/></l><r>dever<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>dezafiu<s n="n"/></l><r>desafio<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -547,6 +554,7 @@
     <e><p><l>divulgasaun<s n="n"/></l><r>divulgação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>doasaun<s n="n"/></l><r>doação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>dokumentu<s n="n"/></l><r>documento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>krise<s n="n"/></l><r>crise<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>dólar<s n="n"/></l><r>dólar<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>duplikasaun<s n="n"/></l><r>duplicação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>durasaun<s n="n"/></l><r>duração<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -883,6 +891,7 @@
     <e><p><l>potensialidade<s n="n"/></l><r>potencialidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>potensiál<s n="n"/></l><r>potencial<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>povu<s n="n"/></l><r>povo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>pasu<s n="n"/></l><r>passo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>pozisaun<s n="n"/></l><r>posição<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>preferénsia<s n="n"/></l><r>preferência<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>preokupasaun<s n="n"/></l><r>preocupação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -1141,6 +1150,7 @@
     <e><p><l>suprevizionamentu<s n="n"/></l><r>supervisão<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>tali<s n="n"/></l><r>corda<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>tanki<s n="n"/></l><r>tanque<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>kilo<s n="n"/></l><r>quilo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>teki<s n="n"/></l><r>osga<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>territóriu<s n="n"/></l><r>território<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>TV<s n="n"/></l><r>TV<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
@@ -1318,7 +1328,7 @@
     <e><p><l>lejitimidade<s n="n"/></l><r>legitimidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>lezislasaun<s n="n"/></l><r>legislação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>lian-inan<s n="n"/></l><r>língua<b/>materna<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-    <e><p><l>lian-tetun<s n="n"/></l><r>tetum<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>lian-tetun<s n="n"/></l><r>tétum<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>libertasaun<s n="n"/></l><r>libertação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>lisensa<s n="n"/></l><r>licença<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>majór<s n="n"/></l><r>major<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -1930,6 +1940,7 @@
     <e><p><l>FRETILIN<s n="np"/><s n="org"/></l><r>FRETILIN<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>FALINTIL<s n="np"/><s n="org"/></l><r>FALINTIL<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>EDTL<s n="np"/><s n="org"/></l><r>EDTL<s n="np"/><s n="al"/></r></p></e>
+    <e><p><l>INL<s n="np"/><s n="org"/></l><r>INL<s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>FDTL<s n="np"/><s n="org"/></l><r>FDTL<s n="np"/><s n="al"/></r></p></e> 
     <e><p><l>KSTTL<s n="np"/><s n="org"/></l><r>KSTTL<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>TVTL<s n="np"/><s n="org"/></l><r>TVTL<s n="np"/><s n="al"/></r></p></e>
@@ -2174,8 +2185,11 @@
 
     <e><p><l>investigativu<s n="adj"/></l><r>investigativo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>jornalístiku<s n="adj"/></l><r>jornalístico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>patriótiku<s n="adj"/></l><r>patriótico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>anti-patriótiku<s n="adj"/></l><r>anti-patriótico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>negativu<s n="adj"/></l><r>negativo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
 
+    <e><p><l>kle'an<s n="adj"/></l><r>profundo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>ativu<s n="adj"/></l><r>activo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>jenériku<s n="adj"/></l><r>genérico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>kapás<s n="adj"/></l><r>belo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -2189,6 +2203,7 @@
     <e><p><l>jerál<s n="adj"/></l><r>geral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>federál<s n="adj"/></l><r>federal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>ki'ik<s n="adj"/></l><r>pequeno<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>ki'ikoan<s n="adj"/></l><r>pequeno<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>mundiál<s n="adj"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>nasionál<s n="adj"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>permanenti<s n="adj"/></l><r>permanente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
@@ -2400,6 +2415,8 @@
     <e r="LR"><p><l>xinezu<s n="adj"/></l><r>chinês<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
 
 
+    <e><p><l>li'ur<s n="adj"/></l><r>exterior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e><p><l>li'ur<s n="adj"/></l><r>externo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>distritál<s n="adj"/></l><r>distrital<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>isin<b/>diak<s n="adj"/></l><r>são<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>mariñu<s n="adj"/></l><r>marinho<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -2521,7 +2538,9 @@
     <e><p><l>baruk<s n="adj"/></l><r>preguiçoso<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>españól<s n="adj"/></l><r>espanhol<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>familiár<s n="adj"/></l><r>familiar<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>baibain<s n="adj"/></l><r>normal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>famozu<s n="adj"/></l><r>famoso<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>naran<b/>boot<s n="adj"/></l><r>famoso<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>favorável<s n="adj"/></l><r>favorável<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>fenomenál<s n="adj"/></l><r>fenomenal<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>inosenti<s n="adj"/></l><r>inocente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
@@ -2597,6 +2616,7 @@
     <e><p><l>tin-tinan<s n="adv"/></l><r>cada<b/>mês<s n="adv"/></r></p></e>
     <e><p><l>fou-foun<s n="adv"/></l><r>inicialmente<s n="adv"/></r></p></e>
 
+    <e><p><l>naun<s n="adv"/></l><r>não<s n="adv"/></r></p></e> <!-- tipu: não-governmental -->
 
     <e><p><l>liu<s n="postadv"/></l><r>mais<s n="adv"/></r></p></e>
     <e><p><l>agora<s n="adv"/></l><r>agora<s n="adv"/></r></p></e>
@@ -2619,6 +2639,8 @@
     <e><p><l>teb-tebes<s n="adv"/></l><r>muito<s n="adv"/></r></p></e>
     <e><p><l>teb-tebes<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
 
+    <e><p><l>baibain<s n="adv"/></l><r>habitualmente<s n="adv"/></r></p></e>
+    <e><p><l>baibain<s n="adv"/></l><r>normalmente<s n="adv"/></r></p></e>
     <e><p><l>ativamente<s n="adv"/></l><r>ativamente<s n="adv"/></r></p></e>
     <e><p><l>dala<b/>barak<s n="adv"/></l><r>frequentemente<s n="adv"/></r></p></e>
     <e><p><l>dala<b/>ida<s n="adv"/></l><r>uma<b/>vez<s n="adv"/></r></p></e>
@@ -2682,11 +2704,14 @@
     <e><p><l>né<s n="adv"/></l><r>aqui<s n="adv"/></r></p></e>
 
 
+    <e><p><l>resin<s n="adv"/></l><r>mais<s n="adv"/></r></p></e>
     <e><p><l>kalan-kalan<s n="adv"/></l><r>cada<b/>noite<s n="adv"/></r></p></e>
     <e><p><l>teknikamente<s n="adv"/></l><r>tecnicamente<s n="adv"/></r></p></e>
+    <e><p><l>uluknanain<s n="adv"/></l><r>em<b/>primeiro<b/>lugar<s n="adv"/></r></p></e>
     <e><p><l>neneik-neik<s n="adv"/></l><r>passo<b/>a<b/>passo<s n="adv"/></r></p></e>
     <e><p><l>no<b/>nune'e<b/>karik<s n="adv"/></l><r>por<b/>conseguinte<s n="adv"/></r></p></e>
     <e><p><l>beibeik<s n="adv"/></l><r>muitas<b/>vezes<s n="adv"/></r></p></e>
+    <e><p><l>beibeik<s n="adv"/></l><r>regularmente<s n="adv"/></r></p></e>
     <e><p><l>iha<b/>vigór<s n="adv"/></l><r>em<b/>vigor<s n="adv"/></r></p></e>
     <e><p><l>ho<b/>didiak<s n="adv"/></l><r>com<b/>cuidado<s n="adv"/></r></p></e>
     <e><p><l>iha<b/>mundu<b/>tomak<s n="adv"/></l><r>em<b/>tudo<b/>o<b/>mundo<s n="adv"/></r></p></e>
@@ -2848,7 +2873,7 @@
     <e><p><l>partisipa<s n="vblex"/><s n="tv"/></l><r>participar<s n="vblex"/></r></p></e>
     <e><p><l>pasa<s n="vblex"/><s n="tv"/></l><r>passar<s n="vblex"/></r></p></e>
     <e><p><l>posibilita<s n="vblex"/><s n="tv"/></l><r>possibilitar<s n="vblex"/></r></p></e>
-    <e><p><l>produz<s n="vblex"/><s n="tv"/></l><r>produzir<s n="vblex"/></r></p></e>
+    <e><p><l>hamosu<s n="vblex"/><s n="tv"/></l><r>produzir<s n="vblex"/></r></p></e>
     <e><p><l>promove<s n="vblex"/><s n="tv"/></l><r>promover<s n="vblex"/></r></p></e>
     <e><p><l>proteja<s n="vblex"/><s n="tv"/></l><r>proteger<s n="vblex"/></r></p></e>
     <e><p><l>proteje<s n="vblex"/><s n="tv"/></l><r>proteger<s n="vblex"/></r></p></e>
@@ -2912,7 +2937,7 @@
     <e><p><l>foti<s n="vblex"/><s n="tv"/></l><r>alçar<s n="vblex"/></r></p></e>
     <e><p><l>fui<s n="vblex"/><s n="tv"/></l><r>despejar<s n="vblex"/></r></p></e>
     <e><p><l>gosta<s n="vblex"/><s n="tv"/></l><r>gostar<s n="vblex"/></r></p></e>
-    <e><p><l>habadak<s n="vblex"/><s n="tv"/></l><r>fazer<g><b/>mais<b/>corto</g><s n="vblex"/></r></p></e>
+    <e><p><l>habadak<s n="vblex"/><s n="tv"/></l><r>encurtar<s n="vblex"/></r></p></e>
     <e><p><l>hadomi<s n="vblex"/><s n="tv"/></l><r>amar<s n="vblex"/></r></p></e>
     <e><p><l>hakoi<s n="vblex"/><s n="tv"/></l><r>sepultar<s n="vblex"/></r></p></e>
     <e><p><l>hakoi<s n="vblex"/><s n="tv"/></l><r>enterrar<s n="vblex"/></r></p></e>
@@ -3193,10 +3218,11 @@
     <e><p><l>tanis<s n="vblex"/><s n="iv"/></l><r>chorar<s n="vblex"/></r></p></e>
     <e><p><l>tata<s n="vblex"/><s n="tv"/></l><r>morder<s n="vblex"/></r></p></e>
     <e><p><l>tauk<s n="vblex"/><s n="iv"/></l><r>temer<s n="vblex"/></r></p></e>
-    <e><p><l>tein<s n="vblex"/><s n="tv"/></l><r>cozinhar<s n="vblex"/></r></p></e>
+    <e><p><l>te'in<s n="vblex"/><s n="tv"/></l><r>cozinhar<s n="vblex"/></r></p></e>
     <e><p><l>tiru<s n="vblex"/><s n="tv"/></l><r>atirar<s n="vblex"/></r></p></e>
     <e><p><l>tiru<s n="vblex"/><s n="tv"/></l><r>disparar<s n="vblex"/></r></p></e>
     <e><p><l>tunu<s n="vblex"/><s n="tv"/></l><r>assar<s n="vblex"/></r></p></e>
+    <e><p><l>hakle'an<s n="vblex"/><s n="tv"/></l><r>aprofundar<s n="vblex"/></r></p></e>
     <e><p><l>tutan<s n="vblex"/><s n="tv"/></l><r>juntar<s n="vblex"/></r></p></e>
     <e><p><l>tutan<s n="vblex"/><s n="tv"/></l><r>ligar<s n="vblex"/></r></p></e>
     <e><p><l>xave<s n="vblex"/><s n="tv"/></l><r>trancar<s n="vblex"/></r></p></e>

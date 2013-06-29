@@ -9,6 +9,7 @@ all:
 	apertium-preprocess-transfer apertium-tet-por.tet-por.t1x tet-por.t1x.bin
 	apertium-preprocess-transfer apertium-tet-por.tet-por.t2x tet-por.t2x.bin
 	apertium-preprocess-transfer apertium-tet-por.tet-por.t3x tet-por.t3x.bin
+	apertium-preprocess-transfer apertium-tet-por.tet-por.t4x tet-por.t4x.bin
 	apertium-gen-modes modes.xml
 	cp *.mode modes/
 	lt-comp rl apertium-tet-por.por.dix tet-por.autogen.bin
