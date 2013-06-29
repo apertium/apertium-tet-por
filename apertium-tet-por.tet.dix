@@ -436,6 +436,7 @@
     <e lm="bain-hira"><i>bain-hira</i><par n="la'ós__cnjadv"/></e>
     <e lm="bain-hira" r="LR"><p><l>bainhira</l><r>bain-hira</r></p><par n="la'ós__cnjadv"/></e>
     <e lm="bain-hira" r="LR"><p><l>wainhira</l><r>bain-hira</r></p><par n="la'ós__cnjadv"/></e>
+    <e lm="bain-hira" r="LR"><p><l>wanhira</l><r>bain-hira</r></p><par n="la'ós__cnjadv"/></e>
     <e lm="se"><i>se</i><par n="la'ós__cnjadv"/></e>
     <e lm="maske"><i>maske</i><par n="la'ós__cnjadv"/></e>
     <e lm="maske" r="LR"><p><l>maski</l><r>maske</r></p><par n="la'ós__cnjadv"/></e>
@@ -1671,6 +1672,8 @@
     <e lm="kontribuisaun"><i>kontribuisaun</i><par n="uma__n"/></e>
     <e lm="koperasaun"><i>koperasaun</i><par n="uma__n"/></e>
     <e lm="povu"><i>pov</i><par n="pov/u__n"/></e>
+    <e lm="lasu"><i>las</i><par n="pov/u__n"/></e>
+    <e lm="aktu"><i>akt</i><par n="pov/u__n"/></e>
     <e lm="estadu"><i>estad</i><par n="pov/u__n"/></e>
     <e lm="turizmu"><i>turizm</i><par n="pov/u__n"/></e>
     <e lm="pasu"><i>pas</i><par n="pov/u__n"/></e>
@@ -3145,7 +3148,7 @@
     <e lm="liu"><i>liu</i><par n="liu__postadv"/></e>
     <e lm="liután"><i>liután</i><par n="liu__postadv"/></e>
     <e lm="liu tán"><i>liu<b/>tán</i><par n="liu__postadv"/></e>
-    <e lm="liu tán"><i>liu-tán</i><par n="liu__postadv"/></e>
+    <e lm="liu tán" r="LR"><p><l>liu-tán</l><r>liu<b/>tán</r></p><par n="liu__postadv"/></e>
     <e lm="demais"><i>demais</i><par n="liu__postadv"/></e>
     <e lm="tebes"><i>tebes</i><par n="liu__postadv"/></e>
     <e lm="tebe-tebes"><i>tebe-tebes</i><par n="liu__postadv"/></e>
@@ -3716,7 +3719,7 @@
     <e lm="kbi'it"><i>kbi'it</i><par n="hán__vblex"/></e>
     <e lm="kbi'it" r="LR"><p><l>kbiit</l><r>kbi'it</r></p><par n="hán__vblex"/></e>
     <e lm="kbi'it" r="LR"><p><l>kb'it</l><r>kbi'it</r></p><par n="hán__vblex"/></e>
-    <e lm="hakbit"><i>hakbit</i><par n="hán__vblex"/></e>
+    <!--<e lm="hakbit"><i>hakbit</i><par n="hán__vblex"/></e>-->
 
     <e lm="lansa"><i>lansa</i><par n="hán__vblex"/></e>
     <e lm="redús"><i>redús</i><par n="hán__vblex"/></e>
@@ -3776,6 +3779,7 @@
     <e lm="da'et"><i>da'et</i><par n="hán__vblex"/></e>
     <e lm="toka"><i>toka</i><par n="hán__vblex"/></e>
     <e lm="invade"><i>invade</i><par n="hán__vblex"/></e>
+    <e lm="vigora"><i>vigora</i><par n="hán__vblex"/></e>
     <e lm="adapta"><i>adapta</i><par n="hán__vblex"/></e>
     <e lm="hakle'an"><i>hakle'an</i><par n="hán__vblex"/></e>
     <e lm="asume"><i>asume</i><par n="hán__vblex"/></e>

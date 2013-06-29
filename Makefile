@@ -12,7 +12,9 @@ all:
 	apertium-preprocess-transfer apertium-tet-por.tet-por.t4x tet-por.t4x.bin
 	apertium-gen-modes modes.xml
 	cp *.mode modes/
-	lt-comp rl apertium-tet-por.por.dix tet-por.autogen.bin
+	if [[ ! -d .deps ]]; then mkdir .deps; fi
+	xsltproc --stringparam lang pt --stringparam side left filter.xsl apertium-tet-por.por.dix > .deps/por_PT.dix
+	lt-comp rl .deps/por_PT.dix tet-por.autogen.bin
 
 clean:
 	rm -rf *.bin *.mode modes
