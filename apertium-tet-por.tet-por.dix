@@ -149,6 +149,7 @@
     <e><p><l>tan<s n="pr"/></l><r>por<b/>causa<b/>de<s n="pr"/></r></p></e>
     <e><p><l>to'o<s n="pr"/></l><r>até<s n="pr"/></r></p></e>
     <e><p><l>envezde<s n="pr"/></l><r>em<b/>vez<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>tande'it<s n="pr"/></l><r>devido<b/>a<s n="pr"/></r></p></e>
 
     <e><p><l>hahú<b/>kedas<b/>iha<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
 
@@ -580,6 +581,7 @@
     <e><p><l>empreza<s n="n"/></l><r>empresa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>enerjia<s n="n"/></l><r>energia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>enkontru<s n="n"/></l><r>encontro<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>lorosa'e<s n="n"/></l><r>este<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>enseramentu<s n="n"/></l><r>encerramento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>entendimentu<s n="n"/></l><r>entendimento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>eselénsia<s n="n"/></l><r>excelência<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -2254,6 +2256,7 @@
     <e><p><l>doméstiku<s n="adj"/></l><r>doméstico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>efetivu<s n="adj"/></l><r>efectivo<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>ekonómiku<s n="adj"/></l><r>económico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>jeoekonómiku<s n="adj"/></l><r>geoeconómico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>elétriku<s n="adj"/></l><r>eléctrico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>emprezariál<s n="adj"/></l><r>empresarial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>esensiál<s n="adj"/></l><r>essencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
@@ -2268,6 +2271,8 @@
     <e><p><l>estruturál<s n="adj"/></l><r>estrutural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>europeiu<s n="adj"/></l><r>europeu<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>finál<s n="adj"/></l><r>final<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>da'et<s n="adj"/></l><r>contagioso<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>da'et<s n="adj"/></l><r>transmitível<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>finanseiru<s n="adj"/></l><r>financeiro<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>forte<s n="adj"/></l><r>forte<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>fundamentál<s n="adj"/></l><r>fundamental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
@@ -2599,6 +2604,7 @@
     <e><p><l>demais<s n="postadv"/></l><r>demais<s n="adv"/></r></p></e>
     <e><p><l>liu<b/>tán<s n="postadv"/></l><r>ainda<b/>mais<s n="adv"/></r></p></e>
     <e><p><l>liután<s n="postadv"/></l><r>ainda<b/>mais<s n="adv"/></r></p></e>
+    <e><p><l>liután<s n="postadv"/></l><r>mais<s n="adv"/></r></p></e>
     <e><p><l>lós<s n="postadv"/></l><r>direito<s n="adv"/></r></p></e>
     <e><p><l>ókos<s n="adv"/></l><r>abaixo<s n="adv"/></r></p></e>
     <e><p><l>ne'ebá<s n="adv"/></l><r>lá<s n="adv"/></r></p></e>
@@ -3026,13 +3032,15 @@
     <e><p><l>tulun<s n="vblex"/><s n="tv"/></l><r>ajudar<s n="vblex"/></r></p></e>
     <e><p><l>tún<s n="vblex"/><s n="iv"/></l><r>baixar<s n="vblex"/></r></p></e>
     <e><p><l>haka'as<s n="vblex"/><s n="iv"/></l><r>esforçar<s n="vblex"/></r></p></e>
-    <e><p><l>túr<s n="vblex"/><s n="iv"/></l><r>morar<s n="vblex"/></r></p></e>
-    <e><p><l>túr<s n="vblex"/><s n="iv"/></l><r>estar<g><b/>sentado</g><s n="vblex"/></r></p></e>
+    <e><p><l>tu'ur<s n="vblex"/><s n="iv"/></l><r>morar<s n="vblex"/></r></p></e>
+    <e><p><l>tu'ur<s n="vblex"/><s n="iv"/></l><r>sentar<s n="vblex"/></r></p></e>
+    <e><p><l>tu'ur<s n="vblex"/><s n="iv"/></l><r>estar<g><b/>sentado</g><s n="vblex"/></r></p></e>
     <e><p><l>xoke<s n="vblex"/><s n="tv"/></l><r>chocar<s n="vblex"/></r></p></e>
     <e><p><l>afeta<s n="vblex"/><s n="tv"/></l><r>afectar<s n="vblex"/></r></p></e>
     <e><p><l>maneja<s n="vblex"/><s n="tv"/></l><r>manejar<s n="vblex"/></r></p></e>
     <e><p><l>bazeia<s n="vblex"/><s n="tv"/></l><r>basear<s n="vblex"/></r></p></e>
     <e><p><l>kompara<s n="vblex"/><s n="tv"/></l><r>comparar<s n="vblex"/></r></p></e>
+    <e><p><l>hatu'ur<s n="vblex"/><s n="tv"/></l><r>colocar<s n="vblex"/></r></p></e>
     <e><p><l>sa'e<s n="vblex"/><s n="tv"/></l><r>levantar<s n="vblex"/></r></p></e>
 
     <e><p><l>halakon<s n="vblex"/><s n="tv"/></l><r>destruir<s n="vblex"/></r></p></e>
@@ -3229,11 +3237,13 @@
     <e><p><l>asume<s n="vblex"/><s n="tv"/></l><r>assumir<s n="vblex"/></r></p></e>
 
     <e><p><l>pezka<s n="vblex"/><s n="tv"/></l><r>pescar<s n="vblex"/></r></p></e>
+    <e><p><l>hahí'i<s n="vblex"/><s n="tv"/></l><r>elogiar<s n="vblex"/></r></p></e>
     <e><p><l>pega<s n="vblex"/><s n="tv"/></l><r>pegar<s n="vblex"/></r></p></e>
     <e><p><l>pexinxa<s n="vblex"/><s n="tv"/></l><r>pechinchar<s n="vblex"/></r></p></e>
     <e><p><l>perdoa<s n="vblex"/><s n="tv"/></l><r>perdoar<s n="vblex"/></r></p></e>
     <e><p><l>penetra<s n="vblex"/><s n="tv"/></l><r>penetrar<s n="vblex"/></r></p></e>
     <e><p><l>pesa<s n="vblex"/><s n="tv"/></l><r>pesar<s n="vblex"/></r></p></e>
+    <e><p><l>da'et<s n="vblex"/><s n="tv"/></l><r>transmitir<s n="vblex"/></r></p></e>
     <e><p><l>personaliza<s n="vblex"/><s n="tv"/></l><r>personalizar<s n="vblex"/></r></p></e>
     <e><p><l>perverte<s n="vblex"/><s n="tv"/></l><r>perverter<s n="vblex"/></r></p></e>
     <e><p><l>persuade<s n="vblex"/><s n="tv"/></l><r>persuadir<s n="vblex"/></r></p></e>

@@ -520,6 +520,8 @@
     <e lm="tuir"><i>tuir</i><par n="ba__pr"/></e>
     <e lm="tuir" r="LR"><p><l>tuiir</l><r>tuir</r></p><par n="ba__pr"/></e>
     <e lm="konformi"><i>konformi</i><par n="ba__pr"/></e>
+    <e lm="tande'it"><i>tande'it</i><par n="ba__pr"/></e>
+    <e lm="tande'it" r="LR"><p><l>tandeit</l><r>tande'it</r></p><par n="ba__pr"/></e>
     <e lm="hanesan"><i>hanesan</i><par n="ba__pr"/></e>
     <e lm="tan"><i>tan</i><par n="ba__pr"/></e>
 
@@ -989,6 +991,9 @@
     <e lm="inspetór"><i>inspetór</i><par n="uma__n"/></e>
     <e lm="eskritóriu"><i>eskritóriu</i><par n="uma__n"/></e>
     <e lm="favór"><i>favór</i><par n="uma__n"/></e>
+
+    <e lm="lorosa'e"><i>lorosa'e</i><par n="uma__n"/></e>
+
     <e lm="fundadór"><i>fundadór</i><par n="uma__n"/></e>
     <e lm="governadór"><i>governadór</i><par n="uma__n"/></e>
     <e lm="imperadór"><i>imperadór</i><par n="uma__n"/></e>
@@ -2766,6 +2771,9 @@
     <e lm="saudável"><i>saudável</i><par n="boot__adj"/></e>
     <e lm="isin diak"><i>isin<b/>diak</i><par n="boot__adj"/></e>
     <e lm="kamán"><i>kamán</i><par n="boot__adj"/></e>
+    <e lm="kamán" r="LR"><p><l>kamaan</l><r>kamán</r></p><par n="boot__adj"/></e>
+    <e lm="kamán" r="LR"><p><l>kma'an</l><r>kamán</r></p><par n="boot__adj"/></e>
+    <e lm="kamán" r="LR"><p><l>k'maan</l><r>kamán</r></p><par n="boot__adj"/></e>
     <e lm="ki'ik"><i>ki'ik</i><par n="boot__adj"/></e>
     <e lm="ki'ik" r="LR"><p><l>kik</l><r>ki'ik</r></p><par n="boot__adj"/></e>
     <e lm="ki'ik" r="LR"><p><l>kiik</l><r>ki'ik</r></p><par n="boot__adj"/></e>
@@ -3063,6 +3071,7 @@
     <e lm="eóliku"><i>eólik</i><par n="espesializad/u__adj"/></e>
     <e lm="akadémiku"><i>akadémik</i><par n="espesializad/u__adj"/></e>
     <e lm="térmiku"><i>térmik</i><par n="espesializad/u__adj"/></e>
+    <e lm="jeoekonómiku"><i>jeoekonómik</i><par n="espesializad/u__adj"/></e>
     <e lm="oseániku"><i>oseánik</i><par n="espesializad/u__adj"/></e>
     <e lm="paralelu"><i>paralel</i><par n="espesializad/u__adj"/></e>
     <e lm="másimu"><i>másim</i><par n="espesializad/u__adj"/></e>
@@ -3105,6 +3114,7 @@
     <e lm="pertinente"><i>pertinente</i><par n="boot__adj"/></e>
     <e lm="persistente"><i>persistente</i><par n="boot__adj"/></e>
     <e lm="persetivel"><i>persetivel</i><par n="boot__adj"/></e>
+    <e lm="da'et"><i>da'et</i><par n="boot__adj"/></e>
     <e lm="perpendikulár"><i>perpendikulár</i><par n="boot__adj"/></e>
 
     <e lm="pervertidu"><i>pervertid</i><par n="espesializad/u__adj"/></e>
@@ -3135,6 +3145,7 @@
     <e lm="liu"><i>liu</i><par n="liu__postadv"/></e>
     <e lm="liután"><i>liután</i><par n="liu__postadv"/></e>
     <e lm="liu tán"><i>liu<b/>tán</i><par n="liu__postadv"/></e>
+    <e lm="liu tán"><i>liu-tán</i><par n="liu__postadv"/></e>
     <e lm="demais"><i>demais</i><par n="liu__postadv"/></e>
     <e lm="tebes"><i>tebes</i><par n="liu__postadv"/></e>
     <e lm="tebe-tebes"><i>tebe-tebes</i><par n="liu__postadv"/></e>
@@ -3182,6 +3193,7 @@
     <e lm="de'it"><i>de'it</i><par n="agora__adv"/></e>
     <e lm="de'it" r="LR"><p><l>deit</l><r>de'it</r></p><par n="agora__adv"/></e>
     <e lm="de'it" r="LR"><p><l>dei't</l><r>de'it</r></p><par n="agora__adv"/></e>
+    <e lm="de'it" r="LR"><p><l>d'eit</l><r>de'it</r></p><par n="agora__adv"/></e>
     <e lm="agora"><i>agora</i><par n="agora__adv"/></e>
     <e lm="sempre"><i>sempre</i><par n="agora__adv"/></e>
     <e lm="karik"><i>karik</i><par n="agora__adv"/></e>
@@ -3315,7 +3327,10 @@
     <e lm="haka'as" r="LR"><p><l>hakaas</l><r>haka'as</r></p><par n="sai__vblex"/></e>
     <e lm="tauk"><i>tauk</i><par n="sai__vblex"/></e>
     <e lm="toba"><i>toba</i><par n="sai__vblex"/></e>
-    <e lm="túr"><i>túr</i><par n="sai__vblex"/></e>
+    <e lm="tu'ur"><i>tu'ur</i><par n="sai__vblex"/></e>
+    <e lm="tu'ur" r="LR"><p><l>túr</l><r>tu'ur</r></p><par n="sai__vblex"/></e>
+    <e lm="tu'ur" r="LR"><p><l>tuur</l><r>tu'ur</r></p><par n="sai__vblex"/></e>
+    <e lm="refleta"><i>refleta</i><par n="sai__vblex"/></e>
     <e lm="refleta"><i>refleta</i><par n="sai__vblex"/></e>
     <e lm="akontese"><i>akontese</i><par n="sai__vblex"/></e>
 
@@ -3758,18 +3773,21 @@
     <e lm="regula"><i>regula</i><par n="hán__vblex"/></e>
     <e lm="reune"><i>reune</i><par n="hán__vblex"/></e>
     <e lm="sujere"><i>sujere</i><par n="hán__vblex"/></e>
+    <e lm="da'et"><i>da'et</i><par n="hán__vblex"/></e>
     <e lm="toka"><i>toka</i><par n="hán__vblex"/></e>
     <e lm="invade"><i>invade</i><par n="hán__vblex"/></e>
     <e lm="adapta"><i>adapta</i><par n="hán__vblex"/></e>
     <e lm="hakle'an"><i>hakle'an</i><par n="hán__vblex"/></e>
     <e lm="asume"><i>asume</i><par n="hán__vblex"/></e>
     <e lm="terus"><i>terus</i><par n="hán__vblex"/></e>
+    <e lm="hatu'ur"><i>hatu'ur</i><par n="hán__vblex"/></e>
     <e lm="te'in"><i>te'in</i><par n="hán__vblex"/></e>
     <e lm="te'in" r="LR"><p><l>tein</l><r>te'in</r></p><par n="hán__vblex"/></e>
     <e lm="diversifika"><i>diversifika</i><par n="hán__vblex"/></e>
     <e lm="grava"><i>grava</i><par n="hán__vblex"/></e>
     <e lm="inventa"><i>inventa</i><par n="hán__vblex"/></e>
     <e lm="tradús"><i>tradús</i><par n="hán__vblex"/></e>
+    <e lm="hahí'i"><i>hahí'i</i><par n="hán__vblex"/></e>
     <e lm="transfere"><i>transfere</i><par n="hán__vblex"/></e>
 
     <e lm="pezka"><i>pezka</i><par n="hán__vblex"/></e>
