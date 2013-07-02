@@ -752,6 +752,7 @@
     <e lm="adat"><i>adat</i><par n="uma__n"/></e>
     <e lm="balada"><i>balada</i><par n="uma__n"/></e>
     <e lm="multa"><i>multa</i><par n="uma__n"/></e>
+    <e lm="kosta"><i>kosta</i><par n="uma__n"/></e>
     <e lm="mina"><i>mina</i><par n="uma__n"/></e>
     <e lm="dia"><i>dia</i><par n="uma__n"/></e>
     <e lm="loron"><i>loron</i><par n="uma__n"/></e>
@@ -1065,6 +1066,7 @@
     <e lm="kombinasaun"><i>kombinasaun</i><par n="uma__n"/></e>
     <e lm="intensaun"><i>intensaun</i><par n="uma__n"/></e>
     <e lm="kansaun"><i>kansaun</i><par n="uma__n"/></e>
+    <e lm="empeñu"><i>empeñ</i><par n="pov/u__n"/></e>
     <e lm="komparasaun"><i>komparasaun</i><par n="uma__n"/></e>
     <e lm="kompañia"><i>kompañia</i><par n="uma__n"/></e>
     <e lm="kondenasaun"><i>kondenasaun</i><par n="uma__n"/></e>
@@ -2511,6 +2513,7 @@
     <e lm="Amaro"><i>Amaro</i><par n="Simão__np"/></e>
     <e lm="Alfredo"><i>Alfredo</i><par n="Simão__np"/></e>
     <e lm="Hugo"><i>Hugo</i><par n="Simão__np"/></e>
+    <e lm="Cristiano"><i>Cristiano</i><par n="Simão__np"/></e>
     <e lm="Peter"><i>Peter</i><par n="Simão__np"/></e>
     <e lm="Kevin"><i>Kevin</i><par n="Simão__np"/></e>
     <e lm="Jacinto"><i>Jacinto</i><par n="Simão__np"/></e>
@@ -2962,6 +2965,7 @@
     <e lm="báziku"><i>bázik</i><par n="espesializad/u__adj"/></e>
     <e lm="demokrátiku"><i>demokrátik</i><par n="espesializad/u__adj"/></e>
     <e lm="diplomátiku"><i>diplomátik</i><par n="espesializad/u__adj"/></e>
+    <e lm="formadu"><i>formad</i><par n="espesializad/u__adj"/></e>
     <e lm="espesífiku"><i>espesífik</i><par n="espesializad/u__adj"/></e>
     <e lm="estratéjiku"><i>estratéjik</i><par n="espesializad/u__adj"/></e>
     <e lm="obrigatóriu"><i>obrigatóri</i><par n="espesializad/u__adj"/></e>
@@ -3781,6 +3785,7 @@
     <e lm="toka"><i>toka</i><par n="hán__vblex"/></e>
     <e lm="invade"><i>invade</i><par n="hán__vblex"/></e>
     <e lm="vigora"><i>vigora</i><par n="hán__vblex"/></e>
+    <e lm="limita"><i>limita</i><par n="hán__vblex"/></e>
     <e lm="adapta"><i>adapta</i><par n="hán__vblex"/></e>
     <e lm="hakle'an"><i>hakle'an</i><par n="hán__vblex"/></e>
     <e lm="asume"><i>asume</i><par n="hán__vblex"/></e>

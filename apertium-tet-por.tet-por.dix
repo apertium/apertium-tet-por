@@ -987,6 +987,7 @@
     <e><p><l>suku<s n="n"/></l><r>povo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>surat<s n="n"/></l><r>carta<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>talentu<s n="n"/></l><r>talento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>kosta<s n="n"/></l><r>costa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>tasi<b/>ibun<s n="n"/></l><r>costa<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>tasi<b/>ibun<s n="n"/></l><r>beira-mar<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>tasi<s n="n"/></l><r>mar<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -1065,6 +1066,7 @@
     <e><p><l>efikásia<s n="n"/></l><r>eficácia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>elementu<s n="n"/></l><r>elemento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>empeñamentu<s n="n"/></l><r>empenho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>empeñu<s n="n"/></l><r>empenho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>endividamentu<s n="n"/></l><r>endividamento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>eskritóriu<s n="n"/></l><r>escritório<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>espesialidade<s n="n"/></l><r>especialidade<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -1688,19 +1690,19 @@
     <e><p><l>Bulgária<s n="np"/><s n="top"/></l><r>Bulgária<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Dinamarka<s n="np"/><s n="top"/></l><r>Dinamarca<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Eslovákia<s n="np"/><s n="top"/></l><r>Eslováquia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Eslovénia<s n="np"/><s n="top"/></l><r>Eslovênia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Estónia<s n="np"/><s n="top"/></l><r>Estônia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Eslovénia<s n="np"/><s n="top"/></l><r>Eslovénia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Estónia<s n="np"/><s n="top"/></l><r>Estónia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Finlándia<s n="np"/><s n="top"/></l><r>Finlândia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Grésia<s n="np"/><s n="top"/></l><r>Grécia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Itália<s n="np"/><s n="top"/></l><r>Itália<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Izlándia<s n="np"/><s n="top"/></l><r>Islândia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Letónia<s n="np"/><s n="top"/></l><r>Letônia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Letónia<s n="np"/><s n="top"/></l><r>Letónia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Listenstaina<s n="np"/><s n="top"/></l><r>Liechtenstein<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Lituánia<s n="np"/><s n="top"/></l><r>Lituânia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Luxemburgu<s n="np"/><s n="top"/></l><r>Luxemburgo<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Malta<s n="np"/><s n="top"/></l><r>Malta<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Noruega<s n="np"/><s n="top"/></l><r>Noruega<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Polónia<s n="np"/><s n="top"/></l><r>Polônia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>Polónia<s n="np"/><s n="top"/></l><r>Polónia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Reinu<b/>Naklibur<s n="np"/><s n="top"/></l><r>Reino<b/>Unido<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Repúblika<b/>Xeka<s n="np"/><s n="top"/></l><r>República<b/>Checa<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Roménia<s n="np"/><s n="top"/></l><r>Roménia<s n="np"/><s n="top"/></r></p></e>
@@ -1727,7 +1729,7 @@
     <e><p><l>Líbanu<s n="np"/><s n="top"/></l><r>Líbano<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Malázia<s n="np"/><s n="top"/></l><r>Malásia<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Turkia<s n="np"/><s n="top"/></l><r>Turquia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-    <e><p><l>Vietname<s n="np"/><s n="top"/></l><r>Vietnã<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>Vietname<s n="np"/><s n="top"/></l><r>Vietname<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>Baukau<s n="np"/><s n="top"/></l><r>Baucau<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Dili<s n="np"/><s n="top"/></l><r>Díli<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Lautein<s n="np"/><s n="top"/></l><r>Lautém<s n="np"/><s n="top"/></r></p></e>
@@ -1782,6 +1784,7 @@
     <e><p><l>Dili<s n="np"/><s n="top"/></l><r>Díli<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Ilidio<s n="np"/><s n="ant"/><s n="m"/></l><r>Ilídio<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>ILO<s n="np"/><s n="org"/></l><r>OIT<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>OIT<s n="np"/><s n="org"/></l><r>OIT<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>KSTL<s n="np"/><s n="org"/></l><r>CSTL<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>RDTL<s n="np"/><s n="org"/></l><r>RDTL<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>SEPFOPE<s n="np"/><s n="org"/></l><r>SEPFOPE<s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r></p></e>
@@ -1915,6 +1918,7 @@
     <e><p><l>Liliana<s n="np"/><s n="ant"/><s n="f"/></l><r>Liliana<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Hillary<s n="np"/><s n="ant"/><s n="f"/></l><r>Hillary<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Hugo<s n="np"/><s n="ant"/><s n="m"/></l><r>Hugo<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Cristiano<s n="np"/><s n="ant"/><s n="m"/></l><r>Cristiano<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Henri<s n="np"/><s n="ant"/><s n="m"/></l><r>Henri<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Humberto<s n="np"/><s n="ant"/><s n="m"/></l><r>Humberto<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>James<s n="np"/><s n="ant"/><s n="m"/></l><r>James<s n="np"/><s n="ant"/></r></p></e>
@@ -1958,7 +1962,6 @@
     <e><p><l>UNOTIL<s n="np"/><s n="org"/></l><r>UNOTIL<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>UNPOL<s n="np"/><s n="org"/></l><r>UNPOL<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>UNTL<s n="np"/><s n="org"/></l><r>UNTL<s n="np"/><s n="al"/></r></p></e>
-    <e><p><l>OIT<s n="np"/><s n="org"/></l><r>OIT<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>PNTL<s n="np"/><s n="org"/></l><r>PNTL<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>RTTL<s n="np"/><s n="org"/></l><r>RTTL<s n="np"/><s n="al"/></r></p></e>
     <e><p><l>SEFOPE<s n="np"/><s n="org"/></l><r>SEFOPE<s n="np"/><s n="al"/></r></p></e>
@@ -2570,6 +2573,7 @@
     <e><p><l>respiratóriu<s n="adj"/></l><r>respiratório<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>tailandés<s n="adj"/></l><r>tailandês<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>transformadu<s n="adj"/></l><r>transformar<s n="vblex"/><s n="pp"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e><p><l>formadu<s n="adj"/></l><r>formar<s n="vblex"/><s n="pp"/><s n="GD"/><s n="ND"/></r></p></e>
 
     <e><p><l>periódiku<s n="adj"/></l><r>periódico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <e><p><l>pedagójiku<s n="adj"/></l><r>pedagógico<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -2730,7 +2734,7 @@
 
     <e><p><l>iha<s n="vbhaver"/></l><r>ter<s n="vbhaver"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e><p><l>bele<s n="vbmod"/></l><r>poder<s n="vbmod"/></r></p></e>
-    <e><p><l>tenke<s n="vbmod"/></l><r>ter<g><b/>de</g><s n="vblex"/></r></p></e>
+    <e><p><l>tenke<s n="vbmod"/></l><r>ter<g><b/>de</g><s n="vbhaver"/></r></p></e>
 
     <e><p><l>sai<s n="vblex"/><s n="iv"/></l><r>sair<s n="vblex"/></r></p></e>
     <e><p><l>ajuda<s n="vblex"/><s n="tv"/></l><r>ajudar<s n="vblex"/></r></p></e>
@@ -3115,7 +3119,7 @@
     <e><p><l>introdús<s n="vblex"/><s n="tv"/></l><r>introduzir<s n="vblex"/></r></p></e>
     <e><p><l>justifika<s n="vblex"/><s n="tv"/></l><r>justificar<s n="vblex"/></r></p></e>
     <e><p><l>kandidata<s n="vblex"/><s n="tv"/></l><r>candidatar<s n="vblex"/></r></p></e>
-    <e><p><l>klik<s n="vblex"/><s n="tv"/></l><r>fazer<g><b/>clic</g><s n="vblex"/></r></p></e>
+    <e><p><l>klik<s n="vblex"/><s n="tv"/></l><r>clicar<s n="vblex"/></r></p></e>
     <e><p><l>komesa<s n="vblex"/><s n="tv"/></l><r>começar<s n="vblex"/></r></p></e>
     <e><p><l>kompete<s n="vblex"/><s n="tv"/></l><r>competir<s n="vblex"/></r></p></e>
     <e><p><l>konklui<s n="vblex"/><s n="tv"/></l><r>concluir<s n="vblex"/></r></p></e>
@@ -3247,6 +3251,7 @@
     <e><p><l>pexinxa<s n="vblex"/><s n="tv"/></l><r>pechinchar<s n="vblex"/></r></p></e>
     <e><p><l>perdoa<s n="vblex"/><s n="tv"/></l><r>perdoar<s n="vblex"/></r></p></e>
     <e><p><l>mobiliza<s n="vblex"/><s n="tv"/></l><r>mobilizar<s n="vblex"/></r></p></e>
+    <e><p><l>limita<s n="vblex"/><s n="tv"/></l><r>limitar<s n="vblex"/></r></p></e>
     <e><p><l>penetra<s n="vblex"/><s n="tv"/></l><r>penetrar<s n="vblex"/></r></p></e>
     <e><p><l>pesa<s n="vblex"/><s n="tv"/></l><r>pesar<s n="vblex"/></r></p></e>
     <e><p><l>da'et<s n="vblex"/><s n="tv"/></l><r>transmitir<s n="vblex"/></r></p></e>
