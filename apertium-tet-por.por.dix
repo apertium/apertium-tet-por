@@ -71,13 +71,19 @@
     <sdef n="pmp"/>
     <sdef n="guio"/>
     <sdef n="infps"/>
+    <sdef n="apos"/>
     <sdef n="cuavb"/>
     <sdef n="percent"/>   
   </sdefs>
   <pardefs> 	  
+    <pardef n="cometa">
+      <e><re>[’'‘]</re><p><l/><r><s n="apos"/></r></p></e>
+    </pardef>
+
     <pardef n="numeros">
       <e><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>
       <e><re>[0-9]+([.,][0-9]+)?%</re><p><l/><r><s n="num"/><s n="percent"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?</re><p><l><b/>km²</l><r><b/>km²<s n="num"/></r></p></e>
     </pardef>
    
     <pardef n="emails">
@@ -17730,7 +17736,7 @@
     <e lm="aplicação"><i>aplicaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="apoio"><i>apoio</i><par n="livro__n"/></e>
     <e lm="aposentado"><i>aposentad</i><par n="adept/o__n"/></e>
-    <e lm="aposentadoria" r="LR"><i>aposentadoria</i><par n="abadia__n"/></e>
+    <e lm="aposentadoria"><i>aposentadoria</i><par n="abadia__n"/></e>
     <e lm="apresentação"><i>apresentaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="aposentação"><i>aposentaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="aprovação"><i>aprovaç</i><par n="aceitaç/ão__n"/></e>
@@ -28735,6 +28741,7 @@
     <e lm=""><par n="coma"/></e>
     <e lm=""><par n="paresq"/></e>
     <e lm=""><par n="pardret"/></e>
+    <e lm=""><par n="cometa"/></e>
     <e lm=""><par n="separ"/></e>
     <e lm=""><par n="guionet"/></e>
     <e lm=""><par n="emails"/></e>

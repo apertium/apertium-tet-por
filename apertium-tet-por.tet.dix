@@ -101,6 +101,7 @@
     <pardef n="numeros">
       <e><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>
       <e><re>[0-9]+([.,][0-9]+)?%</re><p><l/><r><s n="num"/><s n="percent"/></r></p></e>
+      <e><re>[0-9]+([.,][0-9]+)?</re><p><l><b/>km²</l><r><b/>km²<s n="num"/></r></p></e>
     </pardef>
 
 
@@ -753,6 +754,8 @@
     <e lm="lisan"><i>lisan</i><par n="uma__n"/></e>
     <e lm="adat"><i>adat</i><par n="uma__n"/></e>
     <e lm="balada"><i>balada</i><par n="uma__n"/></e>
+    <e lm="ektare"><i>ektare</i><par n="uma__n"/></e>
+    <e lm="dezignasaun"><i>dezignasaun</i><par n="uma__n"/></e>
     <e lm="multa"><i>multa</i><par n="uma__n"/></e>
     <e lm="kosta"><i>kosta</i><par n="uma__n"/></e>
     <e lm="mina"><i>mina</i><par n="uma__n"/></e>
@@ -2018,6 +2021,7 @@
     <e lm="banda"><i>banda</i><par n="uma__n"/></e>
     <e lm="tetun"><i>tetun</i><par n="uma__n"/></e>
     <e lm="tetun" r="LR"><p><l>tétum</l><r>tetun</r></p><par n="uma__n"/></e>
+    <e lm="lia-katalaun"><i>lia-katalaun</i><par n="uma__n"/></e>
     <e lm="lian-tetun"><i>lian-tetun</i><par n="uma__n"/></e>
     <e lm="lian-tetun" r="LR"><p><l>lian<b/>tetun</l><r>lian-tetun</r></p><par n="uma__n"/></e>
     <e lm="lian-tetun" r="LR"><p><l>lian<b/>tétum</l><r>lian-tetun</r></p><par n="uma__n"/></e>
@@ -3404,6 +3408,7 @@
     <e lm="koñese"><i>koñese</i><par n="hán__vblex"/></e>
     <e lm="koñese" r="LR"><p><l>koenese</l><r>koñese</r></p><par n="hán__vblex"/></e>
     <e lm="rekoñese"><i>rekoñese</i><par n="hán__vblex"/></e>
+    <e lm="rekoñese" r="LR"><p><l>rekonyese</l><r>rekoñese</r></p><par n="hán__vblex"/></e>
     <e lm="monu"><i>monu</i><par n="hán__vblex"/></e>
     <e lm="oho"><i>oho</i><par n="hán__vblex"/></e>
     <e lm="rona"><i>rona</i><par n="hán__vblex"/></e>

@@ -486,6 +486,7 @@
     <e><p><l>aprovasaun<s n="n"/></l><r>aprovação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>área<s n="n"/></l><r>área<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>arendamentu<s n="n"/></l><r>arrendamento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>ektare<s n="n"/></l><r>hectare<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>artigu<s n="n"/></l><r>artigo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>asembleia<s n="n"/></l><r>assembleia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>asesu<s n="n"/></l><r>acesso<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -552,6 +553,7 @@
     <e><p><l>direitór<s n="n"/></l><r>director<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>diretór<s n="n"/></l><r>director<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>diresaun<s n="n"/></l><r>direcção<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>dezignasaun<s n="n"/></l><r>designação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>dirijente<s n="n"/></l><r>dirigente<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>disiplina<s n="n"/></l><r>disciplina<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>dixiplina<s n="n"/></l><r>disciplina<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
@@ -723,6 +725,7 @@
     <e><p><l>foin-sa'e<s n="n"/></l><r>jovem<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
     <e><p><l>jullu<s n="n"/></l><r>julho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>juramentu<s n="n"/></l><r>juramento<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>lia-katalaun<s n="n"/></l><r>catalão<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>juventude<s n="n"/></l><r>juventude<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>kadiuk<s n="n"/></l><r>carangueijo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>kafé<s n="n"/></l><r>café<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -3300,6 +3303,7 @@
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><re>[.\?;:!"]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>[0-9]+([. ,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
+    <e><re>[0-9]+([. ,][0-9]+)*[.,]*</re><p><l><b/>km²<s n="num"/></l><r><b/>km²<s n="num"/></r></p></e> 
     <e><re>[0-9]+([. ,][0-9]+)*[.,]*%</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> 
 
 
