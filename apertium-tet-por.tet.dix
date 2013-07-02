@@ -788,6 +788,7 @@
     <e lm="reportajen"><i>reportajen</i><par n="uma__n"/></e>
     <e lm="presu"><i>pres</i><par n="pov/u__n"/></e>
     <e lm="kauza"><i>kauza</i><par n="uma__n"/></e>
+    <e lm="inveja"><i>inveja</i><par n="uma__n"/></e>
     <e lm="aumentu"><i>aument</i><par n="pov/u__n"/></e>
     <e lm="faze"><i>faze</i><par n="uma__n"/></e>
     <e lm="autorizasaun"><i>autorizasaun</i><par n="uma__n"/></e>
@@ -3707,6 +3708,7 @@
     <e lm="hamoe"><i>hamoe</i><par n="hán__vblex"/></e>
     <e lm="deside"><i>deside</i><par n="hán__vblex"/></e>
     <e lm="hamoos"><i>hamoos</i><par n="hán__vblex"/></e>
+    <e lm="preve"><i>preve</i><par n="hán__vblex"/></e>
     <e lm="deklara"><i>deklara</i><par n="hán__vblex"/></e>
     <e lm="hasa'e"><i>hasa'e</i><par n="hán__vblex"/></e>
     <e lm="hasa'e" r="LR"><p><l>hasae</l><r>hasa'e</r></p><par n="hán__vblex"/></e>
