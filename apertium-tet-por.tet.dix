@@ -3025,7 +3025,7 @@
     <e lm="inválidu"><i>inválid</i><par n="espesializad/u__adj"/></e>
     <e lm="íbridu"><i>íbrid</i><par n="espesializad/u__adj"/></e>
     <e lm="dezenvolvidu"><i>dezenvolvid</i><par n="espesializad/u__adj"/></e>
-    <e lm="iodu"><i>iod</i><par n="espesializad/u__adj"/></e>
+    <!--<e lm="iodu"><i>iod</i><par n="espesializad/u__adj"/></e>-->
     <e lm="sekundáriu"><i>sekundári</i><par n="espesializad/u__adj"/></e>
     <e lm="primáriu"><i>primári</i><par n="espesializad/u__adj"/></e>
     <e lm="estraordináriu"><i>estraordinári</i><par n="espesializad/u__adj"/></e>
