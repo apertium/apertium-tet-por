@@ -21199,6 +21199,7 @@
     <e lm="doze"><i>doze</i><par n="C__num"/></e>
     <e lm="duzentos"><i>duzent</i><par n="duzent/os__num"/></e>
     <e lm="mil"><i>mil</i><par n="mil__num"/></e>
+    <e lm="dois mil"><i>dois<b/>mil</i><par n="mil__num"/></e>
     <e lm="milhar"><i>milhar</i><par n="mil__num"/></e>
     <e lm="milhão"><i>milh</i><par n="bili/ão__num"/></e>
     <e lm="nove"><i>nove</i><par n="C__num"/></e>
@@ -21279,9 +21280,12 @@
     <e lm="trinta e um"><i>trinta<b/>e<b/>um</i><par n="cinquenta_e_um__num"/></e>
     <e lm="três"><i>três</i><par n="C__num"/></e>
     <e lm="um"><i>um</i><par n="cinquenta_e_um__num"/></e>
+    <e lm="cento e um"><i>cento<b/>e<b/>um</i><par n="cinquenta_e_um__num"/></e>
     <e lm="vinte"><i>vinte</i><par n="C__num"/></e>
+    <e lm="cento e vinte"><i>cento<b/>e<b/>vinte</i><par n="C__num"/></e>
     <e lm="vinte e cinco"><i>vinte<b/>e<b/>cinco</i><par n="C__num"/></e>
     <e lm="vinte e dois"><i>vinte<b/>e<b/>d</i><par n="cinquenta_e_d/ois__num"/></e>
+    <e lm="cento e dois"><i>cento<b/>e<b/>d</i><par n="cinquenta_e_d/ois__num"/></e>
     <e lm="vinte e nove"><i>vinte<b/>e<b/>nove</i><par n="C__num"/></e>
     <e lm="vinte e oito"><i>vinte<b/>e<b/>oito</i><par n="C__num"/></e>
     <e lm="vinte e quatro"><i>vinte<b/>e<b/>quatro</i><par n="C__num"/></e>

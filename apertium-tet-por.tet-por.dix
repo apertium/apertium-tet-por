@@ -248,11 +248,11 @@
 
 
     <e><p><l>atus<s n="num"/></l><r>cem<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>atus<b/>ida<s n="num"/></l><r>cem<b/>e<b/>um<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>atus<b/>ida<s n="num"/></l><r>cento<b/>e<b/>um<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
     <e><p><l>atus<b/>rua<s n="num"/></l><r>duzentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
     <e><p><l>rihun<s n="num"/></l><r>mil<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e><p><l>rihun<b/>ida<s n="num"/></l><r>mil<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>rihun<b/>rua<s n="num"/></l><r>dois<b/>mil<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>rihun<b/>ida<s n="num"/></l><r>mil<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e><p><l>rihun<b/>rua<s n="num"/></l><r>dois<b/>mil<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>rihun<b/>ba<b/>rihun<s n="num"/></l><r>mil<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <e><p><l>tokon<s n="num"/></l><r>milhão<s n="num"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -270,8 +270,8 @@
     <e><p><l>sia-nulu<s n="num"/></l><r>noventa<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
 
     <e><p><l>lima-nulu<b/>resin<b/>ida<s n="num"/></l><r>cinquenta<b/>e<b/>um<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e><p><l>atus<b/>ida<b/>rua<s n="num"/></l><r>cento<b/>e<b/>dois<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e><p><l>atus<b/>ida<b/>rua-nulu<s n="num"/></l><r>cento<b/>vinte<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>atus<b/>ida<b/>rua<s n="num"/></l><r>cento<b/>e<b/>dois<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
+    <e><p><l>atus<b/>ida<b/>rua-nulu<s n="num"/></l><r>cento<b/>e<b/>vinte<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
     <e><p><l>atus<b/>ba<b/>atus<s n="num"/></l><r>cento<s n="num"/><s n="mf"/><s n="pl"/></r></p></e>
 
     <e><p><l>novi<s n="num"/></l><r>nove<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
