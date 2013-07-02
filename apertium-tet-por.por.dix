@@ -16579,6 +16579,7 @@
     <e lm="na contramão"><i>na<b/>contramão</i><par n="Op.Cit.__adv"/></e>
     <e lm="na largura"><i>na<b/>largura</i><par n="Op.Cit.__adv"/></e>
     <e lm="na mosca"><i>na<b/>mosca</i><par n="Op.Cit.__adv"/></e>
+    <e lm="na mesma ocasião"><i>na<b/>mesma<b/>ocasião</i><par n="Op.Cit.__adv"/></e>
     <e lm="na praça"><i>na<b/>praça</i><par n="Op.Cit.__adv"/></e>
     <e lm="nacionalmente"><i>nacionalmente</i><par n="Op.Cit.__adv"/></e>
     <e lm="nada"><i>nada</i><par n="Op.Cit.__adv"/></e>
@@ -16623,7 +16624,7 @@
     <e lm="nobremente"><i>nobremente</i><par n="Op.Cit.__adv"/></e>
     <e lm="nocionalmente"><i>nocionalmente</i><par n="Op.Cit.__adv"/></e>
     <e lm="nocivamente"><i>nocivamente</i><par n="Op.Cit.__adv"/></e>
-    <e lm="nomeadamente" r="LR"><i>nomeadamente</i><par n="Op.Cit.__adv"/></e>
+    <e lm="nomeadamente"><i>nomeadamente</i><par n="Op.Cit.__adv"/></e>
     <e lm="nominalmente"><i>nominalmente</i><par n="Op.Cit.__adv"/></e>
     <e lm="nonagesimamente"><i>nonagesimamente</i><par n="Op.Cit.__adv"/></e>
     <e lm="normalmente"><i>normalmente</i><par n="Op.Cit.__adv"/></e>
@@ -16821,6 +16822,7 @@
     <e lm="por milagre"><i>por<b/>milagre</i><par n="Op.Cit.__adv"/></e>
     <e lm="por que"><i>por<b/>que</i><par n="aonde__adv"/></e>
     <e lm="por sua vez"><i>por<b/>sua<b/>vez</i><par n="Op.Cit.__adv"/></e>
+    <e lm="por outro lado"><i>por<b/>outro<b/>lado</i><par n="Op.Cit.__adv"/></e>
     <e lm="por todos os lados"><i>por<b/>todos<b/>os<b/>lados</i><par n="Op.Cit.__adv"/></e>
     <e lm="por um fio"><i>por<b/>um<b/>fio</i><par n="Op.Cit.__adv"/></e>
     <e lm="por um triz"><i>por<b/>um<b/>triz</i><par n="Op.Cit.__adv"/></e>
@@ -22668,7 +22670,7 @@
     <e lm="cinecartaz" r="LR"><i>cinecartaz</i><par n="amor__n"/></e>
     <e lm="variante"><i>variante</i><par n="abadia__n"/></e>
     <e lm="BD"><i>BD</i><par n="AFP__n"/></e>
-    <e lm="endereço" r="LR"><i>endereço</i><par n="livro__n"/></e>
+    <e lm="endereço"><i>endereço</i><par n="livro__n"/></e>
     <e lm="link"><i>link</i><par n="livro__n"/></e>
     <e lm="Leiria"><i>Leiria</i><par n="AC__np"/></e>
     <e lm="Aveiro"><i>Aveiro</i><par n="AC__np"/></e>

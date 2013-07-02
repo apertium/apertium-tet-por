@@ -130,6 +130,8 @@
     <e><p><l>entre<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
     <e><p><l>hosi<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
     <e><p><l>liu<b/>hosi<s n="pr"/></l><r>através<b/>de<s n="pr"/></r></p></e>
+
+
     <e><p><l>hanesan<s n="pr"/></l><r>como<s n="pr"/></r></p></e>
     <e><p><l>ho<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
     <e><p><l>kona-ba<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
@@ -359,6 +361,7 @@
     <e><p><l>traballu<s n="n"/></l><r>trabalho<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>kombate<s n="n"/></l><r>combate<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>rai-henek<s n="n"/></l><r>areia<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+    <e><p><l>rai-tetuk<s n="n"/></l><r>planície<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>rai<b/>liur<s n="n"/></l><r>estrangeiro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>terra<b/>liur<s n="n"/></l><r>estrangeiro<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     <e><p><l>konseitu<s n="n"/></l><r>conceito<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -1339,6 +1342,7 @@
     <e><p><l>libertasaun<s n="n"/></l><r>libertação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>lisensa<s n="n"/></l><r>licença<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>majór<s n="n"/></l><r>major<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+    <e><p><l>sorin<s n="n"/></l><r>lado<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>manipulasaun<s n="n"/></l><r>manipulação<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
     <e><p><l>mapa<s n="n"/></l><r>mapa<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
     <e><p><l>masin<s n="n"/></l><r>sal<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
@@ -2727,6 +2731,9 @@
     <e><p><l>iha<b/>vigór<s n="adv"/></l><r>em<b/>vigor<s n="adv"/></r></p></e>
     <e><p><l>ho<b/>didiak<s n="adv"/></l><r>com<b/>cuidado<s n="adv"/></r></p></e>
     <e><p><l>iha<b/>mundu<b/>tomak<s n="adv"/></l><r>em<b/>tudo<b/>o<b/>mundo<s n="adv"/></r></p></e>
+    <e><p><l>iha<b/>sorin<b/>seluk<s n="adv"/></l><r>por<b/>outro<b/>lado<s n="adv"/></r></p></e>
+    <e><p><l>hosi<b/>sorin<b/>seluk<s n="adv"/></l><r>por<b/>outro<b/>lado<s n="adv"/></r></p></e>
+    <e><p><l>iha<b/>fatin<b/>hanesan<s n="adv"/></l><r>na<b/>mesma<b/>ocasião<s n="adv"/></r></p></e>
 
 
 

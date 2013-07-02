@@ -481,6 +481,7 @@
     <e lm="mai"><i>mai</i><par n="ba__pr"/></e>
     <e lm="hahú"><i>hahú</i><par n="ba__pr"/></e>
     <e lm="hahú" r="LR"><p><l>hahu'u</l><r>hahú</r></p><par n="ba__pr"/></e>
+    <e lm="hahú" r="LR"><p><l>hahuu</l><r>hahú</r></p><par n="ba__pr"/></e>
     <e lm="hosi"><i>hosi</i><par n="ba__pr"/></e>
     <e lm="hosi" r="LR"><p><l>husi</l><r>hosi</r></p><par n="ba__pr"/></e>
     <e lm="liu hosi"><i>liu<b/>hosi</i><par n="ba__pr"/></e>
@@ -605,6 +606,7 @@
     <e lm="ne'ebé" r="LR"><p><l>nebé</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <e lm="ne'ebé" r="LR"><p><l>ne'eb'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <e lm="ne'ebé" r="LR"><p><l>ne'<b/>eb'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
+    <e lm="ne'ebé" r="LR"><p><l>ne'<b/>ebé</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <e lm="ne'ebé" r="LR"><p><l>nebe'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <e lm="ne'ebé" r="LR"><p><l>neb'é</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
     <e lm="ne'ebé" r="LR"><p><l>ne'bé</l><r>ne'ebé</r></p><par n="ne'ebé__rel"/></e>
@@ -1262,6 +1264,7 @@
     <e lm="rai"><i>rai</i><par n="uma__n"/></e>
     <e lm="rai lakan"><i>rai<b/>lakan</i><par n="uma__n"/></e>
     <e lm="rai-henek"><i>rai-henek</i><par n="uma__n"/></e>
+    <e lm="rai-tetuk"><i>rai-tetuk</i><par n="uma__n"/></e>
     <e lm="rai tarutu"><i>rai<b/>tarut</i><par n="pov/u__n"/></e>
     <e lm="rai liur"><i>rai<b/>liur</i><par n="uma__n"/></e>
     <e lm="rai liur" r="LR"><p><l>rai-liur</l><r>rai<b/>liur</r></p><par n="uma__n"/></e>
@@ -1588,6 +1591,7 @@
     <e lm="finansa"><i>finansa</i><par n="uma__n"/></e>
     <e lm="ezekusaun"><i>ezekusaun</i><par n="uma__n"/></e>
     <e lm="konsultasaun"><i>konsultasaun</i><par n="uma__n"/></e>
+    <e lm="sorin"><i>sorin</i><par n="uma__n"/></e>
     <e lm="koordenasaun"><i>koordenasaun</i><par n="uma__n"/></e>
     <e lm="lideransa"><i>lideransa</i><par n="uma__n"/></e>
     <e lm="materiál"><i>materiál</i><par n="uma__n"/></e>
@@ -1824,6 +1828,7 @@
     <e lm="dotasaun"><i>dotasaun</i><par n="uma__n"/></e>
     <e lm="libertasaun"><i>libertasaun</i><par n="uma__n"/></e>
     <e lm="sub-estasaun"><i>sub-estasaun</i><par n="uma__n"/></e>
+    <e lm="sub-estasaun" r="LR"><p><l>sub<b/>estasaun</l><r>sub-estasaun</r></p><par n="uma__n"/></e>
     <e lm="estasaun"><i>estasaun</i><par n="uma__n"/></e>
     <e lm="reputasaun"><i>reputasaun</i><par n="uma__n"/></e>
     <e lm="prezervasaun"><i>prezervasaun</i><par n="uma__n"/></e>
@@ -3181,7 +3186,7 @@
     <e lm="entaun"><i>entaun</i><par n="agora__adv"/></e>
 
     <e lm="laran"><i>laran</i><par n="agora__adv"/></e>
-    <e lm="sorin"><i>sorin</i><par n="agora__adv"/></e>
+    <!--<e lm="sorin"><i>sorin</i><par n="agora__adv"/></e>-->
     <e lm="ókos"><i>ókos</i><par n="agora__adv"/></e>
     <e lm="kotuk"><i>kotuk</i><par n="agora__adv"/></e>
     <e lm="le'et"><i>le'et</i><par n="agora__adv"/></e>
@@ -3222,6 +3227,7 @@
     <e lm="lor-loron" r="LR"><p><l>loroloron</l><r>lor-loron</r></p><par n="agora__adv"/></e>
     <e lm="lor-loron" r="LR"><p><l>loro-loron</l><r>lor-loron</r></p><par n="agora__adv"/></e>
     <e lm="lor-loron" r="LR"><p><l>loron-loron</l><r>lor-loron</r></p><par n="agora__adv"/></e>
+    <e lm="lor-loron" r="LR"><p><l>lorloron</l><r>lor-loron</r></p><par n="agora__adv"/></e>
     <e lm="semana-semana"><i>semana-semana</i><par n="agora__adv"/></e>
     <e lm="kalan-kalan"><i>kalan-kalan</i><par n="agora__adv"/></e>
     <e lm="fula-fulan"><i>fula-fulan</i><par n="agora__adv"/></e>
@@ -3286,6 +3292,9 @@
     <e lm="ho didiak"><i>ho<b/>didiak</i><par n="naturalmente__adv"/></e>
     <e lm="iha vigór"><i>iha<b/>vigór</i><par n="naturalmente__adv"/></e>
     <e lm="iha mundu tomak"><i>iha<b/>mundu<b/>tomak</i><par n="naturalmente__adv"/></e>
+    <e lm="iha sorin seluk"><i>iha<b/>sorin<b/>seluk</i><par n="naturalmente__adv"/></e>
+    <e lm="hosi sorin seluk"><i>hosi<b/>sorin<b/>seluk</i><par n="naturalmente__adv"/></e>
+    <e lm="iha fatin hanesan"><i>iha<b/>fatin<b/>hanesan</i><par n="naturalmente__adv"/></e>
 
 
     <!-- SECTION: Verbs -->
@@ -3572,6 +3581,7 @@
 
     <e lm="hahú"><i>hahú</i><par n="hán__vblex"/></e>
     <e lm="hahú" r="LR"><p><l>hahu'u</l><r>hahú</r></p><par n="hán__vblex"/></e>
+    <e lm="hahú" r="LR"><p><l>hahuu</l><r>hahú</r></p><par n="hán__vblex"/></e>
     <e lm="hetan"><i>hetan</i><par n="hán__vblex"/></e>
     <e lm="evita"><i>evita</i><par n="hán__vblex"/></e>
     <e lm="hadi'a"><i>hadi'a</i><par n="hán__vblex"/></e>
