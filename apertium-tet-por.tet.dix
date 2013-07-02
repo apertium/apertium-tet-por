@@ -3154,6 +3154,7 @@
     <e lm="hori-bain-hira"><i>hori-bain-hira</i><par n="oinsá__adv"/></e>
     <e lm="tanba sá"><i>tanba<b/>sá</i><par n="oinsá__adv"/></e>
     <e lm="tanba sá" r="LR"><p><l>tamba<b/>sá</l><r>tanba<b/>sá</r></p><par n="oinsá__adv"/></e>
+    <e lm="tanba sá" r="LR"><p><l>tambasá</l><r>tanba<b/>sá</r></p><par n="oinsá__adv"/></e>
     <e lm="tanba sá" r="LR"><p><l>tanbasá</l><r>tanba<b/>sá</r></p><par n="oinsá__adv"/></e>
 
     <e lm="liu"><i>liu</i><par n="liu__postadv"/></e>
@@ -3804,6 +3805,7 @@
     <e lm="fó hanoin"><i>fó<b/>hanoin</i><par n="hán__vblex"/></e>
     <e lm="terus"><i>terus</i><par n="hán__vblex"/></e>
     <e lm="hatu'ur"><i>hatu'ur</i><par n="hán__vblex"/></e>
+    <e lm="hatu'ur" r="LR"><p><l>hatuur</l><r>hatu'ur</r></p><par n="hán__vblex"/></e>
     <e lm="te'in"><i>te'in</i><par n="hán__vblex"/></e>
     <e lm="te'in" r="LR"><p><l>tein</l><r>te'in</r></p><par n="hán__vblex"/></e>
     <e lm="diversifika"><i>diversifika</i><par n="hán__vblex"/></e>
